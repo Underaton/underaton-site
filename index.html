@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Under a Ton</title>
+<meta name="description" content="The best UK deals under £100 from M&amp;S, Currys, Argos, John Lewis, Debenhams and more, sorted into under £20, under £50 and under £100. Checked every morning.">
+<link rel="canonical" href="https://underaton.co.uk/">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%276%27 fill=%27%23ffd23f%27/%3E%3Ctext x=%2716%27 y=%2724%27 font-size=%2722%27 text-anchor=%27middle%27 font-family=%27Arial Black,Arial%27 fill=%27%2315171c%27%3E%C2%A3%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  /* Layout: price-tag cards in a grid, filters in a sticky bar, tiers as the main navigation */
+  --paper: #f5f6f2;
+  --card: #ffffff;
+  --ink: #15171c;
+  --muted: #5c6270;
+  --line: #dcdfd6;
+  --tag: #ffd23f;
+  --t20: #0f7b6c;
+  --t50: #c4520e;
+  --t100: #5b3fb0;
+  --font-display: "Archivo Black", "Arial Black", Impact, sans-serif;
+  --font-body: "IBM Plex Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-num: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #121419; --card: #1b1e25; --ink: #eef0ea; --muted: #a3a9b6; --line: #2c3039;
+    --tag: #ffd23f; --t20: #3cc4ae; --t50: #f08a4b; --t100: #a58cf5; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #121419; --card: #1b1e25; --ink: #eef0ea; --muted: #a3a9b6; --line: #2c3039;
+  --tag: #ffd23f; --t20: #3cc4ae; --t50: #f08a4b; --t100: #a58cf5; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
+a { color: inherit; }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+header.top { padding-top: 28px; padding-bottom: 18px; display: grid; gap: 10px; }
+.brandrow { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.logo { font-family: var(--font-display); font-size: clamp(30px, 6vw, 46px); letter-spacing: -0.5px; line-height: 1; margin: 0; }
+.logo .pound { background: var(--tag); color: #15171c; padding: 0 8px; border-radius: 6px; margin-left: 4px; }
+.lede { margin: 0; color: var(--muted); max-width: 62ch; text-wrap: balance; }
+.meta { display: flex; gap: 12px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+.adnote { font-size: 13px; border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; background: var(--card); max-width: 72ch; }
+.bar { position: sticky; top: 0; z-index: 5; background: var(--paper); border-bottom: 1px solid var(--line); padding: 10px 0; }
+.bar .wrap { display: grid; gap: 10px; }
+.tiers { display: flex; gap: 8px; flex-wrap: wrap; }
+.tier { font: 600 14px var(--font-body); border: 2px solid var(--ink); background: var(--card); color: var(--ink); border-radius: 999px; padding: 6px 14px; cursor: pointer; display: inline-flex; gap: 8px; align-items: center; }
+.tier[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.tier .n { font-family: var(--font-num); font-size: 12px; opacity: .75; }
+.filters { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; font-size: 13px; }
+.filters label { color: var(--muted); }
+select { font: 500 14px var(--font-body); padding: 6px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }
+button:focus-visible, select:focus-visible, a:focus-visible { outline: 3px solid var(--tag); outline-offset: 2px; }
+main { padding-top: 22px; padding-bottom: 40px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px; }
+.deal { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px; display: grid; gap: 10px; grid-template-rows: auto auto 1fr auto auto; position: relative; }
+.deal::before { content: ""; position: absolute; left: 0; top: 14px; bottom: 14px; width: 4px; border-radius: 0 4px 4px 0; background: var(--tc); }
+.deal.t20 { --tc: var(--t20); } .deal.t50 { --tc: var(--t50); } .deal.t100 { --tc: var(--t100); }
+.drow { display: flex; justify-content: space-between; gap: 8px; align-items: center; font-size: 13px; }
+.retailer { font-weight: 600; }
+.chip { font: 600 12px var(--font-body); border-radius: 999px; padding: 2px 9px; color: var(--tc); border: 1.5px solid var(--tc); white-space: nowrap; }
+.title { margin: 0; font-size: 16px; font-weight: 600; line-height: 1.35; }
+.note { margin: 0; color: var(--muted); font-size: 13px; }
+.price { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; font-family: var(--font-num); font-variant-numeric: tabular-nums; }
+.now { font-size: 26px; font-weight: 600; }
+.was { color: var(--muted); text-decoration: line-through; font-size: 14px; }
+.off { background: var(--tag); color: #15171c; font-weight: 600; font-size: 13px; padding: 1px 7px; border-radius: 4px; }
+.go { display: block; text-align: center; text-decoration: none; font-weight: 600; background: var(--ink); color: var(--paper); border-radius: 8px; padding: 10px 12px; }
+.go:hover { opacity: .9; }
+.small { font-size: 12px; color: var(--muted); }
+.empty { background: var(--card); border: 1px dashed var(--line); border-radius: 12px; padding: 28px; text-align: left; max-width: 640px; }
+.empty h2 { font-family: var(--font-display); font-size: 22px; margin: 0 0 6px; font-weight: 400; }
+footer { border-top: 1px solid var(--line); padding-top: 22px; padding-bottom: 40px; font-size: 13px; color: var(--muted); }
+footer p { max-width: 72ch; margin: 0 0 8px; }
+/* Studio */
+.studio h2 { font-family: var(--font-display); font-weight: 400; font-size: 24px; margin: 0 0 4px; }
+.studio section { margin-bottom: 28px; }
+.post { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; display: grid; gap: 8px; margin-bottom: 12px; }
+.post pre { white-space: pre-wrap; margin: 0; font: 14px/1.5 var(--font-body); }
+.post .drow button { font: 600 13px var(--font-body); border: 1px solid var(--ink); background: transparent; color: var(--ink); border-radius: 6px; padding: 4px 10px; cursor: pointer; }
+.tbl { width: 100%; border-collapse: collapse; font-size: 14px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+.tbl th, .tbl td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--line); }
+.tblwrap { overflow-x: auto; }
+.ok { color: var(--t20); font-weight: 600; } .no { color: var(--muted); }
+.navlink { font-size: 13px; color: var(--muted); }
+@media (prefers-reduced-motion: no-preference) { .deal { transition: transform .15s; } .deal:hover { transform: translateY(-2px); } }
+@media (max-width: 420px) { .wrap { padding: 0 16px; } .now { font-size: 22px; } }
+</style>
+</head>
+<body>
+<header class="top wrap">
+  <div class="brandrow">
+    <h1 class="logo">Under a Ton<span class="pound">£</span></h1>
+  </div>
+  <p class="lede">The best UK deals under £100 from M&amp;S, Currys, Argos, John Lewis, Debenhams and more, sorted into under £20, under £50 and under £100. Checked every morning from Black Friday to the January sales.</p>
+  <div class="meta"><span id="updated">Loading deals…</span><span id="count"></span></div>
+  <p class="adnote"><strong>#ad</strong> We may earn a commission if you buy through links on this page, at no extra cost to you. Prices change fast, so always check the price at checkout.</p>
+</header>
+
+<div class="bar" id="bar">
+  <div class="wrap">
+    <div class="tiers" role="group" aria-label="Price tier">
+      <button class="tier" data-tier="all" aria-pressed="true">All deals <span class="n" id="n-all">0</span></button>
+      <button class="tier" data-tier="20" aria-pressed="false">Under £20 <span class="n" id="n-20">0</span></button>
+      <button class="tier" data-tier="50" aria-pressed="false">Under £50 <span class="n" id="n-50">0</span></button>
+      <button class="tier" data-tier="100" aria-pressed="false">Under £100 <span class="n" id="n-100">0</span></button>
+    </div>
+    <div class="filters">
+      <label for="retailer">Retailer</label>
+      <select id="retailer"><option value="all">All retailers</option></select>
+      <label for="sort">Sort</label>
+      <select id="sort">
+        <option value="saving">Biggest saving</option>
+        <option value="low">Lowest price</option>
+        <option value="new">Newest</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<main class="wrap" id="deals-view">
+  <div class="grid" id="grid"></div>
+</main>
+
+<main class="wrap studio" id="studio-view" hidden>
+  <p><a class="navlink" href="#deals">← Back to deals</a></p>
+  <section>
+    <h2>Today's posts</h2>
+    <p class="small" id="postsdate">Written by the Content Studio agent each morning. Copy, paste, post.</p>
+    <div id="posts"></div>
+  </section>
+  <section>
+    <h2>Video scripts</h2>
+    <div id="scripts"></div>
+  </section>
+  <section>
+    <h2>Affiliate links</h2>
+    <p class="small" id="awinstatus"></p>
+    <div class="tblwrap"><table class="tbl"><thead><tr><th>Retailer</th><th>Network</th><th>Status</th></tr></thead><tbody id="links"></tbody></table></div>
+  </section>
+</main>
+
+<footer class="wrap">
+  <p>Under a Ton lists deals found on retailers' own websites. We don't sell anything ourselves; you buy direct from the retailer, and their prices, delivery and returns policies apply.</p>
+  <p>Deals marked with an end date disappear when they expire. Spotted a price that's changed? It may have sold out or ended since our last check.</p>
+</footer>
+
+<script>
+(function () {
+  var state = { tier: "all", retailer: "all", sort: "saving" };
+  var data = { deals: [], updated: null };
+  var settings = { retailers: [], awinPublisherId: "" };
+  var posts = { posts: [], scripts: [] };
+
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  function safeUrl(u) { try { var x = new URL(u); return (x.protocol === "https:" || x.protocol === "http:") ? x.href : null; } catch (e) { return null; } }
+  function money(n) { var v = Number(n); return isFinite(v) ? "£" + (v % 1 === 0 ? v.toFixed(0) : v.toFixed(2)) : ""; }
+  function tierOf(p) { p = Number(p); if (!(p > 0)) return null; if (p <= 20) return "20"; if (p <= 50) return "50"; if (p <= 100) return "100"; return null; }
+  function saving(d) { var w = Number(d.was), p = Number(d.price); return (w > p && p > 0) ? Math.round((1 - p / w) * 100) : 0; }
+  function live(d) { if (!d.ends) return true; var t = Date.parse(d.ends); return isNaN(t) || t > Date.now(); }
+  function fmtTime(iso) { var t = Date.parse(iso); if (isNaN(t)) return ""; return new Date(t).toLocaleString("en-GB", { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/London" }); }
+
+  function affiliateLink(d) {
+    var url = safeUrl(d.url); if (!url) return null;
+    var r = (settings.retailers || []).filter(function (x) { return x.name === d.retailer; })[0];
+    if (!r || !r.approved || !r.template) return url;
+    if (r.template.indexOf("{awin}") > -1) { if (!settings.awinPublisherId) return url; }
+    var out = r.template.split("{awin}").join(encodeURIComponent(settings.awinPublisherId || "")).split("{url}").join(encodeURIComponent(url));
+    return safeUrl(out) || url;
+  }
+
+  function visibleDeals() {
+    return (data.deals || []).filter(function (d) { return live(d) && tierOf(d.price) && safeUrl(d.url); });
+  }
+
+  function renderCounts(all) {
+    var c = { all: all.length, "20": 0, "50": 0, "100": 0 };
+    all.forEach(function (d) { c[tierOf(d.price)]++; });
+    ["all", "20", "50", "100"].forEach(function (k) { document.getElementById("n-" + k).textContent = c[k]; });
+  }
+
+  function renderRetailers(all) {
+    var sel = document.getElementById("retailer");
+    var names = {}; all.forEach(function (d) { names[d.retailer] = true; });
+    var list = Object.keys(names).sort();
+    sel.innerHTML = '<option value="all">All retailers</option>' + list.map(function (n) { return '<option value="' + esc(n) + '">' + esc(n) + "</option>"; }).join("");
+    sel.value = list.indexOf(state.retailer) > -1 ? state.retailer : "all";
+    if (sel.value === "all") state.retailer = "all";
+  }
+
+  function renderDeals() {
+    var all = visibleDeals();
+    renderCounts(all);
+    var list = all.filter(function (d) {
+      return (state.tier === "all" || tierOf(d.price) === state.tier) && (state.retailer === "all" || d.retailer === state.retailer);
+    });
+    list.sort(function (a, b) {
+      if (state.sort === "low") return Number(a.price) - Number(b.price);
+      if (state.sort === "new") return (Date.parse(b.added) || 0) - (Date.parse(a.added) || 0);
+      return saving(b) - saving(a);
+    });
+    var grid = document.getElementById("grid");
+    if (!list.length) {
+      grid.innerHTML = '<div class="empty"><h2>' + (all.length ? "No deals match these filters" : "Today's first deals land at 7am") + "</h2><p>" +
+        (all.length ? "Try another tier or retailer." : "Our deal scout checks M&amp;S, Currys, Argos, John Lewis, Debenhams and more every morning, and only lists deals it has checked on the retailer's own site.") + "</p></div>";
+      return;
+    }
+    grid.innerHTML = list.map(function (d) {
+      var t = tierOf(d.price), off = saving(d), href = affiliateLink(d);
+      return '<article class="deal t' + t + '">' +
+        '<div class="drow"><span class="retailer">' + esc(d.retailer) + '</span><span class="chip">Under £' + t + "</span></div>" +
+        '<h3 class="title">' + esc(d.title) + "</h3>" +
+        (d.note ? '<p class="note">' + esc(d.note) + "</p>" : "<span></span>") +
+        '<div class="price"><span class="now">' + money(d.price) + "</span>" + (off ? '<span class="was">' + money(d.was) + '</span><span class="off">' + off + "% off</span>" : "") + "</div>" +
+        '<div><a class="go" href="' + esc(href) + '" target="_blank" rel="sponsored noopener noreferrer">See deal at ' + esc(d.retailer) + "</a>" +
+        '<p class="small">' + (d.checked ? "Price checked " + esc(fmtTime(d.checked)) : "") + (d.ends ? " · Ends " + esc(fmtTime(d.ends)) : "") + "</p></div>" +
+        "</article>";
+    }).join("");
+  }
+
+  function copyBtn(text) { return '<button type="button" data-copy="' + esc(text) + '">Copy</button>'; }
+
+  function renderStudio() {
+    document.getElementById("postsdate").textContent = posts.date ? "Written by the Content Studio agent for " + posts.date + ". Copy, paste, post." : "The Content Studio agent writes these each morning.";
+    var p = posts.posts || [];
+    document.getElementById("posts").innerHTML = p.length ? p.map(function (x) {
+      return '<div class="post"><div class="drow"><strong>' + esc(x.channel) + "</strong>" + copyBtn(x.text) + "</div><pre>" + esc(x.text) + "</pre></div>";
+    }).join("") : '<p class="small">No posts yet. They appear after the first morning run.</p>';
+    var s = posts.scripts || [];
+    document.getElementById("scripts").innerHTML = s.length ? s.map(function (x) {
+      var body = (x.hook ? "HOOK: " + x.hook + "\n" : "") + (x.body || "") + (x.cta ? "\nCTA: " + x.cta : "");
+      return '<div class="post"><div class="drow"><strong>' + esc(x.title || "Script") + "</strong>" + copyBtn(body) + "</div><pre>" + esc(body) + "</pre></div>";
+    }).join("") : '<p class="small">No scripts yet.</p>';
+    document.getElementById("awinstatus").textContent = settings.awinPublisherId ? "Awin publisher ID is set." : "Awin publisher ID not set yet. Links go straight to retailers (no commission) until you're approved and add it.";
+    document.getElementById("links").innerHTML = (settings.retailers || []).map(function (r) {
+      var on = r.approved && r.template && (r.template.indexOf("{awin}") < 0 || settings.awinPublisherId);
+      return "<tr><td>" + esc(r.name) + "</td><td>" + esc(r.network || "To find") + '</td><td class="' + (on ? "ok" : "no") + '">' + (on ? "Earning" : "Not earning yet") + "</td></tr>";
+    }).join("");
+  }
+
+  function route() {
+    var h = location.hash.replace("#", "");
+    var studio = h === "studio";
+    document.getElementById("studio-view").hidden = !studio;
+    document.getElementById("deals-view").hidden = studio;
+    document.getElementById("bar").hidden = studio;
+    var map = { "under-20": "20", "under-50": "50", "under-100": "100" };
+    if (map[h]) setTier(map[h]);
+    if (studio) renderStudio();
+  }
+
+  function setTier(t) {
+    state.tier = t;
+    document.querySelectorAll(".tier").forEach(function (b) { b.setAttribute("aria-pressed", String(b.getAttribute("data-tier") === t)); });
+    renderDeals();
+  }
+
+  document.querySelectorAll(".tier").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var t = b.getAttribute("data-tier");
+      setTier(t);
+      try { history.replaceState(null, "", t === "all" ? "#deals" : "#under-" + t); } catch (e) {}
+    });
+  });
+  document.getElementById("retailer").addEventListener("change", function (e) { state.retailer = e.target.value; renderDeals(); });
+  document.getElementById("sort").addEventListener("change", function (e) { state.sort = e.target.value; renderDeals(); });
+  document.addEventListener("click", function (e) {
+    var b = e.target.closest && e.target.closest("button[data-copy]");
+    if (!b) return;
+    var text = b.getAttribute("data-copy");
+    try {
+      navigator.clipboard.writeText(text).then(function () { b.textContent = "Copied"; setTimeout(function () { b.textContent = "Copy"; }, 1500); }, function () { b.textContent = "Select and copy"; });
+    } catch (err) { b.textContent = "Select and copy"; }
+  });
+  window.addEventListener("hashchange", route);
+
+  function getJSON(name) { return fetch(name + "?v=" + Date.now(), { cache: "no-store" }).then(function (r) { if (!r.ok) throw new Error(name); return r.json(); }); }
+
+  Promise.all([getJSON("deals.json").catch(function () { return null; }), getJSON("settings.json").catch(function () { return null; }), getJSON("posts.json").catch(function () { return null; })])
+    .then(function (res) {
+      if (res[0]) data = res[0];
+      if (res[1]) settings = res[1];
+      if (res[2]) posts = res[2];
+      var all = visibleDeals();
+      document.getElementById("updated").textContent = data.updated ? "Updated " + fmtTime(data.updated) : "";
+      document.getElementById("count").textContent = all.length + (all.length === 1 ? " live deal" : " live deals");
+      renderRetailers(all);
+      renderDeals();
+      route();
+    });
+})();
+</script>
+</body>
+</html>
