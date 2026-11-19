@@ -112,9 +112,9 @@
     },
     {
       "name": "Sephora",
-      "network": "Awin or Partnerize (check)",
+      "network": "Partnerize",
       "approved": false,
-      "template": "https://www.awin1.com/cread.php?awinmid=22773&awinaffid={awin}&ued={url}"
+      "template": ""
     },
     {
       "name": "LOOKFANTASTIC",
