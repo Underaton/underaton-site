@@ -277,6 +277,7 @@ footer p { margin: 0; max-width: 80ch; }
 <footer class="wrap">
   <p><strong>#ad</strong> Under a Ton earns a commission if you buy through some links on this site, at no extra cost to you. It never changes which deals we list.</p>
   <p>We don't sell anything ourselves: you buy direct from the retailer, and their prices, delivery and returns apply. Prices change quickly, so check the price at checkout. Deals with an end date disappear when they expire.</p>
+  <p>Follow @underaton: <span id="follow"></span></p>
   <p>© 2026 Under a Ton · underaton.co.uk</p>
 </footer>
 
@@ -463,7 +464,10 @@ footer p { margin: 0; max-width: 80ch; }
     if (safeUrl(s.whatsapp)) b.push('<a href="' + esc(s.whatsapp) + '" target="_blank" rel="noopener">Join on WhatsApp</a>');
     if (safeUrl(s.telegram)) b.push('<a class="alt" href="' + esc(s.telegram) + '" target="_blank" rel="noopener">Join on Telegram</a>');
     if (safeUrl(s.tiktok)) b.push('<a class="alt" href="' + esc(s.tiktok) + '" target="_blank" rel="noopener">Follow on TikTok</a>');
-    if (safeUrl(s.instagram)) b.push('<a class="alt" href="' + esc(s.instagram) + '" target="_blank" rel="noopener">Follow on Instagram</a>');
+    if (safeUrl(s.instagram)) b.push('<a class="alt" href="' + esc(s.instagram) + '" target="_blank" rel="noopener">Follow @underaton on Instagram</a>');
+    if (safeUrl(s.threads)) b.push('<a class="alt" href="' + esc(s.threads) + '" target="_blank" rel="noopener">Follow @underaton on Threads</a>');
+    var f = document.getElementById("follow");
+    if (f) f.innerHTML = [["Instagram", s.instagram], ["Threads", s.threads], ["TikTok", s.tiktok], ["WhatsApp", s.whatsapp], ["Telegram", s.telegram]].filter(function (x) { return safeUrl(x[1]); }).map(function (x) { return '<a href="' + esc(x[1]) + '" target="_blank" rel="noopener">' + x[0] + "</a>"; }).join(" · ");
     document.getElementById("joinbtns").innerHTML = b.length ? b.join("") : '<a href="#under-20">Browse deals under £20</a><a class="alt" href="#for-her">Gift ideas for her</a>';
   }
   function countdown() {
