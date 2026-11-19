@@ -10,7 +10,17 @@
    "was": 16.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Black Friday price, half price"
+   "note": "Black Friday price, half price",
+   "category": "fashion",
+   "for": [
+    "her",
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "secret-santa",
+    "birthday"
+   ]
   },
   {
    "id": "dunelm-sherpa-funnel-neck-top",
@@ -21,7 +31,16 @@
    "was": 18.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Black Friday price, half price"
+   "note": "Black Friday price, half price",
+   "category": "fashion",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "secret-santa",
+    "birthday"
+   ]
   },
   {
    "id": "next-ghd-bodyguard-50ml",
@@ -32,7 +51,18 @@
    "was": 12.5,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "ghd brand discount"
+   "note": "ghd brand discount",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "mothers-day",
+    "secret-santa",
+    "thank-you"
+   ]
   },
   {
    "id": "deb-urban-decay-primer-potion",
@@ -43,7 +73,18 @@
    "was": 24.0,
    "checked": "2026-11-17T22:27:30Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Save 30%"
+   "note": "Save 30%",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "mothers-day",
+    "secret-santa",
+    "thank-you"
+   ]
   },
   {
    "id": "next-ghd-bodyguard-120ml",
@@ -54,7 +95,18 @@
    "was": 24.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "ghd brand discount"
+   "note": "ghd brand discount",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "mothers-day",
+    "secret-santa",
+    "thank-you"
+   ]
   },
   {
    "id": "ms-flat-head-rechargeable-lamp",
@@ -65,7 +117,17 @@
    "was": 25.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "30% off selected lighting"
+   "note": "30% off selected lighting",
+   "category": "home",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "secret-santa",
+    "thank-you"
+   ]
   },
   {
    "id": "boots-sanctuary-spa-signature-treats",
@@ -76,7 +138,20 @@
    "was": 22.5,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "In stock"
+   "note": "In stock",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "anniversary",
+    "valentines",
+    "mothers-day",
+    "secret-santa",
+    "thank-you"
+   ]
   },
   {
    "id": "argos-belkin-20000mah-power-bank",
@@ -87,7 +162,18 @@
    "was": 27.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Stock depends on postcode"
+   "note": "Stock depends on postcode",
+   "category": "tech",
+   "for": [
+    "her",
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "fathers-day",
+    "secret-santa"
+   ]
   },
   {
    "id": "boots-vera-wang-princess-edt-100ml",
@@ -98,7 +184,20 @@
    "was": 66.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Online only, save £47.01"
+   "note": "Online only, save £47.01",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "anniversary",
+    "valentines",
+    "mothers-day",
+    "secret-santa",
+    "thank-you"
+   ]
   },
   {
    "id": "deb-nyx-smushy-lip-kit",
@@ -108,7 +207,18 @@
    "price": 19.49,
    "was": 25.99,
    "checked": "2026-11-17T22:27:30Z",
-   "added": "2026-11-17T22:27:30Z"
+   "added": "2026-11-17T22:27:30Z",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "mothers-day",
+    "secret-santa",
+    "thank-you"
+   ]
   },
   {
    "id": "ms-gooseneck-task-table-lamp",
@@ -119,7 +229,17 @@
    "was": 40.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Half price selected lighting"
+   "note": "Half price selected lighting",
+   "category": "home",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "secret-santa",
+    "thank-you"
+   ]
   },
   {
    "id": "jl-lancome-hypnose-mascara",
@@ -130,7 +250,17 @@
    "was": 31.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "30% off Black Friday makeup"
+   "note": "30% off Black Friday makeup",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "mothers-day",
+    "thank-you"
+   ]
   },
   {
    "id": "very-jimmy-choo-flash-edp-60ml",
@@ -141,7 +271,19 @@
    "was": 57.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Price checked on Very listing page, save £34"
+   "note": "Price checked on Very listing page, save £34",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "anniversary",
+    "valentines",
+    "mothers-day",
+    "thank-you"
+   ]
   },
   {
    "id": "very-jimmy-choo-fever-edp-60ml",
@@ -152,7 +294,19 @@
    "was": 72.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Price checked on Very listing page, save £43"
+   "note": "Price checked on Very listing page, save £43",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "anniversary",
+    "valentines",
+    "mothers-day",
+    "thank-you"
+   ]
   },
   {
    "id": "ms-rechargeable-jute-table-lamp",
@@ -163,7 +317,16 @@
    "was": 59.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Half price selected lighting"
+   "note": "Half price selected lighting",
+   "category": "home",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "thank-you"
+   ]
   },
   {
    "id": "currys-tefal-blendforce",
@@ -174,7 +337,16 @@
    "was": 59.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable"
+   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "ms-glass-fluted-table-lamp",
@@ -185,7 +357,15 @@
    "was": 69.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Half price selected lighting"
+   "note": "Half price selected lighting",
+   "category": "home",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming"
+   ]
   },
   {
    "id": "jl-bosch-ergomixx-hand-blender",
@@ -196,7 +376,16 @@
    "was": 69.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Black Friday price, half price"
+   "note": "Black Friday price, half price",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "dunelm-2-tier-heated-airer",
@@ -207,7 +396,15 @@
    "was": 75.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Black Friday price, half price"
+   "note": "Black Friday price, half price",
+   "category": "home",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming"
+   ]
   },
   {
    "id": "very-marc-jacobs-dot-edp-100ml",
@@ -218,7 +415,18 @@
    "was": 104.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Price checked on Very listing page, save £64"
+   "note": "Price checked on Very listing page, save £64",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "anniversary",
+    "valentines",
+    "mothers-day"
+   ]
   },
   {
    "id": "jl-le-creuset-oven-dish-set",
@@ -229,7 +437,16 @@
    "was": 69.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "40% off Le Creuset"
+   "note": "40% off Le Creuset",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "argos-russell-hobbs-7l-slow-cooker",
@@ -240,7 +457,16 @@
    "was": 69.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Stock depends on postcode"
+   "note": "Stock depends on postcode",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "currys-delonghi-icona-kettle",
@@ -251,7 +477,16 @@
    "was": 114.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable"
+   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "very-marc-jacobs-perfect-edt-100ml",
@@ -262,7 +497,18 @@
    "was": 111.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Price checked on Very listing page, save £64.25"
+   "note": "Price checked on Very listing page, save £64.25",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "anniversary",
+    "valentines",
+    "mothers-day"
+   ]
   },
   {
    "id": "boots-ck-eternity-men-edp-100ml",
@@ -273,7 +519,18 @@
    "was": 72.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "20% off selected fragrance"
+   "note": "20% off selected fragrance",
+   "category": "beauty",
+   "for": [
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "anniversary",
+    "valentines",
+    "fathers-day"
+   ]
   },
   {
    "id": "currys-nutribullet-900-deluxe",
@@ -284,7 +541,16 @@
    "was": 89.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable"
+   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "jl-le-creuset-skinny-grill",
@@ -295,7 +561,16 @@
    "was": 115.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "40% off Le Creuset"
+   "note": "40% off Le Creuset",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "very-marshall-minor-iv-earbuds",
@@ -306,7 +581,17 @@
    "was": 119.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Price checked on Very listing page, save £50"
+   "note": "Price checked on Very listing page, save £50",
+   "category": "tech",
+   "for": [
+    "her",
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "fathers-day"
+   ]
   },
   {
    "id": "currys-kitchenaid-traditional-kettle",
@@ -317,7 +602,16 @@
    "was": 129.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable"
+   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "deb-stylpro-led-mask",
@@ -327,7 +621,18 @@
    "price": 75.0,
    "was": 100.0,
    "checked": "2026-11-17T22:27:30Z",
-   "added": "2026-11-17T22:27:30Z"
+   "added": "2026-11-17T22:27:30Z",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "anniversary",
+    "valentines",
+    "mothers-day"
+   ]
   },
   {
    "id": "boots-lancome-la-vie-est-belle-50ml",
@@ -338,7 +643,18 @@
    "was": 97.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "20% off selected fragrance"
+   "note": "20% off selected fragrance",
+   "category": "beauty",
+   "for": [
+    "her"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "anniversary",
+    "valentines",
+    "mothers-day"
+   ]
   },
   {
    "id": "currys-kenwood-my-pizzeria",
@@ -349,7 +665,16 @@
    "was": 149.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable"
+   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "dunelm-4-tier-heated-airer",
@@ -360,7 +685,15 @@
    "was": 165.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Black Friday price, half price"
+   "note": "Black Friday price, half price",
+   "category": "home",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming"
+   ]
   },
   {
    "id": "jl-toniebox-2-starter",
@@ -371,7 +704,15 @@
    "was": 109.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Price matched, save 20%"
+   "note": "Price matched, save 20%",
+   "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
   },
   {
    "id": "very-beats-solo-4-pink",
@@ -382,7 +723,17 @@
    "was": 199.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Price checked on Very listing page, save £110"
+   "note": "Price checked on Very listing page, save £110",
+   "category": "tech",
+   "for": [
+    "her",
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "fathers-day"
+   ]
   },
   {
    "id": "argos-jbl-quantum-650",
@@ -393,7 +744,17 @@
    "was": 129.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Stock depends on postcode"
+   "note": "Stock depends on postcode",
+   "category": "tech",
+   "for": [
+    "him",
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "fathers-day"
+   ]
   },
   {
    "id": "currys-philips-3000-dual-air-fryer-white",
@@ -404,7 +765,16 @@
    "was": 179.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable"
+   "note": "Price from T3 Currys Black Friday roundup (updated 17 Nov), retailer page unavailable",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "argos-ninja-af200-air-fryer",
@@ -415,7 +785,16 @@
    "was": 159.99,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Black Friday price; stock depends on postcode"
+   "note": "Black Friday price; stock depends on postcode",
+   "category": "kitchen",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming",
+    "birthday"
+   ]
   },
   {
    "id": "argos-vax-spotwash",
@@ -426,7 +805,15 @@
    "was": 200.0,
    "checked": "2026-11-19T06:35:16Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Half price; stock depends on postcode"
+   "note": "Half price; stock depends on postcode",
+   "category": "home",
+   "for": [
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "housewarming"
+   ]
   }
  ]
 }

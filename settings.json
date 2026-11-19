@@ -2,15 +2,71 @@
   "brand": "Under a Ton",
   "awinPublisherId": "",
   "retailers": [
-    {"name": "M&S", "network": "Awin", "approved": false, "template": "https://www.awin1.com/cread.php?awinmid=1402&awinaffid={awin}&ued={url}"},
-    {"name": "Currys", "network": "Awin", "approved": false, "template": "https://www.awin1.com/cread.php?awinmid=1599&awinaffid={awin}&ued={url}"},
-    {"name": "Debenhams", "network": "Awin", "approved": false, "template": "https://www.awin1.com/cread.php?awinmid=22735&awinaffid={awin}&ued={url}"},
-    {"name": "John Lewis", "network": "Impact", "approved": false, "template": ""},
-    {"name": "Argos", "network": "CJ", "approved": false, "template": ""},
-    {"name": "Boots", "network": "", "approved": false, "template": ""},
-    {"name": "Next", "network": "", "approved": false, "template": ""},
-    {"name": "Very", "network": "", "approved": false, "template": ""},
-    {"name": "Dunelm", "network": "", "approved": false, "template": ""},
-    {"name": "AO", "network": "", "approved": false, "template": ""}
-  ]
+    {
+      "name": "M&S",
+      "network": "Awin",
+      "approved": false,
+      "template": "https://www.awin1.com/cread.php?awinmid=1402&awinaffid={awin}&ued={url}"
+    },
+    {
+      "name": "Currys",
+      "network": "Awin",
+      "approved": false,
+      "template": "https://www.awin1.com/cread.php?awinmid=1599&awinaffid={awin}&ued={url}"
+    },
+    {
+      "name": "Debenhams",
+      "network": "Awin",
+      "approved": false,
+      "template": "https://www.awin1.com/cread.php?awinmid=22735&awinaffid={awin}&ued={url}"
+    },
+    {
+      "name": "John Lewis",
+      "network": "Impact",
+      "approved": false,
+      "template": ""
+    },
+    {
+      "name": "Argos",
+      "network": "CJ",
+      "approved": false,
+      "template": ""
+    },
+    {
+      "name": "Boots",
+      "network": "",
+      "approved": false,
+      "template": ""
+    },
+    {
+      "name": "Next",
+      "network": "",
+      "approved": false,
+      "template": ""
+    },
+    {
+      "name": "Very",
+      "network": "",
+      "approved": false,
+      "template": ""
+    },
+    {
+      "name": "Dunelm",
+      "network": "",
+      "approved": false,
+      "template": ""
+    },
+    {
+      "name": "AO",
+      "network": "",
+      "approved": false,
+      "template": ""
+    }
+  ],
+  "social": {
+    "whatsapp": "",
+    "telegram": "",
+    "tiktok": "",
+    "instagram": ""
+  }
 }
