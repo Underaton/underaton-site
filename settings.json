@@ -109,6 +109,24 @@
       "network": "Awin",
       "approved": false,
       "template": ""
+    },
+    {
+      "name": "Sephora",
+      "network": "Awin or Partnerize (check)",
+      "approved": false,
+      "template": "https://www.awin1.com/cread.php?awinmid=22773&awinaffid={awin}&ued={url}"
+    },
+    {
+      "name": "LOOKFANTASTIC",
+      "network": "Awin",
+      "approved": false,
+      "template": "https://www.awin1.com/cread.php?awinmid=2082&awinaffid={awin}&ued={url}"
+    },
+    {
+      "name": "Cult Beauty",
+      "network": "Awin",
+      "approved": false,
+      "template": "https://www.awin1.com/cread.php?awinmid=29063&awinaffid={awin}&ued={url}"
     }
   ],
   "social": {
