@@ -1,6 +1,6 @@
 {
   "brand": "Under a Ton",
-  "awinPublisherId": "",
+  "awinPublisherId": "3160942",
   "retailers": [
     {
       "name": "M&S",
@@ -83,6 +83,30 @@
     {
       "name": "Nike",
       "network": "Nike affiliate programme",
+      "approved": false,
+      "template": ""
+    },
+    {
+      "name": "Space NK",
+      "network": "Awin",
+      "approved": false,
+      "template": "https://www.awin1.com/cread.php?awinmid=59805&awinaffid={awin}&ued={url}"
+    },
+    {
+      "name": "Michael Kors",
+      "network": "Awin",
+      "approved": false,
+      "template": "https://www.awin1.com/cread.php?awinmid=7166&awinaffid={awin}&ued={url}"
+    },
+    {
+      "name": "OD's Designer Clothing",
+      "network": "Awin",
+      "approved": false,
+      "template": "https://www.awin1.com/cread.php?awinmid=125418&awinaffid={awin}&ued={url}"
+    },
+    {
+      "name": "EQVVS",
+      "network": "Awin",
       "approved": false,
       "template": ""
     }
