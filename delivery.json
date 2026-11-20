@@ -1,0 +1,173 @@
+{
+ "checked": "",
+ "note": "Retailer dates are added as soon as each retailer publishes them on its own website.",
+ "carriers": [
+  {
+   "service": "Royal Mail 2nd Class",
+   "date": "2026-12-18"
+  },
+  {
+   "service": "Royal Mail Tracked 48",
+   "date": "2026-12-19"
+  },
+  {
+   "service": "Royal Mail 1st Class",
+   "date": "2026-12-21"
+  },
+  {
+   "service": "Royal Mail Tracked 24",
+   "date": "2026-12-21"
+  },
+  {
+   "service": "Royal Mail Special Delivery Guaranteed",
+   "date": "2026-12-23"
+  }
+ ],
+ "carrierSource": "Royal Mail's recommended last posting dates for Christmas 2026 (UK inland). Check royalmail.com before you post, as dates can change.",
+ "retailers": [
+  {
+   "name": "M&S",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Currys",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Argos",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "John Lewis",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Debenhams",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Boots",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Next",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Very",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Dunelm",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "AO",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "JD Sports",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Foot Locker",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "adidas",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Nike",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Sephora",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "LOOKFANTASTIC",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Cult Beauty",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  },
+  {
+   "name": "Charlotte Tilbury",
+   "standard": "",
+   "nextDay": "",
+   "clickCollect": "",
+   "source": "",
+   "checked": ""
+  }
+ ]
+}
