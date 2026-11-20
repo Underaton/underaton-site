@@ -56,6 +56,9 @@ button:focus-visible, a:focus-visible, select:focus-visible { outline: 3px solid
 
 /* Hero */
 .hero { padding-top: 36px; padding-bottom: 44px; display: grid; gap: 28px; }
+.herogrid { display: grid; grid-template-columns: 1.15fr 1fr; gap: 24px; align-items: center; }
+.herotext { display: grid; gap: 22px; }
+.heroart { width: 100%; height: auto; max-width: 500px; justify-self: end; }
 .hero h1 { font-size: clamp(36px, 6.4vw, 68px); font-weight: 800; letter-spacing: -1.5px; max-width: 16ch; }
 .hero h1 .hl { color: var(--tag); }
 .hero p.sub { color: #c9ccd6; font-size: 18px; max-width: 54ch; margin: 0; }
@@ -167,6 +170,8 @@ footer .flinks { display: flex; gap: 16px; flex-wrap: wrap; font-weight: 600; co
 .ok { color: var(--t20); font-weight: 700; }
 
 @media (max-width: 860px) {
+  .herogrid { grid-template-columns: 1fr; }
+  .heroart { max-width: 340px; justify-self: center; margin-top: -8px; }
   .spot { grid-template-columns: 1fr; }
   .spot .art { min-height: 200px; }
   .who { grid-template-columns: repeat(2, 1fr); }
@@ -218,9 +223,14 @@ footer .flinks { display: flex; gap: 16px; flex-wrap: wrap; font-weight: 600; co
     </nav>
   </div>
   <div class="wrap hero" id="hero">
-    <h1>Every deal under <span class="hl">£100</span>. Checked every morning.</h1>
-    <p class="sub">The best discounts from M&amp;S, Currys, Argos, John Lewis, Boots and more, sorted by budget, by who it's for and by occasion. Gift shopping without the scrolling.</p>
-    <div class="trust"><span>Prices checked on retailers' own sites</span><span id="trust-updated">Updated daily</span><span>Buy direct from the retailer</span></div>
+    <div class="herogrid">
+      <div class="herotext">
+        <h1>Every deal under <span class="hl">£100</span>. Checked every morning.</h1>
+        <p class="sub">The best discounts from M&amp;S, Currys, Argos, John Lewis, Boots and more, sorted by budget, by who it's for and by occasion. Gift shopping without the scrolling.</p>
+        <div class="trust"><span>Prices checked on retailers' own sites</span><span id="trust-updated">Updated daily</span><span>Buy direct from the retailer</span></div>
+      </div>
+      <img class="heroart" src="/img/hero-gifts.svg" alt="A stack of wrapped gifts with £20, £50 and £100 price tags" width="520" height="440">
+    </div>
     <div class="shelves">
       <button class="shelf s20" data-tier="20"><span class="ring"></span><span class="lbl">Gifts &amp; deals under</span><span class="amt">£20</span><span class="cnt" id="c20">0 deals</span><span class="go">Shop →</span></button>
       <button class="shelf s50" data-tier="50"><span class="ring"></span><span class="lbl">Gifts &amp; deals under</span><span class="amt">£50</span><span class="cnt" id="c50">0 deals</span><span class="go">Shop →</span></button>
