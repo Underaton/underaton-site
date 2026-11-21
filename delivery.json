@@ -1,5 +1,5 @@
 {
- "checked": "",
+ "checked": "2026-11-21",
  "note": "Retailer dates are added as soon as each retailer publishes them on its own website.",
  "carriers": [
   {
@@ -83,11 +83,11 @@
   },
   {
    "name": "Very",
-   "standard": "",
-   "nextDay": "",
-   "clickCollect": "",
-   "source": "",
-   "checked": ""
+   "standard": "2026-12-18",
+   "nextDay": "2026-12-23",
+   "clickCollect": "2026-12-23",
+   "source": "https://www.very.co.uk/next-day-delivery.page",
+   "checked": "2026-11-21"
   },
   {
    "name": "Dunelm",

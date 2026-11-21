@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:56:14Z",
+ "updated": "2026-11-21T06:31:29Z",
  "deals": [
   {
    "id": "dunelm-rainbow-blanket-hoodie",
@@ -8,7 +8,7 @@
    "url": "https://www.dunelm.com/product/printed-rainbow-fleece-oversized-blanket-hoodie-1000203733",
    "price": 8.0,
    "was": 16.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Black Friday price, half price",
    "category": "fashion",
@@ -29,7 +29,7 @@
    "url": "https://www.dunelm.com/product/sherpa-oversized-funnel-neck-top-1000301664",
    "price": 9.0,
    "was": 18.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Black Friday price, half price",
    "category": "fashion",
@@ -49,7 +49,7 @@
    "url": "https://www.next.co.uk/style/su461132/af5678",
    "price": 10.0,
    "was": 12.5,
-   "checked": "2026-11-20T06:30:00Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "ghd brand discount",
    "category": "beauty",
@@ -71,7 +71,7 @@
    "url": "https://www.sephora.co.uk/p/benefit-cosmetics-hoola-matte-powder-bronzer-mini-hoola",
    "price": 11.95,
    "was": 17.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T06:30:00Z",
    "note": "Price checked on Sephora Black Friday listing page",
    "category": "beauty",
@@ -92,7 +92,7 @@
    "url": "https://www.sephora.co.uk/p/gisou-honey-infused-hair-perfume-cherry-chocolate",
    "price": 15.02,
    "was": 20.02,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T06:30:00Z",
    "note": "Price checked on Sephora Black Friday listing page",
    "category": "beauty",
@@ -113,7 +113,7 @@
    "url": "https://www.next.co.uk/style/su461132/af5127",
    "price": 17.5,
    "was": 24.0,
-   "checked": "2026-11-20T06:30:00Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "ghd brand discount",
    "category": "beauty",
@@ -135,7 +135,7 @@
    "url": "https://www.marksandspencer.com/flat-head-small-rechargeable-table-lamp/p/hbp61231541",
    "price": 17.5,
    "was": 25.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "30% off selected lighting",
    "category": "home",
@@ -150,37 +150,13 @@
    ]
   },
   {
-   "id": "boots-sanctuary-spa-signature-treats",
-   "title": "Sanctuary Spa Signature Treats Gift Set",
-   "retailer": "Boots",
-   "url": "https://boots.com/sanctuary-spa-signature-treats-gift-set-10350783",
-   "price": 18.0,
-   "was": 22.5,
-   "checked": "2026-11-20T06:30:00Z",
-   "added": "2026-11-19T06:35:16Z",
-   "note": "In stock",
-   "category": "beauty",
-   "for": [
-    "her"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "anniversary",
-    "valentines",
-    "mothers-day",
-    "secret-santa",
-    "thank-you"
-   ]
-  },
-  {
    "id": "argos-belkin-20000mah-power-bank",
    "title": "Belkin 15W 20000mAh Portable Power Bank, Space Grey",
    "retailer": "Argos",
    "url": "https://www.argos.co.uk/product/7704749",
    "price": 18.67,
    "was": 27.99,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Stock depends on postcode",
    "category": "tech",
@@ -196,13 +172,32 @@
    ]
   },
   {
+   "id": "adidas-game-and-go-hoodie-kids-pink",
+   "title": "adidas Game and Go Hoodie Kids, Pink Fusion",
+   "retailer": "adidas",
+   "url": "https://www.adidas.co.uk/game-and-go-hoodie-kids/JJ1042.html",
+   "price": 19.5,
+   "was": 30.0,
+   "checked": "2026-11-21T06:31:29Z",
+   "added": "2026-11-21T06:31:29Z",
+   "category": "sport",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "secret-santa",
+    "birthday"
+   ]
+  },
+  {
    "id": "ms-gooseneck-task-table-lamp",
    "title": "M&S Gooseneck Task Table Lamp",
    "retailer": "M&S",
    "url": "https://www.marksandspencer.com/gooseneck-task-table-lamp/p/hbp61231529",
    "price": 20.0,
    "was": 40.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-19T06:35:16Z",
    "note": "Half price selected lighting",
    "category": "home",
@@ -223,7 +218,7 @@
    "url": "https://www.johnlewis.com/lancome-hypnose-custom-wear-volume-mascara/01-noir/p1093266",
    "price": 21.7,
    "was": 31.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "30% off Black Friday makeup",
    "category": "beauty",
@@ -244,9 +239,9 @@
    "url": "https://www.very.co.uk/jimmy-choo-flash-eau-de-parfum-60ml/1600472908.prd",
    "price": 23.0,
    "was": 57.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
-   "note": "Price checked on Very listing page, save £34",
+   "note": "Price checked on Very Jimmy Choo listing page",
    "category": "beauty",
    "for": [
     "her"
@@ -267,7 +262,7 @@
    "url": "https://www.argos.co.uk/product/4077792",
    "price": 23.0,
    "was": 35.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T06:30:00Z",
    "note": "Save 1/3; stock depends on postcode",
    "category": "toys",
@@ -286,7 +281,7 @@
    "url": "https://www.nike.com/gb/t/sportswear-club-fleece-older-kids-oversized-hoodie-4ncVZOpI/IM4935-010",
    "price": 25.99,
    "was": 42.99,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T06:30:00Z",
    "note": "Price checked on Nike kids' sale listing page",
    "category": "sport",
@@ -314,7 +309,7 @@
     "christmas",
     "birthday"
    ],
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T12:56:14Z"
   },
   {
@@ -338,7 +333,7 @@
     "mothers-day",
     "thank-you"
    ],
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T12:56:14Z"
   },
   {
@@ -348,9 +343,9 @@
    "url": "https://www.very.co.uk/jimmy-choo-fever-eau-de-parfum-60ml/1600366341.prd",
    "price": 29.0,
    "was": 72.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-19T06:35:16Z",
-   "note": "Price checked on Very listing page, save £43",
+   "note": "Price checked on Very Jimmy Choo listing page",
    "category": "beauty",
    "for": [
     "her"
@@ -371,7 +366,7 @@
    "url": "https://www.marksandspencer.com/rechargeable-ceramic-base-jute-table-lamp/p/hbp60916082",
    "price": 29.5,
    "was": 59.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-19T06:35:16Z",
    "note": "Half price selected lighting",
    "category": "home",
@@ -391,7 +386,7 @@
    "url": "https://www.adidas.co.uk/game-and-go-training-hoodie/IN5559.html",
    "price": 30.25,
    "was": 55.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T06:30:00Z",
    "note": "45% off Black Friday price",
    "category": "sport",
@@ -421,7 +416,7 @@
     "birthday",
     "fathers-day"
    ],
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T12:56:14Z"
   },
   {
@@ -431,7 +426,7 @@
    "url": "https://www.very.co.uk/barbie-dream-boatnbspwith-pool-andnbspslidenbspplayset/1600837600.prd",
    "price": 33.12,
    "was": 79.99,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T06:30:00Z",
    "note": "Price drop, save £46.87",
    "category": "toys",
@@ -450,7 +445,7 @@
    "url": "https://www.marksandspencer.com/glass-fluted-table-lamp/p/hbp60916251",
    "price": 34.5,
    "was": 69.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-19T06:35:16Z",
    "note": "Half price selected lighting",
    "category": "home",
@@ -469,7 +464,7 @@
    "url": "https://www.johnlewis.com/bosch-ms6ca4150g-ergomixx-800w-hand-blender-white/p4879244",
    "price": 34.99,
    "was": 69.99,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Black Friday price, half price",
    "category": "kitchen",
@@ -483,53 +478,13 @@
    ]
   },
   {
-   "id": "sephora-kiehls-on-the-go-groomers",
-   "title": "Kiehl's On The Go Groomers Holiday Gift Set",
-   "retailer": "Sephora",
-   "url": "https://www.sephora.co.uk/p/kiehl-s-since-1851-on-the-go-groomers-holiday-gift-set",
-   "price": 35.25,
-   "was": 47.0,
-   "checked": "2026-11-20T06:30:00Z",
-   "added": "2026-11-20T06:30:00Z",
-   "note": "Price checked on Sephora Black Friday listing page",
-   "category": "beauty",
-   "for": [
-    "him"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "fathers-day"
-   ]
-  },
-  {
-   "id": "nike-club-fleece-mens-fz-hoodie",
-   "title": "Nike Sportswear Club Fleece Men's Full-Zip Hoodie, Black",
-   "retailer": "Nike",
-   "url": "https://www.nike.com/gb/t/sportswear-club-fleece-mens-full-zip-hoodie-tfRtNk/BV2645-010",
-   "price": 35.99,
-   "was": 59.99,
-   "note": "Price checked on Nike men's Black Friday listing page",
-   "category": "sport",
-   "for": [
-    "him"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "fathers-day"
-   ],
-   "checked": "2026-11-20T12:56:14Z",
-   "added": "2026-11-20T12:56:14Z"
-  },
-  {
    "id": "dunelm-2-tier-heated-airer",
    "title": "Dunelm 2 Tier Heated Airer",
    "retailer": "Dunelm",
    "url": "https://www.dunelm.com/product/2-tier-heated-airer-1000197362",
    "price": 37.5,
    "was": 75.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Black Friday price, half price",
    "category": "home",
@@ -542,38 +497,34 @@
    ]
   },
   {
-   "id": "very-marc-jacobs-dot-edp-100ml",
-   "title": "Marc Jacobs Dot Eau de Parfum 100ml",
-   "retailer": "Very",
-   "url": "https://www.very.co.uk/marc-jacobs-dot-eau-de-parfum--100ml/1600849789.prd",
-   "price": 40.0,
-   "was": 104.0,
-   "checked": "2026-11-20T12:56:14Z",
-   "added": "2026-11-17T22:27:30Z",
-   "note": "Price checked on Very listing page, save £64",
-   "category": "beauty",
-   "for": [
-    "her"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "anniversary",
-    "valentines",
-    "mothers-day"
-   ]
-  },
-  {
    "id": "argos-lego-wall-e-eve-43279",
    "title": "LEGO Disney Pixar WALL-E and EVE Set 43279",
    "retailer": "Argos",
    "url": "https://www.argos.co.uk/product/7839793",
    "price": 40.0,
    "was": 60.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T06:30:00Z",
    "note": "Save 1/3; stock depends on postcode",
    "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
+  },
+  {
+   "id": "adidas-man-utd-stone-roses-track-top-kids",
+   "title": "adidas Manchester United Stone Roses Track Top Kids, Black",
+   "retailer": "adidas",
+   "url": "https://www.adidas.co.uk/manchester-united-stone-roses-track-top-kids/JZ7096.html",
+   "price": 40.0,
+   "was": 80.0,
+   "checked": "2026-11-21T06:31:29Z",
+   "added": "2026-11-21T06:31:29Z",
+   "category": "sport",
    "for": [
     "kids"
    ],
@@ -589,7 +540,7 @@
    "url": "https://www.johnlewis.com/le-creuset-stoneware-square-oven-dish-set-of-2/volcanic/p5025150",
    "price": 41.4,
    "was": 69.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "40% off Le Creuset",
    "category": "kitchen",
@@ -603,13 +554,33 @@
    ]
   },
   {
+   "id": "very-beats-solo-buds",
+   "title": "Beats Solo Buds True Wireless Earbuds",
+   "retailer": "Very",
+   "url": "https://www.very.co.uk/beats-solo-buds-true-wireless-earbuds/1601032211.prd",
+   "price": 45.0,
+   "was": 79.0,
+   "checked": "2026-11-21T06:31:29Z",
+   "added": "2026-11-21T06:31:29Z",
+   "category": "tech",
+   "for": [
+    "her",
+    "him",
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
+  },
+  {
    "id": "footlocker-adidas-samba-og-grey",
    "title": "adidas Samba OG Men's Trainers, Grey",
    "retailer": "Foot Locker",
    "url": "https://www.footlocker.co.uk/en/product/adidas-samba-og-men-shoes/314312409304.html",
    "price": 50.0,
    "was": 89.99,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T06:30:00Z",
    "note": "Save £39; check your size",
    "category": "sport",
@@ -623,59 +594,15 @@
    ]
   },
   {
-   "id": "sephora-replica-jazz-club-set",
-   "title": "Maison Margiela Replica Jazz Club Eau de Toilette Set",
-   "retailer": "Sephora",
-   "url": "https://www.sephora.co.uk/p/maison-margiela-replica-jazz-club-eau-de-toilette-set",
-   "price": 56.0,
-   "was": 70.0,
-   "checked": "2026-11-20T06:30:00Z",
-   "added": "2026-11-20T06:30:00Z",
-   "note": "Price checked on Sephora Black Friday listing page",
-   "category": "beauty",
-   "for": [
-    "him"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "anniversary",
-    "valentines",
-    "fathers-day"
-   ]
-  },
-  {
-   "id": "boots-ck-eternity-men-edp-100ml",
-   "title": "Calvin Klein Eternity For Men Eau de Parfum 100ml",
-   "retailer": "Boots",
-   "url": "https://boots.com/calvin-klein-eternity-men-eau-de-parfum-100ml-10269773",
-   "price": 57.6,
-   "was": 72.0,
-   "checked": "2026-11-20T06:30:00Z",
-   "added": "2026-11-19T06:35:16Z",
-   "note": "20% off selected fragrance",
-   "category": "beauty",
-   "for": [
-    "him"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "anniversary",
-    "valentines",
-    "fathers-day"
-   ]
-  },
-  {
-   "id": "nike-vomero-5-older-kids",
-   "title": "Nike Vomero 5 Older Kids' Trainers",
-   "retailer": "Nike",
-   "url": "https://www.nike.com/gb/t/vomero-5-older-kids-shoes-YK8tbFdo/IM9467-003",
-   "price": 59.49,
-   "was": 84.99,
-   "checked": "2026-11-20T12:56:14Z",
-   "added": "2026-11-20T06:30:00Z",
-   "note": "Price checked on Nike kids' sale listing page",
+   "id": "footlocker-nike-air-max-phoenix-gs",
+   "title": "Nike Air Max Phoenix Grade School Trainers, Black",
+   "retailer": "Foot Locker",
+   "url": "https://www.footlocker.co.uk/en/product/nike-air-max-phoenix-grade-school-shoes/316706459704.html",
+   "price": 55.0,
+   "was": 89.99,
+   "checked": "2026-11-21T06:31:29Z",
+   "added": "2026-11-21T06:31:29Z",
+   "note": "Price checked on Foot Locker listing page",
    "category": "sport",
    "for": [
     "kids"
@@ -692,7 +619,7 @@
    "url": "https://www.nike.com/gb/t/air-max-phoenix-older-kids-shoes-WJnEMjq2/HF7052-019",
    "price": 62.99,
    "was": 89.99,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T06:30:00Z",
    "note": "Price checked on Nike kids' sale listing page",
    "category": "sport",
@@ -705,10 +632,30 @@
    ]
   },
   {
-   "id": "nike-tech-fleece-windrunner-ih4302-016",
-   "title": "Nike Tech Men's Fleece Windrunner Full-Zip Jacket",
+   "id": "footlocker-nike-air-max-90-black-white",
+   "title": "Nike Air Max 90 Men's Trainers, Black/White",
+   "retailer": "Foot Locker",
+   "url": "https://www.footlocker.co.uk/en/product/nike-air-max-90-men-shoes/314218260504.html",
+   "price": 65.0,
+   "was": 134.99,
+   "checked": "2026-11-21T06:31:29Z",
+   "added": "2026-11-21T06:31:29Z",
+   "note": "Price checked on Foot Locker listing page",
+   "category": "sport",
+   "for": [
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "fathers-day"
+   ]
+  },
+  {
+   "id": "nike-tech-fleece-windrunner-ih4302-063",
+   "title": "Nike Tech Men's Fleece Windrunner Jacket, Dark Grey Heather",
    "retailer": "Nike",
-   "url": "https://www.nike.com/gb/t/tech-mens-fleece-windrunner-full-zip-jacket-fEFpXqBx/IH4302-016",
+   "url": "https://www.nike.com/gb/t/tech-mens-fleece-windrunner-full-zip-jacket-fEFpXqBx",
    "price": 65.99,
    "was": 109.99,
    "note": "Price checked on Nike men's Black Friday listing page",
@@ -721,8 +668,8 @@
     "birthday",
     "fathers-day"
    ],
-   "checked": "2026-11-20T12:56:14Z",
-   "added": "2026-11-20T12:56:14Z"
+   "checked": "2026-11-21T06:31:29Z",
+   "added": "2026-11-21T06:31:29Z"
   },
   {
    "id": "jl-le-creuset-skinny-grill",
@@ -731,7 +678,7 @@
    "url": "https://www.johnlewis.com/le-creuset-essentials-cast-iron-24cm-skinny-square-grill/satin-black/p4209508",
    "price": 69.0,
    "was": 115.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "40% off Le Creuset",
    "category": "kitchen",
@@ -745,18 +692,17 @@
    ]
   },
   {
-   "id": "very-marshall-minor-iv-earbuds",
-   "title": "Marshall Minor IV True Wireless Earbuds, Black",
-   "retailer": "Very",
-   "url": "https://www.very.co.uk/marshall-minor-iv-true-wireless-earbuds-black/1601004564.prd",
-   "price": 69.0,
-   "was": 119.0,
-   "checked": "2026-11-20T12:56:14Z",
-   "added": "2026-11-19T06:35:16Z",
-   "note": "Price checked on Very listing page, save £50",
-   "category": "tech",
+   "id": "footlocker-nike-air-max-270-black-blue",
+   "title": "Nike Air Max 270 Men's Trainers, Black/University Blue",
+   "retailer": "Foot Locker",
+   "url": "https://www.footlocker.co.uk/en/product/nike-air-max-270-men-shoes/314219204204.html",
+   "price": 70.0,
+   "was": 144.99,
+   "checked": "2026-11-21T06:31:29Z",
+   "added": "2026-11-21T06:31:29Z",
+   "note": "Price checked on Foot Locker listing page",
+   "category": "sport",
    "for": [
-    "her",
     "him"
    ],
    "occasions": [
@@ -766,25 +712,23 @@
    ]
   },
   {
-   "id": "boots-lancome-la-vie-est-belle-50ml",
-   "title": "Lancôme La Vie Est Belle Eau de Parfum 50ml",
-   "retailer": "Boots",
-   "url": "https://boots.com/lancome-la-vie-est-belle-eau-de-parfum-50ml-10145849",
-   "price": 77.6,
-   "was": 97.0,
-   "checked": "2026-11-20T06:30:00Z",
-   "added": "2026-11-19T06:35:16Z",
-   "note": "20% off selected fragrance",
-   "category": "beauty",
+   "id": "footlocker-nb-1906r-black-cement",
+   "title": "New Balance 1906R Men's Trainers, Black/Black Cement",
+   "retailer": "Foot Locker",
+   "url": "https://www.footlocker.co.uk/en/product/new-balance-1906r-men-shoes/314218766104.html",
+   "price": 70.0,
+   "was": 149.99,
+   "checked": "2026-11-21T06:31:29Z",
+   "added": "2026-11-21T06:31:29Z",
+   "note": "Price checked on Foot Locker listing page",
+   "category": "sport",
    "for": [
-    "her"
+    "him"
    ],
    "occasions": [
     "christmas",
     "birthday",
-    "anniversary",
-    "valentines",
-    "mothers-day"
+    "fathers-day"
    ]
   },
   {
@@ -794,7 +738,7 @@
    "url": "https://www.dunelm.com/product/4-tier-heated-airer-1000273779",
    "price": 82.5,
    "was": 165.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Black Friday price, half price",
    "category": "home",
@@ -813,7 +757,7 @@
    "url": "https://www.johnlewis.com/tonies-toniebox-2-starter-set/sky-blue/p113997448",
    "price": 87.99,
    "was": 109.99,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Price matched, save 20%",
    "category": "toys",
@@ -832,7 +776,7 @@
    "url": "https://www.very.co.uk/beats-solo-4-on-ear-wireless-headphones-bright-pink/1601360001.prd",
    "price": 89.0,
    "was": 199.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Save £110; in stock",
    "category": "tech",
@@ -847,13 +791,32 @@
    ]
   },
   {
+   "id": "very-beats-studio-buds-plus",
+   "title": "Beats Studio Buds + Noise Cancelling Earbuds, Transparent",
+   "retailer": "Very",
+   "url": "https://www.very.co.uk/beats-studio-buds-true-wireless-noise-cancelling-earbuds-transparent/1600866655.prd",
+   "price": 89.0,
+   "was": 179.0,
+   "checked": "2026-11-21T06:31:29Z",
+   "added": "2026-11-21T06:31:29Z",
+   "category": "tech",
+   "for": [
+    "her",
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
+  },
+  {
    "id": "argos-jbl-quantum-650",
    "title": "JBL Quantum 650 Gaming Headset (PS/Xbox/PC/Switch)",
    "retailer": "Argos",
    "url": "https://www.argos.co.uk/product/7799888",
    "price": 89.99,
    "was": 129.99,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Stock depends on postcode",
    "category": "tech",
@@ -887,7 +850,7 @@
     "valentines",
     "mothers-day"
    ],
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-20T12:56:14Z"
   },
   {
@@ -897,7 +860,7 @@
    "url": "https://www.argos.co.uk/product/7163184",
    "price": 99.99,
    "was": 159.99,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Black Friday price; stock depends on postcode",
    "category": "kitchen",
@@ -917,7 +880,7 @@
    "url": "https://www.argos.co.uk/product/7766921",
    "price": 99.99,
    "was": 200.0,
-   "checked": "2026-11-20T12:56:14Z",
+   "checked": "2026-11-21T06:31:29Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "Half price; stock depends on postcode",
    "category": "home",
