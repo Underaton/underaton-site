@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:55:42Z",
+ "updated": "2026-11-23T17:57:59Z",
  "deals": [
   {
    "id": "dunelm-rainbow-blanket-hoodie",
@@ -996,6 +996,122 @@
    "occasions": [
     "christmas",
     "housewarming"
+   ]
+  },
+  {
+   "id": "argos-primal-hatch-megalodon",
+   "title": "Primal Hatch Megalodon Hatching Egg Shark Toy",
+   "retailer": "Argos",
+   "url": "https://www.argos.co.uk/product/8788111",
+   "price": 33.0,
+   "was": 55.0,
+   "checked": "2026-11-23T17:57:59Z",
+   "added": "2026-11-23T17:57:59Z",
+   "note": "DreamToys 2026 top toy; stock depends on postcode",
+   "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
+  },
+  {
+   "id": "argos-paw-patrol-megasaurus-dino-vehicle",
+   "title": "PAW Patrol The Dino Movie Megasaurus Dino Vehicle",
+   "retailer": "Argos",
+   "url": "https://www.argos.co.uk/product/8513692",
+   "price": 40.0,
+   "was": 60.0,
+   "checked": "2026-11-23T17:57:59Z",
+   "added": "2026-11-23T17:57:59Z",
+   "note": "DreamToys 2026 top toy; stock depends on postcode",
+   "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
+  },
+  {
+   "id": "argos-clickeez-bubble-pop-keyboard-mega-pack",
+   "title": "Clickeez Series 3 Bubble Pop Keyboard Mega Pack",
+   "retailer": "Argos",
+   "url": "https://www.argos.co.uk/product/9130263",
+   "price": 22.5,
+   "was": 30.0,
+   "checked": "2026-11-23T17:57:59Z",
+   "added": "2026-11-23T17:57:59Z",
+   "note": "DreamToys 2026 top toy; stock depends on postcode",
+   "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
+  },
+  {
+   "id": "argos-mini-brands-really-works-vinyl-playset",
+   "title": "ZURU Mini Brands Really Works Vinyl Playset Series 1",
+   "retailer": "Argos",
+   "url": "https://www.argos.co.uk/product/8560140",
+   "price": 15.0,
+   "was": 20.0,
+   "checked": "2026-11-23T17:57:59Z",
+   "added": "2026-11-23T17:57:59Z",
+   "note": "DreamToys 2026 top toy; stock depends on postcode",
+   "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "secret-santa",
+    "birthday"
+   ]
+  },
+  {
+   "id": "argos-sonic-racing-crossworlds-ps5",
+   "title": "Sonic Racing: CrossWorlds PS5 Game (PEGI 3)",
+   "retailer": "Argos",
+   "url": "https://www.argos.co.uk/product/7796300",
+   "price": 20.99,
+   "was": 36.99,
+   "checked": "2026-11-23T17:57:59Z",
+   "added": "2026-11-23T17:57:59Z",
+   "note": "Stock depends on postcode",
+   "category": "gaming",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
+  },
+  {
+   "id": "argos-cod-modern-warfare-4-ps5",
+   "title": "Call of Duty: Modern Warfare 4 PS5 Game (PEGI 18)",
+   "retailer": "Argos",
+   "url": "https://www.argos.co.uk/product/9673627",
+   "price": 48.99,
+   "was": 58.99,
+   "checked": "2026-11-23T17:57:59Z",
+   "added": "2026-11-23T17:57:59Z",
+   "note": "Age 18+ only; stock depends on postcode",
+   "category": "gaming",
+   "for": [
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "fathers-day"
    ]
   }
  ]
