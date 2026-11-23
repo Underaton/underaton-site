@@ -1,0 +1,1218 @@
+{
+  "updated": "2026-11-23T12:00:00Z",
+  "deals": {
+    "dunelm-rainbow-blanket-hoodie": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Dunelm",
+          "stars": 4.7,
+          "count": 248,
+          "url": "https://www.dunelm.com/product/printed-rainbow-fleece-oversized-blanket-hoodie-1000203733"
+        }
+      ],
+      "checkedRetailers": [],
+      "blocked": [],
+      "similar": {
+        "category": "fashion"
+      },
+      "notes": "Dunelm own-brand; not sold elsewhere"
+    },
+    "dunelm-sherpa-funnel-neck-top": {
+      "offers": [],
+      "ratings": [],
+      "checkedRetailers": [],
+      "blocked": [],
+      "similar": {
+        "category": "fashion"
+      },
+      "notes": "Dunelm own-brand; product page could not be fetched for ratings"
+    },
+    "next-ghd-bodyguard-50ml": {
+      "offers": [
+        {
+          "retailer": "LOOKFANTASTIC",
+          "price": 8.75,
+          "url": "https://www.lookfantastic.com/p/ghd-mini-bodyguard-heat-protect-spray-50ml/13052047",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Boots",
+          "price": 12.5,
+          "url": "https://boots.com/ghd-mini-bodyguard-heat-protect-spray-50ml-10360194",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Cult Beauty",
+          "price": 12.5,
+          "url": "https://cultbeauty.co.uk/ghd-mini-bodyguard-heat-protect-spray-50ml/13052047.html",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Sephora",
+          "price": 12.5,
+          "url": "https://www.sephora.co.uk/p/ghd-bodyguard-heat-protect-spray-travel-size",
+          "inStock": false,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Sephora",
+          "stars": 4.86,
+          "count": 50,
+          "url": "https://www.sephora.co.uk/p/ghd-bodyguard-heat-protect-spray-travel-size"
+        }
+      ],
+      "checkedRetailers": [
+        "LOOKFANTASTIC",
+        "Boots",
+        "Cult Beauty",
+        "Sephora"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      }
+    },
+    "dunelm-liberty-house-arctic-play-tent": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Dunelm",
+          "stars": 5.0,
+          "count": 1,
+          "url": "https://dunelm.com/product/liberty-house-kids-arctic-play-tent-1000250223"
+        }
+      ],
+      "checkedRetailers": [
+        "Very",
+        "John Lewis",
+        "Argos",
+        "Smyths Toys"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "toys"
+      },
+      "notes": "Very stocks other Liberty House tents (Jungle, Princess, Space) but no Arctic product page found"
+    },
+    "nike-kids-backpack-20l-iq1261-010": {
+      "offers": [],
+      "ratings": [],
+      "checkedRetailers": [
+        "JD Sports",
+        "Sports Direct",
+        "Next",
+        "John Lewis"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "No other retailer product page found for style IQ1261-010"
+    },
+    "next-ghd-bodyguard-120ml": {
+      "offers": [
+        {
+          "retailer": "John Lewis",
+          "price": 17.0,
+          "url": "https://www.johnlewis.com/ghd-bodyguard-heat-protect-spray-120ml/p2513523",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Boots",
+          "price": 23.95,
+          "url": "https://boots.com/ghd-bodyguard-heat-protect-spray-120ml-10360174",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "LOOKFANTASTIC",
+          "price": 16.77,
+          "url": "https://www.lookfantastic.com/p/11195523/",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Cult Beauty",
+          "price": 23.95,
+          "url": "https://cultbeauty.co.uk/ghd-heat-protect-spray.html",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "John Lewis",
+          "stars": 4.6,
+          "count": 730,
+          "url": "https://www.johnlewis.com/ghd-bodyguard-heat-protect-spray-120ml/p2513523"
+        },
+        {
+          "source": "Cult Beauty",
+          "stars": null,
+          "count": 127,
+          "url": "https://cultbeauty.co.uk/ghd-heat-protect-spray.html",
+          "note": "average not displayed; star breakdown only"
+        }
+      ],
+      "checkedRetailers": [
+        "John Lewis",
+        "Boots",
+        "LOOKFANTASTIC",
+        "Cult Beauty"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      }
+    },
+    "ms-flat-head-rechargeable-lamp": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "M&S",
+          "stars": 4.6,
+          "count": 7,
+          "url": "https://www.marksandspencer.com/flat-head-small-rechargeable-table-lamp/p/hbp61231541"
+        }
+      ],
+      "checkedRetailers": [],
+      "blocked": [],
+      "similar": {
+        "category": "home"
+      },
+      "notes": "M&S own-brand; not sold elsewhere"
+    },
+    "argos-belkin-20000mah-power-bank": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Argos",
+          "stars": 4.6,
+          "count": 1671,
+          "url": "https://www.argos.co.uk/product/7704749"
+        }
+      ],
+      "checkedRetailers": [
+        "Currys",
+        "Amazon UK"
+      ],
+      "blocked": [
+        "Amazon UK"
+      ],
+      "similar": {
+        "category": "tech"
+      },
+      "notes": "Argos model BPB012btGY (Space Grey); Currys only listed Black/Rose Gold variants"
+    },
+    "nike-club-fleece-kids-sweatshirt-fd3006-100": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Nike",
+          "stars": 4.6,
+          "count": 37,
+          "url": "https://www.nike.com/gb/t/sportswear-club-fleece-older-kids-sweatshirt-QDZ7KK/FD3006-100"
+        }
+      ],
+      "checkedRetailers": [
+        "Sports Direct",
+        "Foot Locker",
+        "JD Sports"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "Sports Direct page only offered Black; Foot Locker only Midnight Navy (FD3006-410)"
+    },
+    "ms-gooseneck-task-table-lamp": {
+      "offers": [],
+      "ratings": [],
+      "checkedRetailers": [],
+      "blocked": [],
+      "similar": {
+        "category": "home"
+      },
+      "notes": "M&S own-brand; product page could not be fetched for ratings"
+    },
+    "dunelm-cosy-cotton-electric-blanket-single": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Dunelm",
+          "stars": 4.4,
+          "count": 59,
+          "url": "https://www.dunelm.com/product/cosy-cotton-electric-blanket-1000246448",
+          "note": "rating covers all sizes"
+        }
+      ],
+      "checkedRetailers": [],
+      "blocked": [],
+      "similar": {
+        "category": "home"
+      },
+      "notes": "Dunelm own-brand; not sold elsewhere"
+    },
+    "jl-lancome-hypnose-mascara": {
+      "offers": [
+        {
+          "retailer": "Sephora",
+          "price": 21.7,
+          "url": "https://sephora.co.uk/p/Lancome-Hypnose-Custom-Wear-Mascara-62g",
+          "inStock": true,
+          "note": "Sephora lists size as 6.2g; shade 01 Black",
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "John Lewis",
+          "stars": 4.7,
+          "count": 3892,
+          "url": "https://www.johnlewis.com/lancome-hypnose-mascara/01-noir/p1093266"
+        },
+        {
+          "source": "Sephora",
+          "stars": 4.73,
+          "count": 1481,
+          "url": "https://sephora.co.uk/p/Lancome-Hypnose-Custom-Wear-Mascara-62g"
+        }
+      ],
+      "checkedRetailers": [
+        "Sephora",
+        "Boots",
+        "LOOKFANTASTIC",
+        "Next"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      },
+      "notes": "Boots product page not found via search; LOOKFANTASTIC and Next only showed different Hypnose variants"
+    },
+    "boots-davidoff-cool-water-edt-75ml": {
+      "offers": [
+        {
+          "retailer": "Superdrug",
+          "price": 25.0,
+          "url": "https://superdrug.com/fragrance/fragrance-for-him/mens-aftershave/davidoff-cool-water-man-eau-de-toilette-75ml/p/592758",
+          "inStock": false,
+          "note": "No longer available online; collect from store offered",
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "LOOKFANTASTIC",
+          "price": 30.0,
+          "url": "https://lookfantastic.com/p/davidoff-cool-water-eau-de-toilette-75ml/11079879",
+          "inStock": false,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [],
+      "checkedRetailers": [
+        "Superdrug",
+        "LOOKFANTASTIC"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      }
+    },
+    "argos-magna-tiles-clear-32": {
+      "offers": [
+        {
+          "retailer": "Smyths Toys",
+          "price": 22.99,
+          "url": "https://www.smythstoys.com/uk/en-gb/toys/construction-and-cars/magna-tiles/magna-tiles-clear-colours-32-magnetic-pieces/p/195291",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Argos",
+          "stars": 4.8,
+          "count": 170,
+          "url": "https://www.argos.co.uk/product/4077792"
+        },
+        {
+          "source": "Smyths Toys",
+          "stars": 4.8,
+          "count": 203,
+          "url": "https://www.smythstoys.com/uk/en-gb/toys/construction-and-cars/magna-tiles/magna-tiles-clear-colours-32-magnetic-pieces/p/195291"
+        }
+      ],
+      "checkedRetailers": [
+        "Smyths Toys",
+        "John Lewis",
+        "Very"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "toys"
+      }
+    },
+    "very-hot-wheels-mario-rc-motorcycle": {
+      "offers": [
+        {
+          "retailer": "Smyths Toys",
+          "price": 24.99,
+          "url": "https://www.smythstoys.com/uk/p/255613",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Argos",
+          "price": 60.0,
+          "url": "https://www.argos.co.uk/product/8177131",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Very",
+          "stars": 3.0,
+          "count": 2,
+          "url": "https://www.very.co.uk/hot-wheels-mario-wheelie-motocross-rc-motorcycle-with-wheelie-action-amp-remote-control/1601310323.prd"
+        },
+        {
+          "source": "Smyths Toys",
+          "stars": 5.0,
+          "count": 3,
+          "url": "https://www.smythstoys.com/uk/p/255613"
+        }
+      ],
+      "checkedRetailers": [
+        "Smyths Toys",
+        "Argos"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "toys"
+      }
+    },
+    "nike-club-fleece-kids-oversized-hoodie": {
+      "offers": [
+        {
+          "retailer": "John Lewis",
+          "price": 34.39,
+          "url": "https://www.johnlewis.com/nike-kids-club-fleece-oversized-hoodie/black-white/p115651330",
+          "inStock": null,
+          "note": "Nike Kids' Club Fleece Oversized Hoodie, Black/White; Nike style code not shown on page",
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [],
+      "checkedRetailers": [
+        "John Lewis",
+        "Next",
+        "JD Sports"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "Nike page shows no reviews"
+    },
+    "nike-club-fleece-kids-pullover-hoodie-fd3000-010": {
+      "offers": [
+        {
+          "retailer": "Next",
+          "price": 38.0,
+          "url": "https://www.next.co.uk/style/su361912/d60242",
+          "inStock": null,
+          "note": "Nike Black Club Fleece Pullover Hoodie (big kids); Nike style code not shown on page",
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Nike",
+          "stars": 4.8,
+          "count": 643,
+          "url": "https://www.nike.com/gb/t/sportswear-club-fleece-older-pullover-hoodie-mhGfHn/FD3000-010"
+        }
+      ],
+      "checkedRetailers": [
+        "Next",
+        "Sports Direct",
+        "Foot Locker"
+      ],
+      "blocked": [
+        "Sports Direct"
+      ],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "Foot Locker page was the White/Black FD3000-100 at £43.99, not black"
+    },
+    "footlocker-nike-air-max-90-baby-black": {
+      "offers": [
+        {
+          "retailer": "Nike",
+          "price": 54.99,
+          "url": "https://www.nike.com/gb/t/max-90-baby-toddler-shoes-Zw4tuWJ2",
+          "inStock": null,
+          "note": "Nike Air Max 90 EasyOn Baby/Toddler, IH1418-028 Black/Black/White/Black",
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Nike",
+          "stars": 4.5,
+          "count": 22,
+          "url": "https://www.nike.com/gb/t/max-90-baby-toddler-shoes-Zw4tuWJ2"
+        }
+      ],
+      "checkedRetailers": [
+        "Nike",
+        "JD Sports"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "sport"
+      }
+    },
+    "ct-pillow-talk-love-frequency-kit": {
+      "offers": [
+        {
+          "retailer": "Cult Beauty",
+          "price": 28.5,
+          "url": "https://www.cultbeauty.co.uk/p/charlotte-tilbury-pillow-talk-love-frequency-kit/17165036",
+          "inStock": false,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [],
+      "checkedRetailers": [
+        "Cult Beauty",
+        "Sephora"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      },
+      "notes": "Sephora search result led to homepage, not a product page"
+    },
+    "ms-rechargeable-jute-table-lamp": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "M&S",
+          "stars": 4.5,
+          "count": 4,
+          "url": "https://www.marksandspencer.com/ie/rechargeable-ceramic-base-jute-table-lamp/p/hbp60916082",
+          "note": "read from M&S Ireland page of same product"
+        }
+      ],
+      "checkedRetailers": [],
+      "blocked": [],
+      "similar": {
+        "category": "home"
+      },
+      "notes": "M&S own-brand; not sold elsewhere"
+    },
+    "adidas-game-and-go-training-hoodie": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "adidas",
+          "stars": 4.6,
+          "count": 245,
+          "url": "https://www.adidas.co.uk/game-and-go-training-hoodie/IN5559.html"
+        }
+      ],
+      "checkedRetailers": [
+        "Amazon UK",
+        "Very",
+        "Next",
+        "Sports Direct"
+      ],
+      "blocked": [
+        "Amazon UK"
+      ],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "No IN5559 product page found at Very/Next/Sports Direct"
+    },
+    "adidas-essentials-fleece-3-stripes-fz-hoodie": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "adidas",
+          "stars": 4.8,
+          "count": 2668,
+          "url": "https://www.adidas.co.uk/essentials-fleece-3-stripes-full-zip-hoodie/GK9051.html"
+        }
+      ],
+      "checkedRetailers": [
+        "Amazon UK",
+        "Sports Direct",
+        "Next"
+      ],
+      "blocked": [
+        "Amazon UK"
+      ],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "Sports Direct result was its US storefront; Next result was a different (pullover) hoodie"
+    },
+    "ms-glass-fluted-table-lamp": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "M&S",
+          "stars": 4.4,
+          "count": 5,
+          "url": "https://www.marksandspencer.com/glass-fluted-table-lamp/p/hbp60916251"
+        }
+      ],
+      "checkedRetailers": [],
+      "blocked": [],
+      "similar": {
+        "category": "home"
+      },
+      "notes": "M&S own-brand; not sold elsewhere"
+    },
+    "jl-bosch-ergomixx-hand-blender": {
+      "offers": [
+        {
+          "retailer": "Argos",
+          "price": 34.99,
+          "url": "https://www.argos.co.uk/product/8136921",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "AO",
+          "price": 54.0,
+          "url": "https://ao.com/product/ms6ca4150g-bosch-ergomixx-blender-white-100271-71.aspx",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "John Lewis",
+          "stars": 4.7,
+          "count": 294,
+          "url": "https://johnlewis.com/bosch-ms6ca4150g-ergomixx-800w-hand-blender-white/p4879244"
+        },
+        {
+          "source": "Argos",
+          "stars": 4.8,
+          "count": 507,
+          "url": "https://www.argos.co.uk/product/8136921"
+        },
+        {
+          "source": "AO",
+          "stars": 4.8,
+          "count": 9,
+          "url": "https://ao.com/product/ms6ca4150g-bosch-ergomixx-blender-white-100271-71.aspx"
+        }
+      ],
+      "checkedRetailers": [
+        "Argos",
+        "AO",
+        "Currys"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "kitchen"
+      },
+      "notes": "Currys page loaded but no price shown"
+    },
+    "adidas-gazelle-bold-junior-jq7409": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "adidas",
+          "stars": 4.8,
+          "count": 641,
+          "url": "https://www.adidas.co.uk/-/JQ7409.html"
+        }
+      ],
+      "checkedRetailers": [
+        "Very",
+        "JD Sports",
+        "Foot Locker",
+        "Next"
+      ],
+      "blocked": [
+        "JD Sports"
+      ],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "Very link redirected to homepage; JD/Next results were other colourways (Pink, Blue/Pink); Foot Locker UK product page not reachable (only IE/CZ pages surfaced)"
+    },
+    "dunelm-2-tier-heated-airer": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Dunelm",
+          "stars": 4.2,
+          "count": 328,
+          "url": "https://www.dunelm.com/product/2-tier-heated-airer-1000197362"
+        }
+      ],
+      "checkedRetailers": [],
+      "blocked": [],
+      "similar": {
+        "category": "home"
+      },
+      "notes": "Dunelm own-brand; not sold elsewhere"
+    },
+    "argos-lego-wall-e-eve-43279": {
+      "offers": [
+        {
+          "retailer": "Smyths Toys",
+          "price": 39.99,
+          "url": "https://www.smythstoys.com/uk/en-gb/toys/disney/lego-disney/lego-disney-43279-wall-e-and-eve-set-for-adults/p/248670",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Very",
+          "price": 39.0,
+          "url": "https://www.very.co.uk/lego-disney-disney-and-pixar-wall-e-and-eve-set-43279/1601192219.prd",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "John Lewis",
+          "price": 40.0,
+          "url": "https://www.johnlewis.com/lego-disney-43279-pixar-wall-e-and-eve-building-set/p113656665",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Argos",
+          "stars": 4.9,
+          "count": 74,
+          "url": "https://www.argos.co.uk/product/7839793"
+        },
+        {
+          "source": "Smyths Toys",
+          "stars": 5.0,
+          "count": 43,
+          "url": "https://www.smythstoys.com/uk/en-gb/toys/disney/lego-disney/lego-disney-43279-wall-e-and-eve-set-for-adults/p/248670"
+        },
+        {
+          "source": "Very",
+          "stars": 4.8,
+          "count": 81,
+          "url": "https://www.very.co.uk/lego-disney-disney-and-pixar-wall-e-and-eve-set-43279/1601192219.prd"
+        },
+        {
+          "source": "John Lewis",
+          "stars": 4.9,
+          "count": 58,
+          "url": "https://www.johnlewis.com/lego-disney-43279-pixar-wall-e-and-eve-building-set/p113656665"
+        }
+      ],
+      "checkedRetailers": [
+        "Smyths Toys",
+        "Very",
+        "John Lewis"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "toys"
+      }
+    },
+    "jl-le-creuset-oven-dish-set": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "John Lewis",
+          "stars": 4.5,
+          "count": 38,
+          "url": "https://www.johnlewis.com/le-creuset-stoneware-square-oven-dish-set-of-2/volcanic/p5025150"
+        }
+      ],
+      "checkedRetailers": [
+        "Harrods",
+        "Selfridges",
+        "Lakeland"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "kitchen"
+      },
+      "notes": "No UK retailer product page found for this exact set/colour outside John Lewis"
+    },
+    "nike-air-max-phoenix-older-kids": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Nike",
+          "stars": null,
+          "count": 30,
+          "url": "https://www.nike.com/gb/t/air-max-phoenix-older-kids-shoes-WJnEMjq2",
+          "note": "'Highly Rated' badge; numeric average not shown"
+        }
+      ],
+      "checkedRetailers": [
+        "JD Sports",
+        "Foot Locker"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "JD Sports Air Max Phoenix Junior page (£85) was Black/Anthracite, not the HF7052-019 colourway, so excluded"
+    },
+    "boots-boss-bottled-night-edt-100ml": {
+      "offers": [
+        {
+          "retailer": "Superdrug",
+          "price": 89.0,
+          "url": "https://www.superdrug.com/p/218116",
+          "inStock": null,
+          "note": "page says no longer available online but offers collect from store",
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "The Perfume Shop",
+          "price": 71.2,
+          "url": "https://theperfumeshop.com/p/1098557",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "LOOKFANTASTIC",
+          "price": 66.75,
+          "url": "https://www.lookfantastic.com/p/hugo-boss-bottled-night-eau-de-toilette-100ml/11858217/",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Next",
+          "price": 75.0,
+          "url": "https://www.next.co.uk/style/ls101116/L05882",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [],
+      "checkedRetailers": [
+        "Superdrug",
+        "The Perfume Shop",
+        "LOOKFANTASTIC",
+        "Next"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      },
+      "notes": "The Perfume Shop shows 872 reviews but no numeric average"
+    },
+    "boots-calvin-klein-defy-edp-100ml": {
+      "offers": [
+        {
+          "retailer": "Superdrug",
+          "price": 7.5,
+          "url": "https://superdrug.com/fragrance/fragrance-for-him/mens-aftershave/calvin-klein-defy-eau-de-parfum-100ml/p/821670",
+          "inStock": false,
+          "note": "Page shows £7.50 for 100ml (likely a pricing error) and says no longer available online",
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "LOOKFANTASTIC",
+          "price": 68.25,
+          "url": "https://lookfantastic.com/p/calvin-klein-defy-various-sizes/13972621",
+          "inStock": false,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [],
+      "checkedRetailers": [
+        "Superdrug",
+        "John Lewis",
+        "LOOKFANTASTIC",
+        "Next"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      },
+      "notes": "John Lewis 100ml unavailable, no price shown; Next result was the EDT, not EDP; Superdrug shows 1391 reviews but no average"
+    },
+    "nike-air-jordan-1-mid-older-kids-dq8423-001": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Nike",
+          "stars": 4.9,
+          "count": 580,
+          "url": "https://nike.com/gb/t/air-jordan-1-mid-older-shoes-xshl11/DQ8423-001"
+        }
+      ],
+      "checkedRetailers": [
+        "JD Sports",
+        "Foot Locker"
+      ],
+      "blocked": [
+        "JD Sports"
+      ],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "Foot Locker only returned category listings"
+    },
+    "boots-versace-dylan-blue-edt-100ml": {
+      "offers": [
+        {
+          "retailer": "Superdrug",
+          "price": 57.6,
+          "url": "https://www.superdrug.com/fragrance/fragrance-for-him/mens-aftershave/versace-dylan-blue-eau-de-toilette-100ml-vapo/p/711867",
+          "inStock": false,
+          "note": "No longer available online; collect from store offered",
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "John Lewis",
+          "price": 64.32,
+          "url": "https://www.johnlewis.com/versace-pour-homme-dylan-blue-eau-de-toilette/p2873490",
+          "inStock": null,
+          "note": "Page showed a range £55.50-£64.32 for 50ml/100ml; 100ml assumed to be the upper figure",
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Next",
+          "price": 78.0,
+          "url": "https://www.next.co.uk/style/ls112323/r15998",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "John Lewis",
+          "stars": 4.5,
+          "count": 144,
+          "url": "https://www.johnlewis.com/versace-pour-homme-dylan-blue-eau-de-toilette/p2873490"
+        }
+      ],
+      "checkedRetailers": [
+        "Superdrug",
+        "John Lewis",
+        "Next"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      }
+    },
+    "argos-lego-ideas-tuxedo-cat-21349": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Argos",
+          "stars": 4.9,
+          "count": 428,
+          "url": "https://www.argos.co.uk/product/5794830"
+        }
+      ],
+      "checkedRetailers": [
+        "Sports Direct",
+        "Smyths Toys",
+        "John Lewis",
+        "Very"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "toys"
+      },
+      "notes": "Sports Direct result was a category listing without this set visible; no product pages found for Smyths/John Lewis/Very"
+    },
+    "jl-le-creuset-skinny-grill": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "John Lewis",
+          "stars": 4.0,
+          "count": 20,
+          "url": "https://www.johnlewis.com/le-creuset-essentials-cast-iron-24cm-skinny-square-grill/p4209508"
+        }
+      ],
+      "checkedRetailers": [
+        "Harrods",
+        "Selfridges",
+        "Lakeland",
+        "Amazon UK"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "kitchen"
+      },
+      "notes": "Only Harrods category listings found (non-specific); no product page for this Essentials satin black grill"
+    },
+    "footlocker-nike-air-max-270-black-blue": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Nike",
+          "stars": 4.6,
+          "count": 2098,
+          "url": "https://www.nike.com/gb/t/air-max-270-shoes-fTat1UHa",
+          "note": "rating covers the Air Max 270 model across colourways"
+        }
+      ],
+      "checkedRetailers": [
+        "Nike",
+        "JD Sports"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "sport"
+      },
+      "notes": "Foot Locker style AH8050-036; Nike UK page did not list this colourway (other colourways £72.49)"
+    },
+    "boots-rabanne-1-million-edt-100ml": {
+      "offers": [
+        {
+          "retailer": "Superdrug",
+          "price": 76.5,
+          "url": "https://superdrug.com/p/521195",
+          "inStock": null,
+          "note": "page shows 'no longer available online' alongside Add to Basket",
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "LOOKFANTASTIC",
+          "price": 72.8,
+          "url": "https://www.lookfantastic.com/p/paco-rabanne-1million-eau-de-toilette-spray-100ml/10643789",
+          "inStock": true,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Next",
+          "price": 81.0,
+          "url": "https://www.next.co.uk/style/ls104302/l93601",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [],
+      "checkedRetailers": [
+        "Superdrug",
+        "LOOKFANTASTIC",
+        "Next"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      }
+    },
+    "boots-lancome-la-vie-est-belle-edp-50ml": {
+      "offers": [
+        {
+          "retailer": "Superdrug",
+          "price": 82.45,
+          "url": "https://www.superdrug.com/fragrance/perfume-for-women/womens-perfume/lancome-la-vie-est-belle-eau-de-parfum-50ml/p/275601",
+          "inStock": false,
+          "note": "No longer available online",
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "LOOKFANTASTIC",
+          "price": 67.9,
+          "url": "https://lookfantastic.com/p/lancome-la-vie-est-belle-eau-de-parfum-50ml/11077830",
+          "inStock": true,
+          "note": "extra 5% off with code EXTRA mentioned",
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "John Lewis",
+          "stars": 4.8,
+          "count": 12144,
+          "url": "https://www.johnlewis.com/lancome-la-vie-est-belle-eau-de-parfum/p355557",
+          "note": "rating covers all sizes"
+        }
+      ],
+      "checkedRetailers": [
+        "Superdrug",
+        "LOOKFANTASTIC",
+        "John Lewis",
+        "Next"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      },
+      "notes": "John Lewis showed only a £69-£162 range without a 50ml price; Next result was Intensement (different product); Superdrug shows 6505 reviews but no average"
+    },
+    "dunelm-4-tier-heated-airer": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Dunelm",
+          "stars": 4.3,
+          "count": 38,
+          "url": "https://www.dunelm.com/product/4-tier-heated-airer-1000273779"
+        }
+      ],
+      "checkedRetailers": [],
+      "blocked": [],
+      "similar": {
+        "category": "home"
+      },
+      "notes": "Dunelm own-brand; not sold elsewhere"
+    },
+    "jl-toniebox-2-starter": {
+      "offers": [
+        {
+          "retailer": "Smyths Toys",
+          "price": 87.99,
+          "url": "https://www.smythstoys.com/uk/en-gb/toys/pre-school-and-electronic-learning/tonies/toniebox/tonies-toniebox-2-starter-set-sky-blue/p/251066",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Argos",
+          "price": 88.0,
+          "url": "https://www.argos.co.uk/product/7705793",
+          "inStock": null,
+          "note": "Argos lists colour as Blue; starter set with Creative Tonie",
+          "checked": "2026-11-23T12:00:00Z"
+        },
+        {
+          "retailer": "Next",
+          "price": 100.0,
+          "url": "https://www.next.co.uk/style/su999063/g83085",
+          "inStock": null,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "John Lewis",
+          "stars": 4.6,
+          "count": 33,
+          "url": "https://www.johnlewis.com/tonies-toniebox-2-starter-set/sky-blue/p113997448"
+        },
+        {
+          "source": "Smyths Toys",
+          "stars": 4.8,
+          "count": 40,
+          "url": "https://www.smythstoys.com/uk/en-gb/toys/pre-school-and-electronic-learning/tonies/toniebox/tonies-toniebox-2-starter-set-sky-blue/p/251066"
+        },
+        {
+          "source": "Argos",
+          "stars": 4.8,
+          "count": 47,
+          "url": "https://www.argos.co.uk/product/7705793"
+        }
+      ],
+      "checkedRetailers": [
+        "Smyths Toys",
+        "Argos",
+        "Currys",
+        "Next"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "toys"
+      },
+      "notes": "Currys page loaded but showed no price"
+    },
+    "ct-love-frequency-perfume-set": {
+      "offers": [
+        {
+          "retailer": "Cult Beauty",
+          "price": 97.5,
+          "url": "https://www.cultbeauty.co.uk/p/charlotte-tilbury-love-frequency-perfume-set/15467097/",
+          "inStock": false,
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [],
+      "checkedRetailers": [
+        "Cult Beauty",
+        "Selfridges",
+        "Harrods"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "beauty"
+      },
+      "notes": "Selfridges and Harrods only surfaced non-UK storefront pages; not checked"
+    },
+    "argos-ninja-af200-air-fryer": {
+      "offers": [
+        {
+          "retailer": "AO",
+          "price": 129.0,
+          "url": "https://ao.com/product/af200uk-ninja-foodi-4in1-dual-zone-air-fryer-black-105075-672.aspx",
+          "inStock": true,
+          "note": "£120 with AO member price",
+          "checked": "2026-11-23T12:00:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Argos",
+          "stars": 4.8,
+          "count": 1261,
+          "url": "https://www.argos.co.uk/product/7163184"
+        },
+        {
+          "source": "AO",
+          "stars": 5.0,
+          "count": 4,
+          "url": "https://ao.com/product/af200uk-ninja-foodi-4in1-dual-zone-air-fryer-black-105075-672.aspx"
+        }
+      ],
+      "checkedRetailers": [
+        "AO",
+        "John Lewis",
+        "Currys"
+      ],
+      "blocked": [
+        "Currys"
+      ],
+      "similar": {
+        "category": "kitchen"
+      },
+      "notes": "John Lewis page: no longer available online"
+    },
+    "argos-vax-spotwash": {
+      "offers": [],
+      "ratings": [
+        {
+          "source": "Argos",
+          "stars": 4.7,
+          "count": 953,
+          "url": "https://www.argos.co.uk/product/7766921"
+        }
+      ],
+      "checkedRetailers": [
+        "John Lewis",
+        "AO",
+        "Currys"
+      ],
+      "blocked": [],
+      "similar": {
+        "category": "home"
+      },
+      "notes": "Argos model appears to be CDSW-MPDC (Home and Car kit); John Lewis (£129) and AO list the different CDCW-CSXS SpotWash, so excluded"
+    }
+  }
+}
