@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:00:00Z",
+  "updated": "2026-11-24T06:35:00Z",
   "deals": {
     "dunelm-rainbow-blanket-hoodie": {
       "offers": [],
@@ -174,28 +174,6 @@
       },
       "notes": "M&S own-brand; not sold elsewhere"
     },
-    "argos-belkin-20000mah-power-bank": {
-      "offers": [],
-      "ratings": [
-        {
-          "source": "Argos",
-          "stars": 4.6,
-          "count": 1671,
-          "url": "https://www.argos.co.uk/product/7704749"
-        }
-      ],
-      "checkedRetailers": [
-        "Currys",
-        "Amazon UK"
-      ],
-      "blocked": [
-        "Amazon UK"
-      ],
-      "similar": {
-        "category": "tech"
-      },
-      "notes": "Argos model BPB012btGY (Space Grey); Currys only listed Black/Rose Gold variants"
-    },
     "nike-club-fleece-kids-sweatshirt-fd3006-100": {
       "offers": [],
       "ratings": [
@@ -289,15 +267,16 @@
           "price": 25.0,
           "url": "https://superdrug.com/fragrance/fragrance-for-him/mens-aftershave/davidoff-cool-water-man-eau-de-toilette-75ml/p/592758",
           "inStock": false,
-          "note": "No longer available online; collect from store offered",
-          "checked": "2026-11-23T12:00:00Z"
+          "note": "No longer available online",
+          "checked": "2026-11-24T06:35:00Z"
         },
         {
           "retailer": "LOOKFANTASTIC",
           "price": 30.0,
           "url": "https://lookfantastic.com/p/davidoff-cool-water-eau-de-toilette-75ml/11079879",
           "inStock": false,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z",
+          "note": "Sold out"
         }
       ],
       "ratings": [],
@@ -310,40 +289,6 @@
         "category": "beauty"
       }
     },
-    "argos-magna-tiles-clear-32": {
-      "offers": [
-        {
-          "retailer": "Smyths Toys",
-          "price": 22.99,
-          "url": "https://www.smythstoys.com/uk/en-gb/toys/construction-and-cars/magna-tiles/magna-tiles-clear-colours-32-magnetic-pieces/p/195291",
-          "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
-        }
-      ],
-      "ratings": [
-        {
-          "source": "Argos",
-          "stars": 4.8,
-          "count": 170,
-          "url": "https://www.argos.co.uk/product/4077792"
-        },
-        {
-          "source": "Smyths Toys",
-          "stars": 4.8,
-          "count": 203,
-          "url": "https://www.smythstoys.com/uk/en-gb/toys/construction-and-cars/magna-tiles/magna-tiles-clear-colours-32-magnetic-pieces/p/195291"
-        }
-      ],
-      "checkedRetailers": [
-        "Smyths Toys",
-        "John Lewis",
-        "Very"
-      ],
-      "blocked": [],
-      "similar": {
-        "category": "toys"
-      }
-    },
     "very-hot-wheels-mario-rc-motorcycle": {
       "offers": [
         {
@@ -351,14 +296,14 @@
           "price": 24.99,
           "url": "https://www.smythstoys.com/uk/p/255613",
           "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         },
         {
           "retailer": "Argos",
           "price": 60.0,
           "url": "https://www.argos.co.uk/product/8177131",
           "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         }
       ],
       "ratings": [
@@ -447,7 +392,7 @@
           "url": "https://www.nike.com/gb/t/max-90-baby-toddler-shoes-Zw4tuWJ2",
           "inStock": null,
           "note": "Nike Air Max 90 EasyOn Baby/Toddler, IH1418-028 Black/Black/White/Black",
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         }
       ],
       "ratings": [
@@ -577,14 +522,14 @@
           "price": 34.99,
           "url": "https://www.argos.co.uk/product/8136921",
           "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         },
         {
           "retailer": "AO",
           "price": 54.0,
           "url": "https://ao.com/product/ms6ca4150g-bosch-ergomixx-blender-white-100271-71.aspx",
           "inStock": true,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         }
       ],
       "ratings": [
@@ -659,66 +604,6 @@
       },
       "notes": "Dunelm own-brand; not sold elsewhere"
     },
-    "argos-lego-wall-e-eve-43279": {
-      "offers": [
-        {
-          "retailer": "Smyths Toys",
-          "price": 39.99,
-          "url": "https://www.smythstoys.com/uk/en-gb/toys/disney/lego-disney/lego-disney-43279-wall-e-and-eve-set-for-adults/p/248670",
-          "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
-        },
-        {
-          "retailer": "Very",
-          "price": 39.0,
-          "url": "https://www.very.co.uk/lego-disney-disney-and-pixar-wall-e-and-eve-set-43279/1601192219.prd",
-          "inStock": true,
-          "checked": "2026-11-23T12:00:00Z"
-        },
-        {
-          "retailer": "John Lewis",
-          "price": 40.0,
-          "url": "https://www.johnlewis.com/lego-disney-43279-pixar-wall-e-and-eve-building-set/p113656665",
-          "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
-        }
-      ],
-      "ratings": [
-        {
-          "source": "Argos",
-          "stars": 4.9,
-          "count": 74,
-          "url": "https://www.argos.co.uk/product/7839793"
-        },
-        {
-          "source": "Smyths Toys",
-          "stars": 5.0,
-          "count": 43,
-          "url": "https://www.smythstoys.com/uk/en-gb/toys/disney/lego-disney/lego-disney-43279-wall-e-and-eve-set-for-adults/p/248670"
-        },
-        {
-          "source": "Very",
-          "stars": 4.8,
-          "count": 81,
-          "url": "https://www.very.co.uk/lego-disney-disney-and-pixar-wall-e-and-eve-set-43279/1601192219.prd"
-        },
-        {
-          "source": "John Lewis",
-          "stars": 4.9,
-          "count": 58,
-          "url": "https://www.johnlewis.com/lego-disney-43279-pixar-wall-e-and-eve-building-set/p113656665"
-        }
-      ],
-      "checkedRetailers": [
-        "Smyths Toys",
-        "Very",
-        "John Lewis"
-      ],
-      "blocked": [],
-      "similar": {
-        "category": "toys"
-      }
-    },
     "jl-le-creuset-oven-dish-set": {
       "offers": [],
       "ratings": [
@@ -767,30 +652,30 @@
           "retailer": "Superdrug",
           "price": 89.0,
           "url": "https://www.superdrug.com/p/218116",
-          "inStock": null,
-          "note": "page says no longer available online but offers collect from store",
-          "checked": "2026-11-23T12:00:00Z"
+          "inStock": false,
+          "note": "page says no longer available online",
+          "checked": "2026-11-24T06:35:00Z"
         },
         {
           "retailer": "The Perfume Shop",
           "price": 71.2,
           "url": "https://theperfumeshop.com/p/1098557",
           "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         },
         {
           "retailer": "LOOKFANTASTIC",
           "price": 66.75,
           "url": "https://www.lookfantastic.com/p/hugo-boss-bottled-night-eau-de-toilette-100ml/11858217/",
           "inStock": true,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         },
         {
           "retailer": "Next",
           "price": 75.0,
           "url": "https://www.next.co.uk/style/ls101116/L05882",
           "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         }
       ],
       "ratings": [],
@@ -821,7 +706,8 @@
           "price": 68.25,
           "url": "https://lookfantastic.com/p/calvin-klein-defy-various-sizes/13972621",
           "inStock": false,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z",
+          "note": "Sold out"
         }
       ],
       "ratings": [],
@@ -866,8 +752,8 @@
           "price": 57.6,
           "url": "https://www.superdrug.com/fragrance/fragrance-for-him/mens-aftershave/versace-dylan-blue-eau-de-toilette-100ml-vapo/p/711867",
           "inStock": false,
-          "note": "No longer available online; collect from store offered",
-          "checked": "2026-11-23T12:00:00Z"
+          "note": "No longer available online",
+          "checked": "2026-11-24T06:35:00Z"
         },
         {
           "retailer": "John Lewis",
@@ -882,7 +768,7 @@
           "price": 78.0,
           "url": "https://www.next.co.uk/style/ls112323/r15998",
           "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         }
       ],
       "ratings": [
@@ -902,28 +788,6 @@
       "similar": {
         "category": "beauty"
       }
-    },
-    "argos-lego-ideas-tuxedo-cat-21349": {
-      "offers": [],
-      "ratings": [
-        {
-          "source": "Argos",
-          "stars": 4.9,
-          "count": 428,
-          "url": "https://www.argos.co.uk/product/5794830"
-        }
-      ],
-      "checkedRetailers": [
-        "Sports Direct",
-        "Smyths Toys",
-        "John Lewis",
-        "Very"
-      ],
-      "blocked": [],
-      "similar": {
-        "category": "toys"
-      },
-      "notes": "Sports Direct result was a category listing without this set visible; no product pages found for Smyths/John Lewis/Very"
     },
     "jl-le-creuset-skinny-grill": {
       "offers": [],
@@ -1019,8 +883,7 @@
           "price": 67.9,
           "url": "https://lookfantastic.com/p/lancome-la-vie-est-belle-eau-de-parfum-50ml/11077830",
           "inStock": true,
-          "note": "extra 5% off with code EXTRA mentioned",
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         }
       ],
       "ratings": [
@@ -1061,143 +924,169 @@
       },
       "notes": "Dunelm own-brand; not sold elsewhere"
     },
-    "jl-toniebox-2-starter": {
+    "very-braun-series-5-52-n1200s": {
       "offers": [
         {
-          "retailer": "Smyths Toys",
-          "price": 87.99,
-          "url": "https://www.smythstoys.com/uk/en-gb/toys/pre-school-and-electronic-learning/tonies/toniebox/tonies-toniebox-2-starter-set-sky-blue/p/251066",
-          "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
-        },
-        {
           "retailer": "Argos",
-          "price": 88.0,
-          "url": "https://www.argos.co.uk/product/7705793",
+          "price": 59.99,
+          "url": "https://www.argos.co.uk/product/7663402",
           "inStock": null,
-          "note": "Argos lists colour as Blue; starter set with Creative Tonie",
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         },
         {
-          "retailer": "Next",
-          "price": 100.0,
-          "url": "https://www.next.co.uk/style/su999063/g83085",
+          "retailer": "Superdrug",
+          "price": 59.99,
+          "url": "https://www.superdrug.com/gifts-for-dad/mens-shavers/braun-series-5-electric-shaver-for-men-52-n1200s/p/855501",
+          "inStock": false,
+          "checked": "2026-11-24T06:35:00Z",
+          "note": "No longer available online"
+        },
+        {
+          "retailer": "Sports Direct",
+          "price": 119.99,
+          "url": "https://www.sportsdirect.com/braun-braun-series-5-electric-shaver-52-n1200s-black-387043",
           "inStock": null,
-          "checked": "2026-11-23T12:00:00Z"
+          "checked": "2026-11-24T06:35:00Z"
         }
       ],
       "ratings": [
         {
-          "source": "John Lewis",
-          "stars": 4.6,
-          "count": 33,
-          "url": "https://www.johnlewis.com/tonies-toniebox-2-starter-set/sky-blue/p113997448"
-        },
-        {
-          "source": "Smyths Toys",
-          "stars": 4.8,
-          "count": 40,
-          "url": "https://www.smythstoys.com/uk/en-gb/toys/pre-school-and-electronic-learning/tonies/toniebox/tonies-toniebox-2-starter-set-sky-blue/p/251066"
-        },
-        {
           "source": "Argos",
-          "stars": 4.8,
-          "count": 47,
-          "url": "https://www.argos.co.uk/product/7705793"
+          "stars": 4.6,
+          "count": 79,
+          "url": "https://www.argos.co.uk/product/7663402"
         }
       ],
       "checkedRetailers": [
-        "Smyths Toys",
         "Argos",
-        "Currys",
-        "Next"
+        "Superdrug",
+        "Sports Direct"
       ],
       "blocked": [],
-      "similar": {
-        "category": "toys"
-      },
-      "notes": "Currys page loaded but showed no price"
+      "notes": "Argos shows the same 52-N1200S at £59.99 today (no was price shown there), cheaper than Very"
     },
-    "ct-love-frequency-perfume-set": {
+    "jl-lego-batman-legacy-dark-knight-switch-2": {
       "offers": [
         {
-          "retailer": "Cult Beauty",
-          "price": 97.5,
-          "url": "https://www.cultbeauty.co.uk/p/charlotte-tilbury-love-frequency-perfume-set/15467097/",
-          "inStock": false,
-          "checked": "2026-11-23T12:00:00Z"
+          "retailer": "Argos",
+          "price": 31.99,
+          "url": "https://www.argos.co.uk/product/9585076",
+          "inStock": null,
+          "checked": "2026-11-24T06:35:00Z",
+          "note": "Argos shows was £47.99"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Argos",
+          "stars": 4.75,
+          "count": 4,
+          "url": "https://www.argos.co.uk/product/9585076"
+        }
+      ],
+      "checkedRetailers": [
+        "Argos",
+        "Smyths Toys"
+      ],
+      "blocked": [],
+      "notes": "Smyths result was its Ireland store (euro pricing), not recorded"
+    },
+    "jl-lego-batman-legacy-dark-knight-ps5": {
+      "offers": [
+        {
+          "retailer": "Smyths Toys",
+          "price": 29.99,
+          "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/lego-games/lego-batman-legacy-of-the-dark-knight/lego-batman-legacy-of-the-dark-knight-standard-edition-ps5/p/256454",
+          "inStock": null,
+          "checked": "2026-11-24T06:35:00Z"
         }
       ],
       "ratings": [],
       "checkedRetailers": [
-        "Cult Beauty",
-        "Selfridges",
-        "Harrods"
+        "Smyths Toys",
+        "Currys"
       ],
       "blocked": [],
-      "similar": {
-        "category": "beauty"
-      },
-      "notes": "Selfridges and Harrods only surfaced non-UK storefront pages; not checked"
+      "notes": "Currys page loaded but showed no price"
     },
-    "argos-ninja-af200-air-fryer": {
-      "offers": [
-        {
-          "retailer": "AO",
-          "price": 129.0,
-          "url": "https://ao.com/product/af200uk-ninja-foodi-4in1-dual-zone-air-fryer-black-105075-672.aspx",
-          "inStock": true,
-          "note": "£120 with AO member price",
-          "checked": "2026-11-23T12:00:00Z"
-        }
-      ],
-      "ratings": [
-        {
-          "source": "Argos",
-          "stars": 4.8,
-          "count": 1261,
-          "url": "https://www.argos.co.uk/product/7163184"
-        },
-        {
-          "source": "AO",
-          "stars": 5.0,
-          "count": 4,
-          "url": "https://ao.com/product/af200uk-ninja-foodi-4in1-dual-zone-air-fryer-black-105075-672.aspx"
-        }
-      ],
-      "checkedRetailers": [
-        "AO",
-        "John Lewis",
-        "Currys"
-      ],
-      "blocked": [
-        "Currys"
-      ],
-      "similar": {
-        "category": "kitchen"
-      },
-      "notes": "John Lewis page: no longer available online"
-    },
-    "argos-vax-spotwash": {
+    "very-sackboy-big-adventure-ps5": {
       "offers": [],
       "ratings": [
         {
-          "source": "Argos",
-          "stars": 4.7,
-          "count": 953,
-          "url": "https://www.argos.co.uk/product/7766921"
+          "source": "Very",
+          "stars": 4.5,
+          "count": 8,
+          "url": "https://www.very.co.uk/playstation-sackboy-a-big-adventure-playstationreg5/1600485224.prd"
+        }
+      ],
+      "checkedRetailers": [
+        "Smyths Toys"
+      ],
+      "blocked": [],
+      "notes": "Smyths link opened a game listing, not this product page"
+    },
+    "very-marvels-spider-man-2-ps5": {
+      "offers": [
+        {
+          "retailer": "Smyths Toys",
+          "price": 24.99,
+          "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/marvels-spider-man-gaming/marvels-spider-man-2-ps5/p/229427",
+          "inStock": null,
+          "checked": "2026-11-24T06:35:00Z"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Very",
+          "stars": 4.9,
+          "count": 57,
+          "url": "https://www.very.co.uk/playstation-marvelrsquos-spider-man-2-playstationreg5/1600899673.prd"
+        },
+        {
+          "source": "Smyths Toys",
+          "stars": 4.9,
+          "count": 93,
+          "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/marvels-spider-man-gaming/marvels-spider-man-2-ps5/p/229427"
+        }
+      ],
+      "checkedRetailers": [
+        "Smyths Toys",
+        "John Lewis"
+      ],
+      "blocked": [],
+      "notes": "John Lewis page showed no price in the part that loaded"
+    },
+    "very-lego-star-wars-mandalorian-helmet-75328": {
+      "offers": [
+        {
+          "retailer": "John Lewis",
+          "price": 44.99,
+          "url": "https://JohnLewis.com/lego-star-wars-75328-the-mandalorian-helmet/p6108465",
+          "inStock": null,
+          "checked": "2026-11-24T06:35:00Z",
+          "note": "John Lewis shows was £59.99"
+        }
+      ],
+      "ratings": [
+        {
+          "source": "Very",
+          "stars": 4.9,
+          "count": 114,
+          "url": "https://www.very.co.uk/lego-star-wars-the-mandaloriantrade-helmet-75328/1600683694.prd"
+        },
+        {
+          "source": "John Lewis",
+          "stars": 5.0,
+          "count": 49,
+          "url": "https://JohnLewis.com/lego-star-wars-75328-the-mandalorian-helmet/p6108465"
         }
       ],
       "checkedRetailers": [
         "John Lewis",
-        "AO",
-        "Currys"
+        "Costco"
       ],
       "blocked": [],
-      "similar": {
-        "category": "home"
-      },
-      "notes": "Argos model appears to be CDSW-MPDC (Home and Car kit); John Lewis (£129) and AO list the different CDCW-CSXS SpotWash, so excluded"
+      "notes": "Costco page showed no price"
     }
   }
 }
