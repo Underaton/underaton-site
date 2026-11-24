@@ -1055,38 +1055,6 @@
       ],
       "blocked": [],
       "notes": "John Lewis page showed no price in the part that loaded"
-    },
-    "very-lego-star-wars-mandalorian-helmet-75328": {
-      "offers": [
-        {
-          "retailer": "John Lewis",
-          "price": 44.99,
-          "url": "https://JohnLewis.com/lego-star-wars-75328-the-mandalorian-helmet/p6108465",
-          "inStock": null,
-          "checked": "2026-11-24T06:35:00Z",
-          "note": "John Lewis shows was £59.99"
-        }
-      ],
-      "ratings": [
-        {
-          "source": "Very",
-          "stars": 4.9,
-          "count": 114,
-          "url": "https://www.very.co.uk/lego-star-wars-the-mandaloriantrade-helmet-75328/1600683694.prd"
-        },
-        {
-          "source": "John Lewis",
-          "stars": 5.0,
-          "count": 49,
-          "url": "https://JohnLewis.com/lego-star-wars-75328-the-mandalorian-helmet/p6108465"
-        }
-      ],
-      "checkedRetailers": [
-        "John Lewis",
-        "Costco"
-      ],
-      "blocked": [],
-      "notes": "Costco page showed no price"
     }
   }
 }
