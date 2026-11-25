@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:32:51Z",
+ "updated": "2026-11-25T12:55:19Z",
  "items": [
   {
    "id": "beyblade-sneak-attack-battle-set",
@@ -605,11 +605,19 @@
     },
     {
      "retailer": "John Lewis",
-     "price": 31.49,
-     "was": 44.99,
+     "price": 30.0,
+     "was": 0,
      "url": "https://www.johnlewis.com/lego-batman-legacy-of-the-dark-knight-ps5/p114817098",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-25T12:55:19Z"
+    },
+    {
+     "retailer": "Very",
+     "price": 30.99,
+     "was": 47.99,
+     "url": "https://www.very.co.uk/playstation-legoreg-batmantrade-legacy-of-the-dark-knight-playstationreg5/1601175519.prd",
+     "inStock": null,
+     "checked": "2026-11-25T12:55:19Z"
     }
    ]
   },
@@ -627,10 +635,10 @@
     {
      "retailer": "John Lewis",
      "price": 29.99,
-     "was": 44.95,
+     "was": 0,
      "url": "https://www.johnlewis.com/lego-batman-legacy-of-the-dark-knight-switch-2/p115001899",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "inStock": false,
+     "checked": "2026-11-25T12:55:19Z"
     },
     {
      "retailer": "Argos",
@@ -638,7 +646,7 @@
      "was": 47.99,
      "url": "https://www.argos.co.uk/product/9585076",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-25T12:55:19Z"
     }
    ]
   },
@@ -782,11 +790,11 @@
     },
     {
      "retailer": "Very",
-     "price": 47.99,
-     "was": 59.99,
+     "price": 59.99,
+     "was": 0,
      "url": "https://www.very.co.uk/playstation-call-of-dutyreg-modern-warfarereg-4-ndash-playstationreg5/1601175475.prd",
      "inStock": true,
-     "checked": "2026-11-25T06:32:51Z",
+     "checked": "2026-11-25T12:55:19Z",
      "note": "Very shows was £59.99"
     }
    ]

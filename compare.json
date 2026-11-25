@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:32:51Z",
+ "updated": "2026-11-25T12:55:19Z",
  "deals": {
   "dunelm-rainbow-blanket-hoodie": {
    "offers": [],
@@ -516,27 +516,6 @@
    },
    "notes": "No UK retailer product page found for this exact set/colour outside John Lewis"
   },
-  "nike-air-max-phoenix-older-kids": {
-   "offers": [],
-   "ratings": [
-    {
-     "source": "Nike",
-     "stars": null,
-     "count": 30,
-     "url": "https://www.nike.com/gb/t/air-max-phoenix-older-kids-shoes-WJnEMjq2",
-     "note": "'Highly Rated' badge; numeric average not shown"
-    }
-   ],
-   "checkedRetailers": [
-    "JD Sports",
-    "Foot Locker"
-   ],
-   "blocked": [],
-   "similar": {
-    "category": "sport"
-   },
-   "notes": "JD Sports Air Max Phoenix Junior page (£85) was Black/Anthracite, not the HF7052-019 colourway, so excluded"
-  },
   "boots-boss-bottled-night-edt-100ml": {
    "offers": [
     {
@@ -796,50 +775,6 @@
    "blocked": [],
    "notes": "Argos shows the same 52-N1200S at £59.99 today (no was price shown there), cheaper than Very"
   },
-  "jl-lego-batman-legacy-dark-knight-switch-2": {
-   "offers": [
-    {
-     "retailer": "Argos",
-     "price": 31.99,
-     "url": "https://www.argos.co.uk/product/9585076",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z",
-     "note": "Argos shows was £47.99"
-    }
-   ],
-   "ratings": [
-    {
-     "source": "Argos",
-     "stars": 4.75,
-     "count": 4,
-     "url": "https://www.argos.co.uk/product/9585076"
-    }
-   ],
-   "checkedRetailers": [
-    "Argos",
-    "Smyths Toys"
-   ],
-   "blocked": [],
-   "notes": "Smyths result was its Ireland store (euro pricing), not recorded"
-  },
-  "jl-lego-batman-legacy-dark-knight-ps5": {
-   "offers": [
-    {
-     "retailer": "Smyths Toys",
-     "price": 29.99,
-     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/lego-games/lego-batman-legacy-of-the-dark-knight/lego-batman-legacy-of-the-dark-knight-standard-edition-ps5/p/256454",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
-    }
-   ],
-   "ratings": [],
-   "checkedRetailers": [
-    "Smyths Toys",
-    "Currys"
-   ],
-   "blocked": [],
-   "notes": "Currys page loaded but showed no price"
-  },
   "very-sackboy-big-adventure-ps5": {
    "offers": [],
    "ratings": [
@@ -1051,47 +986,6 @@
     "category": "beauty"
    }
   },
-  "very-cod-modern-warfare-4-ps5": {
-   "offers": [
-    {
-     "retailer": "Argos",
-     "price": 48.99,
-     "url": "https://www.argos.co.uk/product/9673627",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z",
-     "note": "Argos shows was £58.99"
-    },
-    {
-     "retailer": "Smyths Toys",
-     "price": 47.99,
-     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/playstation-5-pre-order-games/call-of-duty-modern-warfare-4-ps5/p/263098",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
-    }
-   ],
-   "ratings": [
-    {
-     "source": "Very",
-     "stars": 5.0,
-     "count": 13,
-     "url": "https://www.very.co.uk/playstation-call-of-dutyreg-modern-warfarereg-4-ndash-playstationreg5/1601175475.prd"
-    },
-    {
-     "source": "Argos",
-     "stars": 4.7,
-     "count": 46,
-     "url": "https://www.argos.co.uk/product/9673627"
-    }
-   ],
-   "checkedRetailers": [
-    "Argos",
-    "Smyths Toys"
-   ],
-   "blocked": [],
-   "similar": {
-    "category": "gaming"
-   }
-  },
   "argos-magna-tiles-clear-32": {
    "offers": [],
    "ratings": [
@@ -1144,19 +1038,6 @@
    "checkedRetailers": [],
    "blocked": []
   },
-  "very-barbie-dream-boat-playset": {
-   "offers": [],
-   "ratings": [
-    {
-     "source": "Very",
-     "stars": 4.8,
-     "count": 64,
-     "url": "https://www.very.co.uk/barbie-dream-boatnbspwith-pool-andnbspslidenbspplayset/1600837600.prd"
-    }
-   ],
-   "checkedRetailers": [],
-   "blocked": []
-  },
   "argos-mini-brands-really-works-vinyl-playset": {
    "offers": [],
    "ratings": [
@@ -1186,6 +1067,57 @@
     "category": "home"
    },
    "notes": "Dunelm-exclusive licensed cushion; no other UK retailer page checked"
+  },
+  "argos-lego-batman-legacy-dark-knight-switch-2": {
+   "offers": [
+    {
+     "retailer": "John Lewis",
+     "price": 29.99,
+     "url": "https://www.johnlewis.com/lego-batman-legacy-of-the-dark-knight-switch-2/p115001899",
+     "inStock": false,
+     "checked": "2026-11-25T12:55:19Z",
+     "note": "Currently out of stock online"
+    }
+   ],
+   "ratings": [],
+   "checkedRetailers": [
+    "John Lewis",
+    "Currys"
+   ],
+   "blocked": []
+  },
+  "very-lego-batman-legacy-dark-knight-ps5": {
+   "offers": [
+    {
+     "retailer": "John Lewis",
+     "price": 30.0,
+     "url": "https://www.johnlewis.com/lego-batman-legacy-of-the-dark-knight-ps5/p114817098",
+     "inStock": true,
+     "checked": "2026-11-25T12:55:19Z"
+    }
+   ],
+   "ratings": [],
+   "checkedRetailers": [
+    "John Lewis",
+    "Currys"
+   ],
+   "blocked": []
+  },
+  "very-lego-pokemon-berry-bash-72155": {
+   "offers": [
+    {
+     "retailer": "Argos",
+     "price": 18.0,
+     "url": "https://www.argos.co.uk/product/9588743",
+     "inStock": null,
+     "checked": "2026-11-25T12:55:19Z"
+    }
+   ],
+   "ratings": [],
+   "checkedRetailers": [
+    "Argos"
+   ],
+   "blocked": []
   }
  }
 }
