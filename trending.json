@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:55:19Z",
+ "updated": "2026-11-26T06:35:00Z",
  "items": [
   {
    "id": "beyblade-sneak-attack-battle-set",
@@ -39,7 +39,7 @@
      "was": 30.0,
      "url": "https://www.argos.co.uk/product/9130263",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Smyths Toys",
@@ -47,7 +47,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/toys/fashion-and-dolls/clickeez/clickeez-clickable-bubble-pops-keyboard-mega-pack/p/259351",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -68,7 +68,7 @@
      "was": 0,
      "url": "https://smythstoys.com/uk/en-gb/toys/fashion-and-dolls/fur-real/furreal-plush-toy-interactive-pet-gabby-the-grow-and-roar-tiger/p/256517",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -89,7 +89,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/toys/arts-crafts-and-music/craft-sets/giftie-badge-maker-and-carry-case/p/258217",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -110,7 +110,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/8347253",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -131,7 +131,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/toys/construction-and-cars/hot-wheels/hot-wheels-playsets/hot-wheels-city-ultimate-t-rex-garage-playset/p/260006",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -152,7 +152,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/brand/kpop-demon-hunters/netflix-kpop-demon-hunters-singing-fashion-doll-golden-huntr-x-rumi/p/257988",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Argos",
@@ -160,7 +160,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/8691679",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -180,8 +180,9 @@
      "price": 72.0,
      "was": 0,
      "url": "https://www.johnlewis.com/lego-creator-31387-3-in-1-iconic-pirate-ship-building-toy/p115355990",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "inStock": false,
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "Currently out of stock online"
     },
     {
      "retailer": "Argos",
@@ -189,7 +190,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/8616939",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -218,7 +219,7 @@
      "was": 20.0,
      "url": "https://www.argos.co.uk/product/8560140",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -251,7 +252,7 @@
      "was": 60.0,
      "url": "https://www.argos.co.uk/product/8513692",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -273,7 +274,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/toys/action-figures-and-playsets/pokemon-toys/pokemon-trading-card-game-tcg/pokemon-trading-card-game-tcg-30th-celebration-elite-trainer-box/p/263924",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -294,7 +295,7 @@
      "was": 55.0,
      "url": "https://www.argos.co.uk/product/8788111",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -344,7 +345,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/toys/pre-school-and-electronic-learning/vtech-toys/vtech-electronic-learning/vtech-disney-pixar-toy-story-5-explore-and-learn-lilypad/p/255256",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Argos",
@@ -352,7 +353,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/7788916",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -373,7 +374,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pokemon-gaming/pokemon-pokopia-nintendo-switch-2/p/255477",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Argos",
@@ -381,7 +382,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/8023371",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -410,7 +411,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/pokemon-legends-z-a/pokemon-legends-z-a-nintendo-switch-2/p/251722",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Argos",
@@ -418,7 +419,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/7803293",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -440,7 +441,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/toys/action-figures-and-playsets/pokemon-toys/pokemon-trading-card-game-tcg/pokemon-trading-card-game-tcg-30th-celebration-booster-bundle/p/263935",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -469,7 +470,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/7688786",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -494,11 +495,12 @@
     },
     {
      "retailer": "John Lewis",
-     "price": 61.0,
+     "price": 74.99,
      "was": 0,
      "url": "https://johnlewis.com/mario-kart-world-switch-2/p113587794",
      "inStock": false,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "Currently out of stock online"
     },
     {
      "retailer": "Argos",
@@ -506,7 +508,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/7519295",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -527,7 +529,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/8995973",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Smyths Toys",
@@ -535,7 +537,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/nintendo-switch-sports-resort/nintendo-switch-sports-resort-nintendo-switch-2/p/263443",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "John Lewis",
@@ -544,6 +546,15 @@
      "url": "https://www.johnlewis.com/sports-resort-switch-2/p115500656",
      "inStock": null,
      "checked": "2026-11-25T06:32:51Z"
+    },
+    {
+     "retailer": "Very",
+     "price": 36.99,
+     "was": 41.99,
+     "url": "https://www.very.co.uk/nintendo-sports-resort-nintendo-switchnbsp2/1601289079.prd",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "Price from Very's Switch 2 games listing"
     }
    ]
   },
@@ -572,7 +583,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/nintendo-switch-2-pre-order-games/minecraft-dungeons-ii-nintendo-switch-2/p/263445",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Argos",
@@ -580,7 +591,16 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/9914379",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
+    },
+    {
+     "retailer": "Very",
+     "price": 35.99,
+     "was": 39.99,
+     "url": "https://www.very.co.uk/nintendo-minecraft-dungeons-ii-deluxe-edition-nintendo-switch-2/1601289058.prd",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "Price from Very's Switch 2 games listing"
     }
    ]
   },
@@ -601,7 +621,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/lego-games/lego-batman-legacy-of-the-dark-knight/lego-batman-legacy-of-the-dark-knight-standard-edition-ps5/p/256454",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "John Lewis",
@@ -616,8 +636,8 @@
      "price": 30.99,
      "was": 47.99,
      "url": "https://www.very.co.uk/playstation-legoreg-batmantrade-legacy-of-the-dark-knight-playstationreg5/1601175519.prd",
-     "inStock": null,
-     "checked": "2026-11-25T12:55:19Z"
+     "inStock": true,
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -646,7 +666,7 @@
      "was": 47.99,
      "url": "https://www.argos.co.uk/product/9585076",
      "inStock": null,
-     "checked": "2026-11-25T12:55:19Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -667,7 +687,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/sonic-racing-crossworlds/sonic-racing-crossworlds-ps5/p/251734",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "John Lewis",
@@ -683,7 +703,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/7796300",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -704,7 +724,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/8747444",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Smyths Toys",
@@ -712,7 +732,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/playstation-5-pre-order-games/grand-theft-auto-vi-ps5/p/263307",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "John Lewis",
@@ -741,7 +761,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/8747437",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Smyths Toys",
@@ -749,7 +769,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/xbox-series-x-pre-order-games/grand-theft-auto-vi-xbox-series-x/p/263308",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Very",
@@ -778,7 +798,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/playstation-5-pre-order-games/call-of-duty-modern-warfare-4-ps5/p/263098",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Argos",
@@ -786,16 +806,15 @@
      "was": 58.99,
      "url": "https://www.argos.co.uk/product/9673627",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Very",
-     "price": 59.99,
-     "was": 0,
+     "price": 47.99,
+     "was": 59.99,
      "url": "https://www.very.co.uk/playstation-call-of-dutyreg-modern-warfarereg-4-ndash-playstationreg5/1601175475.prd",
      "inStock": true,
-     "checked": "2026-11-25T12:55:19Z",
-     "note": "Very shows was £59.99"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   },
@@ -816,7 +835,7 @@
      "was": 0,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/marvels-wolverine/marvels-wolverine-ps5/p/263009",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "John Lewis",
@@ -832,7 +851,7 @@
      "was": 0,
      "url": "https://www.argos.co.uk/product/9586202",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ]
   }

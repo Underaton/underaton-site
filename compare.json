@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:55:19Z",
+ "updated": "2026-11-26T06:35:00Z",
  "deals": {
   "dunelm-rainbow-blanket-hoodie": {
    "offers": [],
@@ -95,8 +95,7 @@
      "source": "Dunelm",
      "stars": 4.4,
      "count": 59,
-     "url": "https://www.dunelm.com/product/cosy-cotton-electric-blanket-1000246448",
-     "note": "rating covers all sizes"
+     "url": "https://dunelm.com/product/cosy-cotton-electric-blanket-1000246448"
     }
    ],
    "checkedRetailers": [],
@@ -119,16 +118,16 @@
    ],
    "ratings": [
     {
-     "source": "John Lewis",
-     "stars": 4.7,
-     "count": 3892,
-     "url": "https://www.johnlewis.com/lancome-hypnose-mascara/01-noir/p1093266"
-    },
-    {
      "source": "Sephora",
      "stars": 4.73,
      "count": 1482,
      "url": "https://sephora.co.uk/p/Lancome-Hypnose-Custom-Wear-Mascara-62g"
+    },
+    {
+     "source": "John Lewis",
+     "stars": 4.7,
+     "count": 3892,
+     "url": "https://www.johnlewis.com/lancome-hypnose-mascara/01-noir/p1093266"
     }
    ],
    "checkedRetailers": [
@@ -150,15 +149,15 @@
      "price": 25.0,
      "url": "https://superdrug.com/fragrance/fragrance-for-him/mens-aftershave/davidoff-cool-water-man-eau-de-toilette-75ml/p/592758",
      "inStock": false,
-     "note": "No longer available online",
-     "checked": "2026-11-24T06:35:00Z"
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "No longer available online"
     },
     {
      "retailer": "LOOKFANTASTIC",
      "price": 30.0,
      "url": "https://lookfantastic.com/p/davidoff-cool-water-eau-de-toilette-75ml/11079879",
      "inStock": false,
-     "checked": "2026-11-24T06:35:00Z",
+     "checked": "2026-11-26T06:35:00Z",
      "note": "Sold out"
     }
    ],
@@ -179,28 +178,28 @@
      "price": 24.99,
      "url": "https://www.smythstoys.com/uk/p/255613",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     },
     {
      "retailer": "Argos",
      "price": 60.0,
      "url": "https://www.argos.co.uk/product/8177131",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ],
    "ratings": [
-    {
-     "source": "Very",
-     "stars": 3.0,
-     "count": 2,
-     "url": "https://www.very.co.uk/hot-wheels-mario-wheelie-motocross-rc-motorcycle-with-wheelie-action-amp-remote-control/1601310323.prd"
-    },
     {
      "source": "Smyths Toys",
      "stars": 5.0,
      "count": 3,
      "url": "https://www.smythstoys.com/uk/p/255613"
+    },
+    {
+     "source": "Very",
+     "stars": 3.0,
+     "count": 2,
+     "url": "https://www.very.co.uk/hot-wheels-mario-wheelie-motocross-rc-motorcycle-with-wheelie-action-amp-remote-control/1601310323.prd"
     }
    ],
    "checkedRetailers": [
@@ -281,8 +280,8 @@
      "price": 54.99,
      "url": "https://www.nike.com/gb/t/max-90-baby-toddler-shoes-Zw4tuWJ2",
      "inStock": null,
-     "note": "Nike Air Max 90 EasyOn Baby/Toddler, IH1418-028 Black/Black/White/Black",
-     "checked": "2026-11-24T06:35:00Z"
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "Nike page shows the Air Max 90 EasyOn Baby/Toddler at full price"
     }
    ],
    "ratings": [
@@ -329,9 +328,8 @@
     {
      "source": "M&S",
      "stars": 4.5,
-     "count": 4,
-     "url": "https://www.marksandspencer.com/ie/rechargeable-ceramic-base-jute-table-lamp/p/hbp60916082",
-     "note": "read from M&S Ireland page of same product"
+     "count": 6,
+     "url": "https://www.marksandspencer.com/rechargeable-ceramic-base-jute-table-lamp/p/hbp60916082"
     }
    ],
    "checkedRetailers": [],
@@ -371,7 +369,7 @@
     {
      "source": "adidas",
      "stars": 4.8,
-     "count": 2668,
+     "count": 2672,
      "url": "https://www.adidas.co.uk/essentials-fleece-3-stripes-full-zip-hoodie/GK9051.html"
     }
    ],
@@ -425,12 +423,6 @@
    ],
    "ratings": [
     {
-     "source": "John Lewis",
-     "stars": 4.7,
-     "count": 294,
-     "url": "https://johnlewis.com/bosch-ms6ca4150g-ergomixx-800w-hand-blender-white/p4879244"
-    },
-    {
      "source": "Argos",
      "stars": 4.8,
      "count": 514,
@@ -441,6 +433,12 @@
      "stars": 4.8,
      "count": 9,
      "url": "https://ao.com/product/ms6ca4150g-bosch-ergomixx-blender-white-100271-71.aspx"
+    },
+    {
+     "source": "John Lewis",
+     "stars": 4.7,
+     "count": 294,
+     "url": "https://www.johnlewis.com/bosch-ms6ca4150g-ergomixx-800w-hand-blender-white/p4879244"
     }
    ],
    "checkedRetailers": [
@@ -461,7 +459,7 @@
      "source": "adidas",
      "stars": 4.8,
      "count": 641,
-     "url": "https://www.adidas.co.uk/-/JQ7409.html"
+     "url": "https://www.adidas.co.uk/gazelle-bold-shoes/JQ7409.html"
     }
    ],
    "checkedRetailers": [
@@ -484,7 +482,7 @@
     {
      "source": "Dunelm",
      "stars": 4.2,
-     "count": 328,
+     "count": 330,
      "url": "https://www.dunelm.com/product/2-tier-heated-airer-1000197362"
     }
    ],
@@ -519,14 +517,6 @@
   "boots-boss-bottled-night-edt-100ml": {
    "offers": [
     {
-     "retailer": "Superdrug",
-     "price": 89.0,
-     "url": "https://www.superdrug.com/p/218116",
-     "inStock": false,
-     "note": "page says no longer available online",
-     "checked": "2026-11-24T06:35:00Z"
-    },
-    {
      "retailer": "LOOKFANTASTIC",
      "price": 66.75,
      "url": "https://www.lookfantastic.com/p/hugo-boss-bottled-night-eau-de-toilette-100ml/11858217/",
@@ -541,11 +531,19 @@
      "checked": "2026-11-25T06:32:51Z"
     },
     {
+     "retailer": "Superdrug",
+     "price": 89.0,
+     "url": "https://www.superdrug.com/p/218116",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "No longer available online"
+    },
+    {
      "retailer": "Next",
      "price": 75.0,
      "url": "https://www.next.co.uk/style/ls101116/L05882",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-26T06:35:00Z"
     }
    ],
    "ratings": [],
@@ -716,7 +714,7 @@
     {
      "source": "Dunelm",
      "stars": 4.3,
-     "count": 38,
+     "count": 39,
      "url": "https://www.dunelm.com/product/4-tier-heated-airer-1000273779"
     }
    ],
@@ -730,14 +728,6 @@
   "very-braun-series-5-52-n1200s": {
    "offers": [
     {
-     "retailer": "Superdrug",
-     "price": 59.99,
-     "url": "https://www.superdrug.com/gifts-for-dad/mens-shavers/braun-series-5-electric-shaver-for-men-52-n1200s/p/855501",
-     "inStock": false,
-     "checked": "2026-11-24T06:35:00Z",
-     "note": "No longer available online"
-    },
-    {
      "retailer": "Sports Direct",
      "price": 119.99,
      "url": "https://www.sportsdirect.com/braun-braun-series-5-electric-shaver-52-n1200s-black-387043",
@@ -749,8 +739,16 @@
      "price": 59.99,
      "url": "https://www.argos.co.uk/product/7663402",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z",
-     "note": "No was price shown at Argos"
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "No was price shown at Argos (\"Lowest Price Ever\")"
+    },
+    {
+     "retailer": "Superdrug",
+     "price": 59.99,
+     "url": "https://www.superdrug.com/gifts-for-dad/mens-shavers/braun-series-5-electric-shaver-for-men-52-n1200s/p/855501",
+     "inStock": false,
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "No longer available online; collect from store"
     }
    ],
    "ratings": [
@@ -803,16 +801,16 @@
    ],
    "ratings": [
     {
-     "source": "Very",
-     "stars": 4.9,
-     "count": 57,
-     "url": "https://www.very.co.uk/playstation-marvelrsquos-spider-man-2-playstationreg5/1600899673.prd"
-    },
-    {
      "source": "Smyths Toys",
      "stars": 4.9,
      "count": 93,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/marvels-spider-man-gaming/marvels-spider-man-2-ps5/p/229427"
+    },
+    {
+     "source": "Very",
+     "stars": 4.9,
+     "count": 57,
+     "url": "https://www.very.co.uk/playstation-marvelrsquos-spider-man-2-playstationreg5/1600899673.prd"
     }
    ],
    "checkedRetailers": [
@@ -975,7 +973,7 @@
    "ratings": [
     {
      "source": "Sephora",
-     "stars": 4.12,
+     "stars": 4.1,
      "count": 595,
      "url": "https://www.sephora.co.uk/p/dior-addict-lip-glow-oil-6ml"
     }
@@ -992,7 +990,7 @@
     {
      "source": "Argos",
      "stars": 4.8,
-     "count": 171,
+     "count": 172,
      "url": "https://www.argos.co.uk/product/4077792"
     }
    ],
@@ -1031,7 +1029,7 @@
     {
      "source": "Argos",
      "stars": 4.8,
-     "count": 1273,
+     "count": 1279,
      "url": "https://www.argos.co.uk/product/7163184"
     }
    ],
@@ -1058,7 +1056,7 @@
      "source": "Dunelm",
      "stars": 4.8,
      "count": 70,
-     "url": "https://www.dunelm.com/product/marvel-spider-man-cuddle-cushion-1000223522?defaultSkuId=30835594"
+     "url": "https://www.dunelm.com/product/marvel-spider-man-cuddle-cushion-1000223522"
     }
    ],
    "checkedRetailers": [],
@@ -1094,12 +1092,20 @@
      "url": "https://www.johnlewis.com/lego-batman-legacy-of-the-dark-knight-ps5/p114817098",
      "inStock": true,
      "checked": "2026-11-25T12:55:19Z"
+    },
+    {
+     "retailer": "Smyths Toys",
+     "price": 29.99,
+     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/lego-games/lego-batman-legacy-of-the-dark-knight/lego-batman-legacy-of-the-dark-knight-standard-edition-ps5/p/256454",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z"
     }
    ],
    "ratings": [],
    "checkedRetailers": [
     "John Lewis",
-    "Currys"
+    "Currys",
+    "Smyths Toys"
    ],
    "blocked": []
   },
@@ -1118,6 +1124,214 @@
     "Argos"
    ],
    "blocked": []
+  },
+  "argos-clickeez-bubble-pop-keyboard-mega-pack": {
+   "offers": [
+    {
+     "retailer": "Smyths Toys",
+     "price": 29.99,
+     "url": "https://www.smythstoys.com/uk/en-gb/toys/fashion-and-dolls/clickeez/clickeez-clickable-bubble-pops-keyboard-mega-pack/p/259351",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z"
+    }
+   ],
+   "ratings": [],
+   "checkedRetailers": [
+    "Smyths Toys"
+   ],
+   "blocked": []
+  },
+  "nike-academy-mens-tracksuit-hj3773-010": {
+   "offers": [],
+   "ratings": [
+    {
+     "source": "Nike",
+     "stars": 4.3,
+     "count": 3,
+     "url": "https://www.nike.com/gb/t/academy-mens-dri-fit-football-tracksuit-tD1YyFpn/HJ3773-010"
+    }
+   ],
+   "checkedRetailers": [],
+   "blocked": []
+  },
+  "adidas-sst-tracksuit-kids-kh0848": {
+   "offers": [],
+   "ratings": [
+    {
+     "source": "adidas",
+     "stars": 4.9,
+     "count": 47,
+     "url": "https://www.adidas.co.uk/sst-tracksuit/KH0848.html"
+    }
+   ],
+   "checkedRetailers": [],
+   "blocked": []
+  },
+  "argos-lego-harry-potter-knight-bus-76446": {
+   "offers": [
+    {
+     "retailer": "Very",
+     "price": 29.99,
+     "url": "https://www.very.co.uk/lego-harry-potter-knight-bus-adventure-toy-set-76446/1601094840.prd",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "Seen on Very's LEGO Harry Potter listing (another Very listing showed £31.99)"
+    }
+   ],
+   "ratings": [
+    {
+     "source": "Argos",
+     "stars": 4.8,
+     "count": 83,
+     "url": "https://argos.co.uk/product/4466341"
+    }
+   ],
+   "checkedRetailers": [
+    "Very",
+    "John Lewis",
+    "M&S"
+   ],
+   "blocked": [],
+   "similar": {
+    "category": "toys"
+   }
+  },
+  "very-nutribullet-900-series-deluxe": {
+   "offers": [
+    {
+     "retailer": "Argos",
+     "price": 60.0,
+     "url": "https://www.argos.co.uk/product/6525675",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "Was £90 at Argos (save 1/3); Argos cheaper today"
+    }
+   ],
+   "ratings": [
+    {
+     "source": "Very",
+     "stars": 4.5,
+     "count": 239,
+     "url": "https://www.very.co.uk/nutribullet-900-series-deluxe/1600159764.prd"
+    },
+    {
+     "source": "Argos",
+     "stars": 4.7,
+     "count": 1122,
+     "url": "https://www.argos.co.uk/product/6525675"
+    }
+   ],
+   "checkedRetailers": [
+    "Argos",
+    "Currys"
+   ],
+   "blocked": [
+    "Currys"
+   ],
+   "similar": {
+    "category": "kitchen"
+   }
+  },
+  "very-cod-modern-warfare-4-ps5": {
+   "offers": [
+    {
+     "retailer": "Smyths Toys",
+     "price": 47.99,
+     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/playstation-5-pre-order-games/call-of-duty-modern-warfare-4-ps5/p/263098",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z"
+    },
+    {
+     "retailer": "Argos",
+     "price": 48.99,
+     "url": "https://www.argos.co.uk/product/9673627",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z",
+     "note": "Was £58.99 at Argos"
+    }
+   ],
+   "ratings": [
+    {
+     "source": "Argos",
+     "stars": 4.7,
+     "count": 47,
+     "url": "https://www.argos.co.uk/product/9673627"
+    }
+   ],
+   "checkedRetailers": [
+    "Smyths Toys",
+    "Argos"
+   ],
+   "blocked": [],
+   "similar": {
+    "category": "gaming"
+   }
+  },
+  "very-switch-sports-resort-switch-2": {
+   "offers": [
+    {
+     "retailer": "Argos",
+     "price": 41.49,
+     "url": "https://www.argos.co.uk/product/8995973",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z"
+    },
+    {
+     "retailer": "Smyths Toys",
+     "price": 41.99,
+     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/nintendo-switch-sports-resort/nintendo-switch-sports-resort-nintendo-switch-2/p/263443",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z"
+    }
+   ],
+   "ratings": [],
+   "checkedRetailers": [
+    "Argos",
+    "Smyths Toys"
+   ],
+   "blocked": [],
+   "similar": {
+    "category": "gaming"
+   }
+  },
+  "footlocker-nike-air-max-phoenix-gs-black": {
+   "offers": [],
+   "ratings": [],
+   "checkedRetailers": [
+    "Nike"
+   ],
+   "blocked": [],
+   "similar": {
+    "category": "sport"
+   },
+   "notes": "Nike lists other Air Max Phoenix older kids' colourways (e.g. £62.99, was £89.99); not this exact colourway"
+  },
+  "very-minecraft-dungeons-ii-deluxe-switch-2": {
+   "offers": [
+    {
+     "retailer": "Smyths Toys",
+     "price": 37.99,
+     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/nintendo-switch-2-pre-order-games/minecraft-dungeons-ii-nintendo-switch-2/p/263445",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z"
+    },
+    {
+     "retailer": "Argos",
+     "price": 39.99,
+     "url": "https://www.argos.co.uk/product/9914379",
+     "inStock": null,
+     "checked": "2026-11-26T06:35:00Z"
+    }
+   ],
+   "ratings": [],
+   "checkedRetailers": [
+    "Smyths Toys",
+    "Argos"
+   ],
+   "blocked": [],
+   "similar": {
+    "category": "gaming"
+   }
   }
  }
 }
