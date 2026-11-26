@@ -725,54 +725,6 @@
    },
    "notes": "Dunelm own-brand; not sold elsewhere"
   },
-  "very-braun-series-5-52-n1200s": {
-   "offers": [
-    {
-     "retailer": "Sports Direct",
-     "price": 119.99,
-     "url": "https://www.sportsdirect.com/braun-braun-series-5-electric-shaver-52-n1200s-black-387043",
-     "inStock": null,
-     "checked": "2026-11-24T06:35:00Z"
-    },
-    {
-     "retailer": "Argos",
-     "price": 59.99,
-     "url": "https://www.argos.co.uk/product/7663402",
-     "inStock": null,
-     "checked": "2026-11-26T06:35:00Z",
-     "note": "No was price shown at Argos (\"Lowest Price Ever\")"
-    },
-    {
-     "retailer": "Superdrug",
-     "price": 59.99,
-     "url": "https://www.superdrug.com/gifts-for-dad/mens-shavers/braun-series-5-electric-shaver-for-men-52-n1200s/p/855501",
-     "inStock": false,
-     "checked": "2026-11-26T06:35:00Z",
-     "note": "No longer available online; collect from store"
-    }
-   ],
-   "ratings": [
-    {
-     "source": "Very",
-     "stars": 4.7,
-     "count": 61,
-     "url": "https://www.very.co.uk/braun-series-5-electric-shaver-up-to-50-min-1-attachment-52-n1200s-nbspblack/1601192314.prd"
-    },
-    {
-     "source": "Argos",
-     "stars": 4.6,
-     "count": 80,
-     "url": "https://www.argos.co.uk/product/7663402"
-    }
-   ],
-   "checkedRetailers": [
-    "Argos",
-    "Superdrug",
-    "Sports Direct"
-   ],
-   "blocked": [],
-   "notes": "Argos shows the same 52-N1200S at £59.99 today (no was price shown there), cheaper than Very"
-  },
   "very-sackboy-big-adventure-ps5": {
    "offers": [],
    "ratings": [
@@ -1023,19 +975,6 @@
    "checkedRetailers": [],
    "blocked": []
   },
-  "argos-ninja-af200-air-fryer": {
-   "offers": [],
-   "ratings": [
-    {
-     "source": "Argos",
-     "stars": 4.8,
-     "count": 1279,
-     "url": "https://www.argos.co.uk/product/7163184"
-    }
-   ],
-   "checkedRetailers": [],
-   "blocked": []
-  },
   "argos-mini-brands-really-works-vinyl-playset": {
    "offers": [],
    "ratings": [
@@ -1194,42 +1133,6 @@
    "blocked": [],
    "similar": {
     "category": "toys"
-   }
-  },
-  "very-nutribullet-900-series-deluxe": {
-   "offers": [
-    {
-     "retailer": "Argos",
-     "price": 60.0,
-     "url": "https://www.argos.co.uk/product/6525675",
-     "inStock": null,
-     "checked": "2026-11-26T06:35:00Z",
-     "note": "Was £90 at Argos (save 1/3); Argos cheaper today"
-    }
-   ],
-   "ratings": [
-    {
-     "source": "Very",
-     "stars": 4.5,
-     "count": 239,
-     "url": "https://www.very.co.uk/nutribullet-900-series-deluxe/1600159764.prd"
-    },
-    {
-     "source": "Argos",
-     "stars": 4.7,
-     "count": 1122,
-     "url": "https://www.argos.co.uk/product/6525675"
-    }
-   ],
-   "checkedRetailers": [
-    "Argos",
-    "Currys"
-   ],
-   "blocked": [
-    "Currys"
-   ],
-   "similar": {
-    "category": "kitchen"
    }
   },
   "very-cod-modern-warfare-4-ps5": {
