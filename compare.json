@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:35:00Z",
+ "updated": "2026-11-27T06:35:00Z",
  "deals": {
   "dunelm-rainbow-blanket-hoodie": {
    "offers": [],
@@ -178,14 +178,14 @@
      "price": 24.99,
      "url": "https://www.smythstoys.com/uk/p/255613",
      "inStock": null,
-     "checked": "2026-11-26T06:35:00Z"
+     "checked": "2026-11-27T06:35:00Z"
     },
     {
      "retailer": "Argos",
      "price": 60.0,
      "url": "https://www.argos.co.uk/product/8177131",
      "inStock": null,
-     "checked": "2026-11-26T06:35:00Z"
+     "checked": "2026-11-27T06:35:00Z"
     }
    ],
    "ratings": [
@@ -369,7 +369,7 @@
     {
      "source": "adidas",
      "stars": 4.8,
-     "count": 2672,
+     "count": 2675,
      "url": "https://www.adidas.co.uk/essentials-fleece-3-stripes-full-zip-hoodie/GK9051.html"
     }
    ],
@@ -406,33 +406,33 @@
   "jl-bosch-ergomixx-hand-blender": {
    "offers": [
     {
-     "retailer": "Argos",
-     "price": 34.99,
-     "url": "https://www.argos.co.uk/product/8136921",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z",
-     "note": "Argos shows was £69.99"
-    },
-    {
      "retailer": "AO",
      "price": 54.0,
      "url": "https://ao.com/product/ms6ca4150g-bosch-ergomixx-blender-white-100271-71.aspx",
      "inStock": true,
      "checked": "2026-11-25T06:32:51Z"
+    },
+    {
+     "retailer": "Argos",
+     "price": 34.99,
+     "url": "https://www.argos.co.uk/product/8136921",
+     "inStock": null,
+     "checked": "2026-11-27T06:35:00Z",
+     "note": "Argos shows was £69.99"
     }
    ],
    "ratings": [
-    {
-     "source": "Argos",
-     "stars": 4.8,
-     "count": 514,
-     "url": "https://www.argos.co.uk/product/8136921"
-    },
     {
      "source": "AO",
      "stars": 4.8,
      "count": 9,
      "url": "https://ao.com/product/ms6ca4150g-bosch-ergomixx-blender-white-100271-71.aspx"
+    },
+    {
+     "source": "Argos",
+     "stars": 4.8,
+     "count": 514,
+     "url": "https://www.argos.co.uk/product/8136921"
     },
     {
      "source": "John Lewis",
@@ -517,13 +517,6 @@
   "boots-boss-bottled-night-edt-100ml": {
    "offers": [
     {
-     "retailer": "LOOKFANTASTIC",
-     "price": 66.75,
-     "url": "https://www.lookfantastic.com/p/hugo-boss-bottled-night-eau-de-toilette-100ml/11858217/",
-     "inStock": true,
-     "checked": "2026-11-25T06:32:51Z"
-    },
-    {
      "retailer": "The Perfume Shop",
      "price": 71.2,
      "url": "https://theperfumeshop.com/p/1098557",
@@ -539,11 +532,19 @@
      "note": "No longer available online"
     },
     {
+     "retailer": "LOOKFANTASTIC",
+     "price": 62.3,
+     "url": "https://www.lookfantastic.com/p/hugo-boss-bottled-night-eau-de-toilette-100ml/11858217/",
+     "inStock": true,
+     "checked": "2026-11-27T06:35:00Z"
+    },
+    {
      "retailer": "Next",
      "price": 75.0,
      "url": "https://www.next.co.uk/style/ls101116/L05882",
      "inStock": null,
-     "checked": "2026-11-26T06:35:00Z"
+     "checked": "2026-11-27T06:35:00Z",
+     "note": "Next shows was £84"
     }
    ],
    "ratings": [],
@@ -624,13 +625,6 @@
      "checked": "2026-11-24T06:35:00Z"
     },
     {
-     "retailer": "LOOKFANTASTIC",
-     "price": 72.0,
-     "url": "https://www.lookfantastic.com/p/versace-dylan-blue-eau-de-toilette-100ml/11315783/",
-     "inStock": true,
-     "checked": "2026-11-25T06:32:51Z"
-    },
-    {
      "retailer": "Next",
      "price": 78.0,
      "url": "https://www.next.co.uk/style/ls112323/r15998",
@@ -644,6 +638,13 @@
      "inStock": null,
      "checked": "2026-11-25T06:32:51Z",
      "note": "Page shows a £55.50-£64.32 range for 50ml/100ml; 100ml assumed to be the upper figure"
+    },
+    {
+     "retailer": "LOOKFANTASTIC",
+     "price": 72.0,
+     "url": "https://www.lookfantastic.com/p/versace-dylan-blue-eau-de-toilette-100ml/11315783/",
+     "inStock": true,
+     "checked": "2026-11-27T06:35:00Z"
     }
    ],
    "ratings": [
@@ -746,9 +747,9 @@
     {
      "retailer": "Smyths Toys",
      "price": 24.99,
-     "url": "https://smythstoys.com/uk/en-gb/gaming-and-tech/games/marvels-spider-man-gaming/marvels-spider-man-2-ps5/p/229427",
+     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/marvels-spider-man-gaming/marvels-spider-man-2-ps5/p/229427",
      "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
+     "checked": "2026-11-27T06:35:00Z"
     }
    ],
    "ratings": [
@@ -858,7 +859,7 @@
      "price": 77.6,
      "url": "https://boots.com/lancome-la-vie-est-belle-eau-de-parfum-50ml-10145849",
      "inStock": true,
-     "checked": "2026-11-25T06:32:51Z",
+     "checked": "2026-11-27T06:35:00Z",
      "note": "Boots shows was £97"
     }
    ],
@@ -925,7 +926,7 @@
    "ratings": [
     {
      "source": "Sephora",
-     "stars": 4.1,
+     "stars": 4.12,
      "count": 595,
      "url": "https://www.sephora.co.uk/p/dior-addict-lip-glow-oil-6ml"
     }
@@ -976,7 +977,15 @@
    "blocked": []
   },
   "argos-mini-brands-really-works-vinyl-playset": {
-   "offers": [],
+   "offers": [
+    {
+     "retailer": "Smyths Toys",
+     "price": 14.99,
+     "url": "https://www.smythstoys.com/uk/en-gb/toys/fashion-and-dolls/5-surprise-mini-brands/mini-brands-really-works-vinyl-series-1-playset-by-zuru/p/255865",
+     "inStock": null,
+     "checked": "2026-11-27T06:35:00Z"
+    }
+   ],
    "ratings": [
     {
      "source": "Argos",
@@ -985,7 +994,9 @@
      "url": "https://www.argos.co.uk/product/8560140"
     }
    ],
-   "checkedRetailers": [],
+   "checkedRetailers": [
+    "Smyths Toys"
+   ],
    "blocked": []
   },
   "dunelm-marvel-spider-man-cuddle-cushion": {
@@ -1012,14 +1023,30 @@
      "price": 29.99,
      "url": "https://www.johnlewis.com/lego-batman-legacy-of-the-dark-knight-switch-2/p115001899",
      "inStock": false,
-     "checked": "2026-11-25T12:55:19Z",
+     "checked": "2026-11-27T06:35:00Z",
      "note": "Currently out of stock online"
+    },
+    {
+     "retailer": "Very",
+     "price": 32.0,
+     "url": "https://www.very.co.uk/nintendo-legoreg-batmantrade-legacy-of-the-dark-knight-nintendo-switch-2/1601175563.prd",
+     "inStock": null,
+     "checked": "2026-11-27T06:35:00Z",
+     "note": "Seen on Very's LEGO games listing (was £47)"
     }
    ],
-   "ratings": [],
+   "ratings": [
+    {
+     "source": "Argos",
+     "stars": 4.8,
+     "count": 4,
+     "url": "https://www.argos.co.uk/product/9585076"
+    }
+   ],
    "checkedRetailers": [
     "John Lewis",
-    "Currys"
+    "Currys",
+    "Very"
    ],
    "blocked": []
   },
@@ -1037,7 +1064,7 @@
      "price": 29.99,
      "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/lego-games/lego-batman-legacy-of-the-dark-knight/lego-batman-legacy-of-the-dark-knight-standard-edition-ps5/p/256454",
      "inStock": null,
-     "checked": "2026-11-26T06:35:00Z"
+     "checked": "2026-11-27T06:35:00Z"
     }
    ],
    "ratings": [],
@@ -1071,10 +1098,17 @@
      "price": 29.99,
      "url": "https://www.smythstoys.com/uk/en-gb/toys/fashion-and-dolls/clickeez/clickeez-clickable-bubble-pops-keyboard-mega-pack/p/259351",
      "inStock": null,
-     "checked": "2026-11-26T06:35:00Z"
+     "checked": "2026-11-27T06:35:00Z"
     }
    ],
-   "ratings": [],
+   "ratings": [
+    {
+     "source": "Smyths Toys",
+     "stars": 4.5,
+     "count": 14,
+     "url": "https://www.smythstoys.com/uk/en-gb/toys/fashion-and-dolls/clickeez/clickeez-clickable-bubble-pops-keyboard-mega-pack/p/259351"
+    }
+   ],
    "checkedRetailers": [
     "Smyths Toys"
    ],
@@ -1135,41 +1169,6 @@
     "category": "toys"
    }
   },
-  "very-cod-modern-warfare-4-ps5": {
-   "offers": [
-    {
-     "retailer": "Smyths Toys",
-     "price": 47.99,
-     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/playstation-5-pre-order-games/call-of-duty-modern-warfare-4-ps5/p/263098",
-     "inStock": null,
-     "checked": "2026-11-26T06:35:00Z"
-    },
-    {
-     "retailer": "Argos",
-     "price": 48.99,
-     "url": "https://www.argos.co.uk/product/9673627",
-     "inStock": null,
-     "checked": "2026-11-26T06:35:00Z",
-     "note": "Was £58.99 at Argos"
-    }
-   ],
-   "ratings": [
-    {
-     "source": "Argos",
-     "stars": 4.7,
-     "count": 47,
-     "url": "https://www.argos.co.uk/product/9673627"
-    }
-   ],
-   "checkedRetailers": [
-    "Smyths Toys",
-    "Argos"
-   ],
-   "blocked": [],
-   "similar": {
-    "category": "gaming"
-   }
-  },
   "very-switch-sports-resort-switch-2": {
    "offers": [
     {
@@ -1177,20 +1176,35 @@
      "price": 41.49,
      "url": "https://www.argos.co.uk/product/8995973",
      "inStock": null,
-     "checked": "2026-11-26T06:35:00Z"
+     "checked": "2026-11-27T06:35:00Z"
     },
     {
      "retailer": "Smyths Toys",
      "price": 41.99,
-     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/games/nintendo-switch-sports-resort/nintendo-switch-sports-resort-nintendo-switch-2/p/263443",
+     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/nintendo-switch-2-pre-order-games/nintendo-switch-sports-resort-switch-2/p/263443",
      "inStock": null,
-     "checked": "2026-11-26T06:35:00Z"
+     "checked": "2026-11-27T06:35:00Z"
+    },
+    {
+     "retailer": "John Lewis",
+     "price": 41.99,
+     "url": "https://www.johnlewis.com/sports-resort-switch-2/p115500656",
+     "inStock": null,
+     "checked": "2026-11-27T06:35:00Z"
     }
    ],
-   "ratings": [],
+   "ratings": [
+    {
+     "source": "Argos",
+     "stars": 4.7,
+     "count": 21,
+     "url": "https://www.argos.co.uk/product/8995973"
+    }
+   ],
    "checkedRetailers": [
     "Argos",
-    "Smyths Toys"
+    "Smyths Toys",
+    "John Lewis"
    ],
    "blocked": [],
    "similar": {
@@ -1212,18 +1226,18 @@
   "very-minecraft-dungeons-ii-deluxe-switch-2": {
    "offers": [
     {
-     "retailer": "Smyths Toys",
-     "price": 37.99,
-     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/nintendo-switch-2-pre-order-games/minecraft-dungeons-ii-nintendo-switch-2/p/263445",
-     "inStock": null,
-     "checked": "2026-11-26T06:35:00Z"
-    },
-    {
      "retailer": "Argos",
      "price": 39.99,
      "url": "https://www.argos.co.uk/product/9914379",
      "inStock": null,
      "checked": "2026-11-26T06:35:00Z"
+    },
+    {
+     "retailer": "Smyths Toys",
+     "price": 37.99,
+     "url": "https://www.smythstoys.com/uk/en-gb/gaming-and-tech/pre-order-games/nintendo-switch-2-pre-order-games/minecraft-dungeons-ii-deluxe-edition-nintendo-switch-2/p/263445",
+     "inStock": null,
+     "checked": "2026-11-27T06:35:00Z"
     }
    ],
    "ratings": [],
@@ -1235,6 +1249,165 @@
    "similar": {
     "category": "gaming"
    }
+  },
+  "argos-primal-hatch-megalodon": {
+   "offers": [],
+   "ratings": [
+    {
+     "source": "Argos",
+     "stars": 5.0,
+     "count": 2,
+     "url": "https://www.argos.co.uk/product/8788111"
+    }
+   ],
+   "checkedRetailers": [],
+   "blocked": []
+  },
+  "argos-paw-patrol-megasaurus-dino-vehicle": {
+   "offers": [],
+   "ratings": [
+    {
+     "source": "Argos",
+     "stars": 5.0,
+     "count": 2,
+     "url": "https://www.argos.co.uk/product/8513692"
+    }
+   ],
+   "checkedRetailers": [],
+   "blocked": []
+  },
+  "very-lego-horizon-adventures-switch": {
+   "offers": [
+    {
+     "retailer": "Argos",
+     "price": 37.1,
+     "url": "https://www.argos.co.uk/product/4499899",
+     "inStock": null,
+     "checked": "2026-11-27T06:35:00Z",
+     "note": "Argos shows was £49.50"
+    }
+   ],
+   "ratings": [],
+   "checkedRetailers": [
+    "Argos"
+   ],
+   "blocked": [],
+   "similar": {
+    "category": "gaming"
+   }
+  },
+  "lf-gucci-flora-gorgeous-jasmine-edp-50ml": {
+   "offers": [
+    {
+     "retailer": "The Perfume Shop",
+     "price": 84.0,
+     "url": "https://theperfumeshop.com/p/1273251",
+     "inStock": null,
+     "checked": "2026-11-27T06:35:00Z",
+     "note": "The Perfume Shop shows RRP £105"
+    },
+    {
+     "retailer": "Boots",
+     "price": 95.0,
+     "url": "https://boots.com/gucci-flora-gorgeous-jasmine-for-her-eau-de-parfum-50ml-10316886",
+     "inStock": false,
+     "checked": "2026-11-27T06:35:00Z",
+     "note": "Stock coming soon online"
+    }
+   ],
+   "ratings": [],
+   "checkedRetailers": [
+    "The Perfume Shop",
+    "Boots"
+   ],
+   "blocked": []
+  },
+  "lf-givenchy-gentleman-reserve-privee-edp-100ml": {
+   "offers": [
+    {
+     "retailer": "Boots",
+     "price": 75.75,
+     "url": "https://boots.com/givenchy-gentleman-reserve-privee-eau-de-parfum-100ml-10311260",
+     "inStock": false,
+     "checked": "2026-11-27T06:35:00Z",
+     "note": "Boots shows was £101; stock coming soon online"
+    }
+   ],
+   "ratings": [],
+   "checkedRetailers": [
+    "Boots"
+   ],
+   "blocked": []
+  },
+  "lf-prada-paradoxe-edp-30ml": {
+   "offers": [
+    {
+     "retailer": "Sephora",
+     "price": 56.25,
+     "url": "https://www.sephora.co.uk/p/Prada-Paradoxe-Eau-de-Parfum-30ml",
+     "inStock": null,
+     "checked": "2026-11-27T06:35:00Z",
+     "note": "Sephora shows was £75"
+    },
+    {
+     "retailer": "Superdrug",
+     "price": 60.0,
+     "url": "https://www.superdrug.com/p/822118",
+     "inStock": null,
+     "checked": "2026-11-27T06:35:00Z",
+     "note": "Page says no longer available online"
+    },
+    {
+     "retailer": "Boots",
+     "price": 72.0,
+     "url": "https://boots.com/prada-paradoxe-eau-de-parfum-30ml-10317216",
+     "inStock": true,
+     "checked": "2026-11-27T06:35:00Z"
+    }
+   ],
+   "ratings": [
+    {
+     "source": "Sephora",
+     "stars": 4.75,
+     "count": 9796,
+     "url": "https://www.sephora.co.uk/p/Prada-Paradoxe-Eau-de-Parfum-30ml"
+    }
+   ],
+   "checkedRetailers": [
+    "Sephora",
+    "Superdrug",
+    "Boots"
+   ],
+   "blocked": []
+  },
+  "argos-starts-with-ends-with-game": {
+   "offers": [],
+   "ratings": [
+    {
+     "source": "Argos",
+     "stars": 4.5,
+     "count": 8,
+     "url": "https://www.argos.co.uk/product/9231643"
+    }
+   ],
+   "checkedRetailers": [],
+   "blocked": []
+  },
+  "lf-fenty-body-mist-vanilla-flowers-75ml": {
+   "offers": [],
+   "ratings": [],
+   "checkedRetailers": [
+    "Cult Beauty",
+    "John Lewis"
+   ],
+   "blocked": [],
+   "notes": "Cult Beauty and John Lewis pages did not show this 75ml price"
+  },
+  "dunelm-liberty-house-toys-floor-rocker": {
+   "offers": [],
+   "ratings": [],
+   "checkedRetailers": [],
+   "blocked": []
   }
  }
 }
