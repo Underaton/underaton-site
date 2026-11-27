@@ -274,7 +274,7 @@ footer .flinks { display: flex; gap: 16px; flex-wrap: wrap; font-weight: 600; co
     </form>
     <div class="quick" aria-label="Popular searches"><button type="button" data-q="perfume">Perfume</button><button type="button" data-q="trainers">Trainers</button><button type="button" data-q="lego">LEGO</button><button type="button" data-q="pokemon">Pokémon</button><button type="button" data-q="gaming">Video games</button><button type="button" data-q="for kids">For kids</button><button type="button" data-q="for him">For him</button><button type="button" data-q="for her">For her</button><button type="button" data-q="kitchen">Kitchen</button></div>
     <div class="trust"><span>Prices checked on retailers' own sites</span><span id="trust-updated"><!--SSR:UPDATED-->Updated 27 November 2026<!--/SSR:UPDATED--></span><span>Buy direct from the retailer</span></div>
-    <div class="trend"><span>Trending now:</span><a href="/guides/most-wanted-toys-2026.html">Most-wanted toys 2026</a><a href="/guides/video-game-prices.html">Video game prices incl. GTA VI</a><a href="/guides/christmas-last-order-dates-2026.html">Christmas last order dates</a></div>
+    <div class="trend"><span>Trending now:</span><a href="/guides/most-wanted-toys-2026.html">Most-wanted toys 2026</a><a href="/guides/video-game-prices.html">Video game prices incl. GTA VI</a><a href="/guides/christmas-last-order-dates-2026.html">Christmas last order dates</a><a href="/guides/book-gifts-under-20.html">Signed books under £20</a></div>
     <div class="shelves">
       <button class="shelf s20" data-tier="20"><span class="amt">Under £20</span><span class="cnt" id="c20">0 deals</span></button>
       <button class="shelf s50" data-tier="50"><span class="amt">Under £50</span><span class="cnt" id="c50">0 deals</span></button>
@@ -459,10 +459,11 @@ footer .flinks { display: flex; gap: 16px; flex-wrap: wrap; font-weight: 600; co
     return true;
   }
 
+  window.imgFail = function (el) { var a = el.getAttribute("data-alt"); if (a) { el.removeAttribute("data-alt"); el.src = a; } else { el.style.display = "none"; } };
   function art(d, big) {
     var t = TYPES[guessType(d)], off = pct(d), tr = tierOf(d.price);
     var tc = tr === "20" ? "var(--t20)" : tr === "50" ? "var(--t50)" : "var(--t100)";
-    return '<div class="art' + (d.image ? ' photo' : '') + '" style="background:' + (d.image ? '#fff' : t.bg) + ";--tc:" + tc + (big ? ";aspect-ratio:auto;height:100%" : "") + '">' + (d.image && /^https:\/\//.test(d.image) ? '<img src="' + esc(d.image) + '" alt="' + esc(d.title) + '" loading="lazy" decoding="async">' : icon(guessType(d), t.fg)) +
+    return '<div class="art' + (d.image ? ' photo' : '') + '" style="background:' + (d.image ? '#fff' : t.bg) + ";--tc:" + tc + (big ? ";aspect-ratio:auto;height:100%" : "") + '">' + (d.image && /^https:\/\//.test(d.image) ? '<img src="' + esc(d.image) + '" alt="' + esc(d.title) + '" loading="lazy" decoding="async"' + (d.image2 ? ' data-alt="' + esc(d.image2) + '"' : '') + ' onerror="imgFail(this)">' : icon(guessType(d), t.fg)) +
       (off ? '<span class="off">-' + off + "%</span>" : "") + badges(d) + '<span class="tier">Under £' + tr + '</span><span class="ret">' + esc(d.retailer) + "</span></div>";
   }
   function isNew(d) { var t = Date.parse(d.added); return !isNaN(t) && Date.now() - t < 36 * 3600e3; }
