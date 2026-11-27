@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:56:34Z",
+ "updated": "2026-11-27T13:40:00Z",
  "deals": [
   {
    "id": "dunelm-rainbow-blanket-hoodie",
@@ -20,28 +20,6 @@
     "christmas",
     "secret-santa",
     "birthday"
-   ]
-  },
-  {
-   "id": "lf-ghd-mini-bodyguard-50ml",
-   "title": "ghd Mini Bodyguard Heat Protect Spray 50ml",
-   "retailer": "LOOKFANTASTIC",
-   "url": "https://www.lookfantastic.com/p/ghd-mini-bodyguard-heat-protect-spray-50ml/13052047",
-   "price": 8.75,
-   "was": 12.5,
-   "checked": "2026-11-27T12:56:34Z",
-   "added": "2026-11-25T06:32:51Z",
-   "note": "30% off; in stock",
-   "category": "beauty",
-   "for": [
-    "her"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "mothers-day",
-    "secret-santa",
-    "thank-you"
    ]
   },
   {
@@ -103,27 +81,6 @@
     "christmas",
     "secret-santa",
     "birthday"
-   ]
-  },
-  {
-   "id": "lf-fenty-body-mist-vanilla-flowers-75ml",
-   "title": "Fenty Skin All Over Body Mist, Vanilla Flowers 75ml",
-   "retailer": "LOOKFANTASTIC",
-   "url": "https://www.lookfantastic.com/p/fenty-fragrance-allover-body-mist-vanilla-flower-mini-75ml/17736484/",
-   "price": 12.6,
-   "was": 18.0,
-   "checked": "2026-11-27T12:56:34Z",
-   "added": "2026-11-27T06:35:00Z",
-   "note": "30% off; in stock",
-   "category": "beauty",
-   "for": [
-    "her"
-   ],
-   "occasions": [
-    "christmas",
-    "secret-santa",
-    "birthday",
-    "thank-you"
    ]
   },
   {
@@ -227,28 +184,6 @@
    ],
    "checked": "2026-11-27T12:56:34Z",
    "added": "2026-11-26T12:55:00Z"
-  },
-  {
-   "id": "lf-ghd-bodyguard-120ml",
-   "title": "ghd Bodyguard Heat Protect Spray 120ml",
-   "retailer": "LOOKFANTASTIC",
-   "url": "https://lookfantastic.com/p/ghd-bodyguard-heat-protect-spray-120ml/11195523",
-   "price": 16.77,
-   "was": 23.95,
-   "checked": "2026-11-27T12:56:34Z",
-   "added": "2026-11-25T06:32:51Z",
-   "note": "30% off; in stock",
-   "category": "beauty",
-   "for": [
-    "her"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "mothers-day",
-    "secret-santa",
-    "thank-you"
-   ]
   },
   {
    "id": "ms-flat-head-rechargeable-lamp",
@@ -382,27 +317,6 @@
    "checked": "2026-11-27T12:56:34Z",
    "added": "2026-11-17T22:27:30Z",
    "note": "30% off Black Friday makeup",
-   "category": "beauty",
-   "for": [
-    "her"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "mothers-day",
-    "thank-you"
-   ]
-  },
-  {
-   "id": "lf-laneige-bouncy-firm-sleeping-mask-60ml",
-   "title": "LANEIGE Bouncy and Firm Sleeping Mask 60ml",
-   "retailer": "LOOKFANTASTIC",
-   "url": "https://www.lookfantastic.com/p/laneige-bouncy-and-firm-sleeping-mask-60ml/14979950",
-   "price": 22.4,
-   "was": 32.0,
-   "checked": "2026-11-27T12:56:34Z",
-   "added": "2026-11-25T06:32:51Z",
-   "note": "30% off; in stock",
    "category": "beauty",
    "for": [
     "her"
@@ -1153,72 +1067,6 @@
    ]
   },
   {
-   "id": "lf-givenchy-gentleman-reserve-privee-edp-100ml",
-   "title": "Givenchy Gentleman Eau de Parfum Réserve Privée 100ml",
-   "retailer": "LOOKFANTASTIC",
-   "url": "https://www.lookfantastic.com/p/givenchy-gentleman-eau-de-parfum-reserve-privee-100ml/13716484/",
-   "price": 51.5,
-   "was": 103.0,
-   "checked": "2026-11-27T12:56:34Z",
-   "added": "2026-11-27T06:35:00Z",
-   "note": "Half price, one week only; in stock",
-   "category": "beauty",
-   "for": [
-    "him"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "anniversary",
-    "valentines",
-    "fathers-day"
-   ]
-  },
-  {
-   "id": "lf-gucci-flora-gorgeous-jasmine-edp-50ml",
-   "title": "Gucci Flora Gorgeous Jasmine Eau de Parfum 50ml",
-   "retailer": "LOOKFANTASTIC",
-   "url": "https://www.lookfantastic.com/p/gucci-flora-gorgeous-jasmine-for-her-eau-de-parfum-50ml/16712514/",
-   "price": 52.5,
-   "was": 105.0,
-   "checked": "2026-11-27T12:56:34Z",
-   "added": "2026-11-27T06:35:00Z",
-   "note": "Half price, one week only; in stock",
-   "category": "beauty",
-   "for": [
-    "her"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "anniversary",
-    "valentines",
-    "mothers-day"
-   ]
-  },
-  {
-   "id": "lf-prada-paradoxe-edp-30ml",
-   "title": "Prada Paradoxe Eau de Parfum 30ml",
-   "retailer": "LOOKFANTASTIC",
-   "url": "https://www.lookfantastic.com/p/prada-paradoxe-eau-de-parfum-30ml/13765256/",
-   "price": 52.5,
-   "was": 75.0,
-   "checked": "2026-11-27T12:56:34Z",
-   "added": "2026-11-27T06:35:00Z",
-   "note": "30% off; in stock",
-   "category": "beauty",
-   "for": [
-    "her"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "anniversary",
-    "valentines",
-    "mothers-day"
-   ]
-  },
-  {
    "id": "footlocker-nike-air-max-phoenix-gs-black",
    "title": "Nike Air Max Phoenix Grade School Shoes, Black/Anthracite",
    "retailer": "Foot Locker",
@@ -1300,28 +1148,6 @@
    "added": "2026-11-26T12:55:00Z"
   },
   {
-   "id": "lf-lancome-la-vie-est-belle-edp-50ml",
-   "title": "Lancôme La Vie Est Belle Eau de Parfum 50ml",
-   "retailer": "LOOKFANTASTIC",
-   "url": "https://lookfantastic.com/p/lancome-la-vie-est-belle-eau-de-parfum-50ml/11077830",
-   "price": 67.9,
-   "was": 97.0,
-   "checked": "2026-11-27T12:56:34Z",
-   "added": "2026-11-25T06:32:51Z",
-   "note": "30% off; in stock",
-   "category": "beauty",
-   "for": [
-    "her"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "anniversary",
-    "valentines",
-    "mothers-day"
-   ]
-  },
-  {
    "id": "jl-le-creuset-skinny-grill",
    "title": "Le Creuset Essentials Cast Iron 24cm Skinny Square Grill",
    "retailer": "John Lewis",
@@ -1362,28 +1188,6 @@
    ]
   },
   {
-   "id": "lf-rabanne-1-million-edt-100ml",
-   "title": "Rabanne 1 Million Eau de Toilette 100ml",
-   "retailer": "LOOKFANTASTIC",
-   "url": "https://www.lookfantastic.com/p/paco-rabanne-1million-eau-de-toilette-spray-100ml/10643789",
-   "price": 72.8,
-   "was": 91.0,
-   "checked": "2026-11-27T12:56:34Z",
-   "added": "2026-11-25T06:32:51Z",
-   "note": "20% off; in stock",
-   "category": "beauty",
-   "for": [
-    "him"
-   ],
-   "occasions": [
-    "christmas",
-    "birthday",
-    "anniversary",
-    "valentines",
-    "fathers-day"
-   ]
-  },
-  {
    "id": "footlocker-nike-air-max-90-men-white-crimson",
    "title": "Nike Air Max 90 Men's Trainers, White/Light Crimson",
    "retailer": "Foot Locker",
@@ -1420,6 +1224,173 @@
    "occasions": [
     "christmas",
     "housewarming"
+   ]
+  },
+  {
+   "id": "tgjones-lego-harry-potter-hogwarts-castle-charms-class-76442",
+   "title": "LEGO Harry Potter Hogwarts Castle: Charms Class 76442",
+   "retailer": "TGJones",
+   "url": "https://www.tgjonesonline.co.uk/product/lego-harry-potter-hogwarts-castle-charms-class-76442/15675070",
+   "price": 14,
+   "was": 18,
+   "checked": "2026-11-27T13:40:00Z",
+   "added": "2026-11-27T13:40:00Z",
+   "note": "save £4; was-price shown on TGJones's own sale page (27 Nov)",
+   "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "secret-santa"
+   ]
+  },
+  {
+   "id": "tgjones-lego-minecraft-the-baby-pig-house-21268",
+   "title": "LEGO Minecraft The Baby Pig House 21268",
+   "retailer": "TGJones",
+   "url": "https://www.tgjonesonline.co.uk/product/lego-minecraft-the-baby-pig-house-21268/15675074",
+   "price": 14,
+   "was": 18,
+   "checked": "2026-11-27T13:40:00Z",
+   "added": "2026-11-27T13:40:00Z",
+   "note": "save £4; was-price shown on TGJones's own sale page (27 Nov)",
+   "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "secret-santa"
+   ]
+  },
+  {
+   "id": "tgjones-lego-speed-champions-ferrari-sf-24-f1-race-car-77242",
+   "title": "LEGO Speed Champions Ferrari SF-24 F1 Race Car 77242",
+   "retailer": "TGJones",
+   "url": "https://www.tgjonesonline.co.uk/product/lego-speed-champions-ferrari-sf-24-f1-race-car-77242/15675076",
+   "price": 18,
+   "was": 23,
+   "checked": "2026-11-27T13:40:00Z",
+   "added": "2026-11-27T13:40:00Z",
+   "note": "save £5; was-price shown on TGJones's own sale page (27 Nov)",
+   "category": "toys",
+   "for": [
+    "kids",
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "secret-santa",
+    "fathers-day"
+   ]
+  },
+  {
+   "id": "tgjones-lego-speed-champions-mclaren-f1-team-mcl38-race-car-77251",
+   "title": "LEGO Speed Champions McLaren F1 Team MCL38 Race Car 77251",
+   "retailer": "TGJones",
+   "url": "https://www.tgjonesonline.co.uk/product/lego-speed-champions-mclaren-f1-team-mcl38-race-car-77251/15675079",
+   "price": 18,
+   "was": 23,
+   "checked": "2026-11-27T13:40:00Z",
+   "added": "2026-11-27T13:40:00Z",
+   "note": "save £5; was-price shown on TGJones's own sale page (27 Nov)",
+   "category": "toys",
+   "for": [
+    "kids",
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "secret-santa",
+    "fathers-day"
+   ]
+  },
+  {
+   "id": "tgjones-lego-minecraft-the-armadillo-mine-expedition-21269",
+   "title": "LEGO Minecraft The Armadillo Mine Expedition 21269",
+   "retailer": "TGJones",
+   "url": "https://www.tgjonesonline.co.uk/product/lego-minecraft-the-armadillo-mine-expedition-21269/15675075",
+   "price": 20,
+   "was": 25,
+   "checked": "2026-11-27T13:40:00Z",
+   "added": "2026-11-27T13:40:00Z",
+   "note": "save £5; was-price shown on TGJones's own sale page (27 Nov)",
+   "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
+  },
+  {
+   "id": "tgjones-lego-creator-retro-telephone-31174",
+   "title": "LEGO Creator Retro Telephone 31174",
+   "retailer": "TGJones",
+   "url": "https://www.tgjonesonline.co.uk/product/lego-creator-retro-telephone-31174/15803258",
+   "price": 20,
+   "was": 25,
+   "checked": "2026-11-27T13:40:00Z",
+   "added": "2026-11-27T13:40:00Z",
+   "note": "save £5; was-price shown on TGJones's own sale page (27 Nov)",
+   "category": "toys",
+   "for": [
+    "kids",
+    "her",
+    "him"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday",
+    "secret-santa"
+   ]
+  },
+  {
+   "id": "tgjones-lego-harry-potter-hogwarts-castle-herbology-class-76445",
+   "title": "LEGO Harry Potter Hogwarts Castle: Herbology Class 76445",
+   "retailer": "TGJones",
+   "url": "https://www.tgjonesonline.co.uk/product/lego-harry-potter-hogwarts-castle-herbology-class-76445/15803235",
+   "price": 36,
+   "was": 45,
+   "checked": "2026-11-27T13:40:00Z",
+   "added": "2026-11-27T13:40:00Z",
+   "note": "save £9; was-price shown on TGJones's own sale page (27 Nov)",
+   "category": "toys",
+   "for": [
+    "kids"
+   ],
+   "occasions": [
+    "christmas",
+    "birthday"
+   ]
+  },
+  {
+   "id": "tgjones-lego-botanicals-wildflower-bouquet-10313",
+   "title": "LEGO Botanicals Wildflower Bouquet 10313",
+   "retailer": "TGJones",
+   "url": "https://www.tgjonesonline.co.uk/product/lego-botanicals-wildflower-bouquet-10313/15803227",
+   "price": 44,
+   "was": 55,
+   "checked": "2026-11-27T13:40:00Z",
+   "added": "2026-11-27T13:40:00Z",
+   "note": "save £11; was-price shown on TGJones's own sale page (27 Nov)",
+   "category": "toys",
+   "for": [
+    "her",
+    "home"
+   ],
+   "occasions": [
+    "christmas",
+    "mothers-day",
+    "valentines",
+    "birthday",
+    "thank-you"
    ]
   }
  ]
