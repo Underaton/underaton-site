@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:35:00Z",
+ "updated": "2026-11-28T12:30:00Z",
  "deals": {
   "dunelm-rainbow-blanket-hoodie": {
    "offers": [],
@@ -219,38 +219,6 @@
     "category": "sport"
    },
    "notes": "Nike page shows 4.9 stars from 20 reviews"
-  },
-  "nike-club-fleece-kids-pullover-hoodie-fd3000-010": {
-   "offers": [
-    {
-     "retailer": "Next",
-     "price": 38.0,
-     "url": "https://www.next.co.uk/style/su361912/d60242",
-     "inStock": null,
-     "note": "Nike Black Club Fleece Pullover Hoodie (big kids); Nike style code not shown on page",
-     "checked": "2026-11-23T12:00:00Z"
-    }
-   ],
-   "ratings": [
-    {
-     "source": "Nike",
-     "stars": 4.8,
-     "count": 643,
-     "url": "https://www.nike.com/gb/t/sportswear-club-fleece-older-pullover-hoodie-mhGfHn/FD3000-010"
-    }
-   ],
-   "checkedRetailers": [
-    "Next",
-    "Sports Direct",
-    "Foot Locker"
-   ],
-   "blocked": [
-    "Sports Direct"
-   ],
-   "similar": {
-    "category": "sport"
-   },
-   "notes": "Foot Locker page was the White/Black FD3000-100 at £43.99, not black"
   },
   "footlocker-nike-air-max-90-baby-black": {
    "offers": [
