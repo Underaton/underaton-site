@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:35:00Z",
+ "updated": "2026-11-28T06:35:00Z",
  "deals": {
   "dunelm-rainbow-blanket-hoodie": {
    "offers": [],
@@ -7,7 +7,7 @@
     {
      "source": "Dunelm",
      "stars": 4.7,
-     "count": 248,
+     "count": 251,
      "url": "https://www.dunelm.com/product/printed-rainbow-fleece-oversized-blanket-hoodie-1000203733"
     }
    ],
@@ -35,7 +35,7 @@
      "source": "Dunelm",
      "stars": 5.0,
      "count": 1,
-     "url": "https://dunelm.com/product/liberty-house-kids-arctic-play-tent-1000250223"
+     "url": "https://www.dunelm.com/product/liberty-house-kids-arctic-play-tent-1000250223"
     }
    ],
    "checkedRetailers": [
@@ -67,27 +67,6 @@
    },
    "notes": "M&S own-brand; not sold elsewhere"
   },
-  "nike-club-fleece-kids-sweatshirt-fd3006-100": {
-   "offers": [],
-   "ratings": [
-    {
-     "source": "Nike",
-     "stars": 4.6,
-     "count": 37,
-     "url": "https://www.nike.com/gb/t/sportswear-club-fleece-older-kids-sweatshirt-QDZ7KK/FD3006-100"
-    }
-   ],
-   "checkedRetailers": [
-    "Sports Direct",
-    "Foot Locker",
-    "JD Sports"
-   ],
-   "blocked": [],
-   "similar": {
-    "category": "sport"
-   },
-   "notes": "Sports Direct page only offered Black; Foot Locker only Midnight Navy (FD3006-410)"
-  },
   "dunelm-cosy-cotton-electric-blanket-single": {
    "offers": [],
    "ratings": [
@@ -95,7 +74,7 @@
      "source": "Dunelm",
      "stars": 4.4,
      "count": 59,
-     "url": "https://dunelm.com/product/cosy-cotton-electric-blanket-1000246448"
+     "url": "https://www.dunelm.com/product/cosy-cotton-electric-blanket-1000246448"
     }
    ],
    "checkedRetailers": [],
@@ -145,20 +124,20 @@
   "boots-davidoff-cool-water-edt-75ml": {
    "offers": [
     {
-     "retailer": "Superdrug",
-     "price": 25.0,
-     "url": "https://superdrug.com/fragrance/fragrance-for-him/mens-aftershave/davidoff-cool-water-man-eau-de-toilette-75ml/p/592758",
-     "inStock": false,
-     "checked": "2026-11-26T06:35:00Z",
-     "note": "No longer available online"
-    },
-    {
      "retailer": "LOOKFANTASTIC",
      "price": 30.0,
      "url": "https://lookfantastic.com/p/davidoff-cool-water-eau-de-toilette-75ml/11079879",
      "inStock": false,
      "checked": "2026-11-26T06:35:00Z",
      "note": "Sold out"
+    },
+    {
+     "retailer": "Superdrug",
+     "price": 25.0,
+     "url": "https://superdrug.com/p/592758",
+     "inStock": false,
+     "checked": "2026-11-28T06:35:00Z",
+     "note": "No longer available online"
     }
    ],
    "ratings": [],
@@ -178,14 +157,14 @@
      "price": 24.99,
      "url": "https://www.smythstoys.com/uk/p/255613",
      "inStock": null,
-     "checked": "2026-11-27T06:35:00Z"
+     "checked": "2026-11-28T06:35:00Z"
     },
     {
      "retailer": "Argos",
      "price": 60.0,
      "url": "https://www.argos.co.uk/product/8177131",
      "inStock": null,
-     "checked": "2026-11-27T06:35:00Z"
+     "checked": "2026-11-28T06:35:00Z"
     }
    ],
    "ratings": [
@@ -417,7 +396,7 @@
      "price": 34.99,
      "url": "https://www.argos.co.uk/product/8136921",
      "inStock": null,
-     "checked": "2026-11-27T06:35:00Z",
+     "checked": "2026-11-28T06:35:00Z",
      "note": "Argos shows was £69.99"
     }
    ],
@@ -429,16 +408,16 @@
      "url": "https://ao.com/product/ms6ca4150g-bosch-ergomixx-blender-white-100271-71.aspx"
     },
     {
-     "source": "Argos",
-     "stars": 4.8,
-     "count": 514,
-     "url": "https://www.argos.co.uk/product/8136921"
-    },
-    {
      "source": "John Lewis",
      "stars": 4.7,
      "count": 294,
      "url": "https://www.johnlewis.com/bosch-ms6ca4150g-ergomixx-800w-hand-blender-white/p4879244"
+    },
+    {
+     "source": "Argos",
+     "stars": 4.8,
+     "count": 520,
+     "url": "https://www.argos.co.uk/product/8136921"
     }
    ],
    "checkedRetailers": [
@@ -482,7 +461,7 @@
     {
      "source": "Dunelm",
      "stars": 4.2,
-     "count": 330,
+     "count": 335,
      "url": "https://www.dunelm.com/product/2-tier-heated-airer-1000197362"
     }
    ],
@@ -524,14 +503,6 @@
      "checked": "2026-11-25T06:32:51Z"
     },
     {
-     "retailer": "Superdrug",
-     "price": 89.0,
-     "url": "https://www.superdrug.com/p/218116",
-     "inStock": null,
-     "checked": "2026-11-26T06:35:00Z",
-     "note": "No longer available online"
-    },
-    {
      "retailer": "LOOKFANTASTIC",
      "price": 62.3,
      "url": "https://www.lookfantastic.com/p/hugo-boss-bottled-night-eau-de-toilette-100ml/11858217/",
@@ -545,6 +516,14 @@
      "inStock": null,
      "checked": "2026-11-27T06:35:00Z",
      "note": "Next shows was £84"
+    },
+    {
+     "retailer": "Superdrug",
+     "price": 89.0,
+     "url": "https://www.superdrug.com/p/218116",
+     "inStock": false,
+     "checked": "2026-11-28T06:35:00Z",
+     "note": "No longer available online"
     }
    ],
    "ratings": [],
@@ -617,14 +596,6 @@
   "boots-versace-dylan-blue-edt-100ml": {
    "offers": [
     {
-     "retailer": "Superdrug",
-     "price": 57.6,
-     "url": "https://www.superdrug.com/fragrance/fragrance-for-him/mens-aftershave/versace-dylan-blue-eau-de-toilette-100ml-vapo/p/711867",
-     "inStock": false,
-     "note": "No longer available online",
-     "checked": "2026-11-24T06:35:00Z"
-    },
-    {
      "retailer": "Next",
      "price": 78.0,
      "url": "https://www.next.co.uk/style/ls112323/r15998",
@@ -645,6 +616,21 @@
      "url": "https://www.lookfantastic.com/p/versace-dylan-blue-eau-de-toilette-100ml/11315783/",
      "inStock": true,
      "checked": "2026-11-27T06:35:00Z"
+    },
+    {
+     "retailer": "Argos",
+     "price": 76.0,
+     "url": "https://www.argos.co.uk/product/1308268",
+     "inStock": null,
+     "checked": "2026-11-28T06:35:00Z"
+    },
+    {
+     "retailer": "Superdrug",
+     "price": 45.0,
+     "url": "https://www.superdrug.com/fragrance/fragrance-for-him/mens-aftershave/versace-dylan-blue-eau-de-toilette-100ml-vapo/p/711867",
+     "inStock": false,
+     "checked": "2026-11-28T06:35:00Z",
+     "note": "No longer available online; collect from store only"
     }
    ],
    "ratings": [
@@ -659,7 +645,8 @@
     "Superdrug",
     "John Lewis",
     "Next",
-    "LOOKFANTASTIC"
+    "LOOKFANTASTIC",
+    "Argos"
    ],
    "blocked": [],
    "similar": {
@@ -673,7 +660,7 @@
      "source": "John Lewis",
      "stars": 4.0,
      "count": 20,
-     "url": "https://www.johnlewis.com/le-creuset-essentials-cast-iron-24cm-skinny-square-grill/p4209508"
+     "url": "https://www.johnlewis.com/le-creuset-essentials-cast-iron-24cm-skinny-square-grill/satin-black/p4209508"
     }
    ],
    "checkedRetailers": [
@@ -715,7 +702,7 @@
     {
      "source": "Dunelm",
      "stars": 4.3,
-     "count": 39,
+     "count": 40,
      "url": "https://www.dunelm.com/product/4-tier-heated-airer-1000273779"
     }
    ],
@@ -773,154 +760,6 @@
    "blocked": [],
    "notes": "John Lewis page showed no price in the part that loaded"
   },
-  "lf-ghd-bodyguard-120ml": {
-   "offers": [
-    {
-     "retailer": "John Lewis",
-     "price": 17.0,
-     "url": "https://www.johnlewis.com/ghd-bodyguard-heat-protect-spray-120ml/p2513523",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z"
-    },
-    {
-     "retailer": "Next",
-     "price": 17.5,
-     "url": "https://www.next.co.uk/style/su461132/af5127",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z",
-     "note": "Next shows was £24"
-    },
-    {
-     "retailer": "Boots",
-     "price": 23.95,
-     "url": "https://boots.com/ghd-bodyguard-heat-protect-spray-120ml-10360174",
-     "inStock": true,
-     "checked": "2026-11-25T06:32:51Z"
-    },
-    {
-     "retailer": "Cult Beauty",
-     "price": 25.0,
-     "url": "https://cultbeauty.co.uk/p/ghd-bodyguard-heat-protect-spray-120ml/11195523",
-     "inStock": true,
-     "checked": "2026-11-25T06:32:51Z"
-    }
-   ],
-   "ratings": [
-    {
-     "source": "John Lewis",
-     "stars": 4.6,
-     "count": 730,
-     "url": "https://www.johnlewis.com/ghd-bodyguard-heat-protect-spray-120ml/p2513523"
-    }
-   ],
-   "checkedRetailers": [
-    "John Lewis",
-    "Next",
-    "Boots",
-    "Cult Beauty"
-   ],
-   "blocked": [],
-   "similar": {
-    "category": "beauty"
-   }
-  },
-  "lf-ghd-mini-bodyguard-50ml": {
-   "offers": [
-    {
-     "retailer": "Next",
-     "price": 10.0,
-     "url": "https://www.next.co.uk/style/su461132/af5678",
-     "inStock": null,
-     "checked": "2026-11-25T06:32:51Z",
-     "note": "Next shows was £12.50"
-    },
-    {
-     "retailer": "Cult Beauty",
-     "price": 12.5,
-     "url": "https://cultbeauty.co.uk/p/ghd-mini-bodyguard-heat-protect-spray-50ml/13052047",
-     "inStock": true,
-     "checked": "2026-11-25T06:32:51Z"
-    }
-   ],
-   "ratings": [],
-   "checkedRetailers": [
-    "Next",
-    "Cult Beauty"
-   ],
-   "blocked": [],
-   "similar": {
-    "category": "beauty"
-   }
-  },
-  "lf-lancome-la-vie-est-belle-edp-50ml": {
-   "offers": [
-    {
-     "retailer": "Boots",
-     "price": 77.6,
-     "url": "https://boots.com/lancome-la-vie-est-belle-eau-de-parfum-50ml-10145849",
-     "inStock": true,
-     "checked": "2026-11-27T06:35:00Z",
-     "note": "Boots shows was £97"
-    }
-   ],
-   "ratings": [],
-   "checkedRetailers": [
-    "Boots"
-   ],
-   "blocked": [],
-   "similar": {
-    "category": "beauty"
-   }
-  },
-  "lf-rabanne-1-million-edt-100ml": {
-   "offers": [
-    {
-     "retailer": "Boots",
-     "price": 76.5,
-     "url": "https://boots.com/christmas-weekly-offers/paco-rabanne-1-million-eau-de-toilette-100ml-10079408",
-     "inStock": true,
-     "checked": "2026-11-25T06:32:51Z",
-     "note": "Boots shows was £90"
-    }
-   ],
-   "ratings": [],
-   "checkedRetailers": [
-    "Boots"
-   ],
-   "blocked": [],
-   "similar": {
-    "category": "beauty"
-   }
-  },
-  "lf-laneige-bouncy-firm-sleeping-mask-60ml": {
-   "offers": [
-    {
-     "retailer": "Cult Beauty",
-     "price": 22.4,
-     "url": "https://www.cultbeauty.co.uk/p/laneige-bouncy-and-firm-sleeping-mask-60ml/14979950",
-     "inStock": true,
-     "checked": "2026-11-25T06:32:51Z"
-    },
-    {
-     "retailer": "Boots",
-     "price": 24.0,
-     "url": "https://boots.com/laneige-bouncy-and-firm-sleeping-mask-60ml-10348269",
-     "inStock": true,
-     "checked": "2026-11-25T06:32:51Z",
-     "note": "Boots shows was £32"
-    }
-   ],
-   "ratings": [],
-   "checkedRetailers": [
-    "Cult Beauty",
-    "Boots"
-   ],
-   "blocked": [],
-   "similar": {
-    "category": "beauty"
-   },
-   "notes": "Sephora page showed the 25ml size selected, not recorded"
-  },
   "sephora-dior-addict-lip-glow-oil": {
    "offers": [],
    "ratings": [
@@ -943,7 +782,7 @@
     {
      "source": "Argos",
      "stars": 4.8,
-     "count": 172,
+     "count": 173,
      "url": "https://www.argos.co.uk/product/4077792"
     }
    ],
@@ -1094,6 +933,12 @@
      "stars": 4.5,
      "count": 14,
      "url": "https://www.smythstoys.com/uk/en-gb/toys/fashion-and-dolls/clickeez/clickeez-clickable-bubble-pops-keyboard-mega-pack/p/259351"
+    },
+    {
+     "source": "Argos",
+     "stars": 5.0,
+     "count": 1,
+     "url": "https://www.argos.co.uk/product/9130263"
     }
    ],
    "checkedRetailers": [
@@ -1143,7 +988,7 @@
      "source": "Argos",
      "stars": 4.8,
      "count": 83,
-     "url": "https://argos.co.uk/product/4466341"
+     "url": "https://www.argos.co.uk/product/4466341"
     }
    ],
    "checkedRetailers": [
@@ -1243,7 +1088,7 @@
     {
      "source": "Argos",
      "stars": 5.0,
-     "count": 2,
+     "count": 3,
      "url": "https://www.argos.co.uk/product/8788111"
     }
    ],
@@ -1270,8 +1115,7 @@
      "price": 37.1,
      "url": "https://www.argos.co.uk/product/4499899",
      "inStock": null,
-     "checked": "2026-11-27T06:35:00Z",
-     "note": "Argos shows was £49.50"
+     "checked": "2026-11-28T06:35:00Z"
     }
    ],
    "ratings": [],
@@ -1282,90 +1126,6 @@
    "similar": {
     "category": "gaming"
    }
-  },
-  "lf-gucci-flora-gorgeous-jasmine-edp-50ml": {
-   "offers": [
-    {
-     "retailer": "The Perfume Shop",
-     "price": 84.0,
-     "url": "https://theperfumeshop.com/p/1273251",
-     "inStock": null,
-     "checked": "2026-11-27T06:35:00Z",
-     "note": "The Perfume Shop shows RRP £105"
-    },
-    {
-     "retailer": "Boots",
-     "price": 95.0,
-     "url": "https://boots.com/gucci-flora-gorgeous-jasmine-for-her-eau-de-parfum-50ml-10316886",
-     "inStock": false,
-     "checked": "2026-11-27T06:35:00Z",
-     "note": "Stock coming soon online"
-    }
-   ],
-   "ratings": [],
-   "checkedRetailers": [
-    "The Perfume Shop",
-    "Boots"
-   ],
-   "blocked": []
-  },
-  "lf-givenchy-gentleman-reserve-privee-edp-100ml": {
-   "offers": [
-    {
-     "retailer": "Boots",
-     "price": 75.75,
-     "url": "https://boots.com/givenchy-gentleman-reserve-privee-eau-de-parfum-100ml-10311260",
-     "inStock": false,
-     "checked": "2026-11-27T06:35:00Z",
-     "note": "Boots shows was £101; stock coming soon online"
-    }
-   ],
-   "ratings": [],
-   "checkedRetailers": [
-    "Boots"
-   ],
-   "blocked": []
-  },
-  "lf-prada-paradoxe-edp-30ml": {
-   "offers": [
-    {
-     "retailer": "Sephora",
-     "price": 56.25,
-     "url": "https://www.sephora.co.uk/p/Prada-Paradoxe-Eau-de-Parfum-30ml",
-     "inStock": null,
-     "checked": "2026-11-27T06:35:00Z",
-     "note": "Sephora shows was £75"
-    },
-    {
-     "retailer": "Superdrug",
-     "price": 60.0,
-     "url": "https://www.superdrug.com/p/822118",
-     "inStock": null,
-     "checked": "2026-11-27T06:35:00Z",
-     "note": "Page says no longer available online"
-    },
-    {
-     "retailer": "Boots",
-     "price": 72.0,
-     "url": "https://boots.com/prada-paradoxe-eau-de-parfum-30ml-10317216",
-     "inStock": true,
-     "checked": "2026-11-27T06:35:00Z"
-    }
-   ],
-   "ratings": [
-    {
-     "source": "Sephora",
-     "stars": 4.75,
-     "count": 9796,
-     "url": "https://www.sephora.co.uk/p/Prada-Paradoxe-Eau-de-Parfum-30ml"
-    }
-   ],
-   "checkedRetailers": [
-    "Sephora",
-    "Superdrug",
-    "Boots"
-   ],
-   "blocked": []
   },
   "argos-starts-with-ends-with-game": {
    "offers": [],
@@ -1380,21 +1140,63 @@
    "checkedRetailers": [],
    "blocked": []
   },
-  "lf-fenty-body-mist-vanilla-flowers-75ml": {
-   "offers": [],
-   "ratings": [],
-   "checkedRetailers": [
-    "Cult Beauty",
-    "John Lewis"
-   ],
-   "blocked": [],
-   "notes": "Cult Beauty and John Lewis pages did not show this 75ml price"
-  },
   "dunelm-liberty-house-toys-floor-rocker": {
    "offers": [],
    "ratings": [],
    "checkedRetailers": [],
    "blocked": []
+  },
+  "nike-air-max-nova-older-kids-fn4446-002": {
+   "offers": [],
+   "ratings": [
+    {
+     "source": "Nike",
+     "stars": 4.5,
+     "count": 66,
+     "url": "https://www.nike.com/gb/t/air-max-nova-older-shoes-TjVvK4zh/FN4446-002"
+    }
+   ],
+   "checkedRetailers": [],
+   "blocked": []
+  },
+  "nike-vomero-5-younger-kids-im9465-001": {
+   "offers": [],
+   "ratings": [
+    {
+     "source": "Nike",
+     "stars": 4.8,
+     "count": 24,
+     "url": "https://www.nike.com/gb/t/vomero-5-younger-shoes-with-reflective-design-accents-zZ45liQM/IM9465-001"
+    }
+   ],
+   "checkedRetailers": [],
+   "blocked": []
+  },
+  "footlocker-nike-air-max-90-men-black": {
+   "offers": [
+    {
+     "retailer": "Nike",
+     "price": 134.99,
+     "url": "https://www.nike.com/gb/t/air-max-90-shoe-dlXJdc/CN8490-003",
+     "inStock": null,
+     "checked": "2026-11-28T06:35:00Z"
+    }
+   ],
+   "ratings": [
+    {
+     "source": "Nike",
+     "stars": 4.6,
+     "count": 510,
+     "url": "https://www.nike.com/gb/t/air-max-90-shoe-dlXJdc/CN8490-003"
+    }
+   ],
+   "checkedRetailers": [
+    "Nike"
+   ],
+   "blocked": [],
+   "similar": {
+    "category": "sport"
+   }
   }
  }
 }
